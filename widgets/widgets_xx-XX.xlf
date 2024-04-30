@@ -1962,6 +1962,24 @@
         <target>言Continue語</target>
       </segment>
     </unit>
+    <unit id="br-ext.br-ext:Topbar_privacy_policy_label" translate="no">
+      <notes>
+      <note id="context">Label that is displayed for Privacy Policy</note>
+    </notes>
+      <segment >
+        <source>Privacy Policy</source>
+        <target>言Privacy Policy語</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Topbar_terms_of_service" translate="no">
+      <notes>
+      <note id="context">Label that is displayed for Terms of Service</note>
+    </notes>
+      <segment >
+        <source>Terms of Service</source>
+        <target>言Terms of Service語</target>
+      </segment>
+    </unit>
     <!-- File::widgets:: NewWords: 0, NewStrings: 0 -->
   </file>
   <file id="widgets:br-ext.common" original="packages/widgets/br-ext/labels/common.yaml" translate="no">
@@ -4008,6 +4026,15 @@
         <target>言Digital copy of the skills or knowledge gained by completing a course語</target>
       </segment>
     </unit>
+    <unit id="teams.common:allMandatoryQuestions" translate="no">
+      <notes>
+      <note id="context">This text is used as a label mandatory policy in quiz smart cards.</note>
+    </notes>
+      <segment >
+        <source>All questions are mandatory</source>
+        <target>言All questions are mandatory語</target>
+      </segment>
+    </unit>
     <!-- File::widgets:: NewWords: 0, NewStrings: 0 -->
   </file>
   <file id="widgets:teams.teams" original="packages/widgets/teams/labels/teams.yaml" translate="no">
@@ -4392,6 +4419,24 @@
         <target>言Please tick the checkbox if you want to proceed語</target>
       </segment>
     </unit>
+    <unit id="teams.teams:Cards_addToPathways" translate="no">
+      <notes>
+      <note id="context">Title for adding content to Pathway(s)</note>
+    </notes>
+      <segment >
+        <source>Add to pathway(s)</source>
+        <target>言Add to pathway(s)語</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_assignCardSuccessMessage" translate="no">
+      <notes>
+      <note id="context">Toast message to user that they a successfully assigned the card.</note>
+    </notes>
+      <segment >
+        <source>You have assigned this {{readableCardTypeLabel}} successfully.</source>
+        <target>言You have assigned this {{readableCardTypeLabel}} successfully.語</target>
+      </segment>
+    </unit>
     <unit id="teams.teams:Cards_buyContentOnWeb" translate="no">
       <notes>
       <note id="context">This text is used as a label for the Buy Now button</note>
@@ -4741,15 +4786,6 @@
       <segment >
         <source>Allow the user to answer this Quiz again</source>
         <target>言Allow the user to answer this Quiz again語</target>
-      </segment>
-    </unit>
-    <unit id="teams.teams:Cards_allMandatoryQuestions" translate="no">
-      <notes>
-      <note id="context">This text is used as a label mandatory policy in quiz smart cards.</note>
-    </notes>
-      <segment >
-        <source>All questions are mandatory</source>
-        <target>言All questions are mandatory語</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_mandatoryPolicy" translate="no">
@@ -7065,6 +7101,15 @@
         <target>言Search Individuals語</target>
       </segment>
     </unit>
+    <unit id="teams.teams:SmartCardDetailView_openContentLabel" translate="no">
+      <notes>
+      <note id="context">Message to user in case of issue with viewing inline content</note>
+    </notes>
+      <segment >
+        <source>If you have trouble viewing the content, please click on &quot;Open Content&quot; above</source>
+        <target>言If you have trouble viewing the content, please click on &quot;Open Content&quot; above語</target>
+      </segment>
+    </unit>
     <unit id="teams.teams:SmartCardDetailView_accessDenied" translate="no">
       <notes>
       <note id="context">Text that denotes that the content won&apos;t be accessible</note>
@@ -7612,6 +7657,24 @@
       <segment >
         <source>URL Submission</source>
         <target>言URL Submission語</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:ContextMenu_removeFromFeatured" translate="no">
+      <notes>
+      <note id="context">Label for Remove from Featured button</note>
+    </notes>
+      <segment >
+        <source>Remove from Featured</source>
+        <target>言Remove from Featured語</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:ContextMenu_addToFeatured" translate="no">
+      <notes>
+      <note id="context">Add to Feature button</note>
+    </notes>
+      <segment >
+        <source>Add to Featured</source>
+        <target>言Add to Featured語</target>
       </segment>
     </unit>
     <unit id="teams.teams:ContextMenu_addToJourney" translate="no">
@@ -8352,6 +8415,24 @@
         <target>言I think the content is outdated語</target>
       </segment>
     </unit>
+    <unit id="teams.teams:TopNav_termsOfServiceLabel" translate="no">
+      <notes>
+      <note id="context">Terms of Service label</note>
+    </notes>
+      <segment >
+        <source>Terms of Service</source>
+        <target>言Terms of Service語</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:TopNav_privacyPolicyLabel" translate="no">
+      <notes>
+      <note id="context">Privacy Policy label</note>
+    </notes>
+      <segment >
+        <source>Privacy Policy</source>
+        <target>言Privacy Policy語</target>
+      </segment>
+    </unit>
     <unit id="teams.teams:TopNav_skillsDirectory" translate="no">
       <notes>
       <note id="context">The Label text for the skills directory tab in the Top NavBar</note>
@@ -8593,6 +8674,24 @@
       <segment >
         <source>cancel</source>
         <target>言cancel語</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Groups_groupFeatureContentAdded" translate="no">
+      <notes>
+      <note id="context">Message to the user when content was added to featured content successfully.</note>
+    </notes>
+      <segment >
+        <source>Card has been successfully added to featured content section.</source>
+        <target>言Card has been successfully added to featured content section.語</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Groups_groupFeatureContentRemoved" translate="no">
+      <notes>
+      <note id="context">Message to the user when removal of featured content was successful.</note>
+    </notes>
+      <segment >
+        <source>Card has been successfully removed from featured content section.</source>
+        <target>言Card has been successfully removed from featured content section.語</target>
       </segment>
     </unit>
     <unit id="teams.teams:Groups_allGroups" translate="no">
