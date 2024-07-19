@@ -2175,7 +2175,7 @@
     </notes>
       <segment >
         <source>Card Insights</source>
-        <target>Card Insights</target>
+        <target>Cardinzichten</target>
       </segment>
     </unit>
     <unit id="br-ext.br-ext:ContextMenu_dismissAssignment" translate="no">
@@ -8475,7 +8475,7 @@
     </notes>
       <segment >
         <source>Card Insights</source>
-        <target>Card Insights</target>
+        <target>Cardinzichten</target>
       </segment>
     </unit>
     <unit id="teams.teams:ContextMenu_dismissAssignment" translate="no">
