@@ -4566,6 +4566,15 @@
         <target>View Attendees</target>
       </segment>
     </unit>
+    <unit id="teams.common:less" translate="no">
+      <notes>
+      <note id="context">The Label text for Minimising More options tab</note>
+    </notes>
+      <segment >
+        <source>Less</source>
+        <target>Less</target>
+      </segment>
+    </unit>
     <!-- File::widgets:: NewWords: 0, NewStrings: 0 -->
   </file>
   <file id="widgets:teams.teams" original="packages/widgets/teams/labels/teams.yaml" translate="no">
@@ -7871,8 +7880,8 @@
       <note id="context">Approval is yet to be approved by the approver</note>
     </notes>
       <segment >
-        <source>Pending Approval</source>
-        <target>Pending Approval</target>
+        <source>Pending approval</source>
+        <target>Pending approval</target>
       </segment>
     </unit>
     <unit id="teams.teams:SmartCardDetailView_registerForDetails" translate="no">
@@ -9180,15 +9189,6 @@
         <target>Skills Directory</target>
       </segment>
     </unit>
-    <unit id="teams.teams:TopNav_less" translate="no">
-      <notes>
-      <note id="context">The Label text for Minimising More options tab in Top NavBar</note>
-    </notes>
-      <segment >
-        <source>Less</source>
-        <target>Less</target>
-      </segment>
-    </unit>
     <unit id="teams.teams:TopNav_selectLanguage" translate="no">
       <notes>
       <note id="context">Label text for application language dropdown on the side drawer</note>
@@ -10213,6 +10213,105 @@
       <segment >
         <source>Select: Skill Name</source>
         <target>Select: Skill Name</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:ManagerDashboard_teamSkillsTableTitleTooltip" translate="no">
+      <notes>
+      <note id="context">Informative text to indicate more information about the Skills section of the table.</note>
+    </notes>
+      <segment >
+        <source>List of all the skills your team has and levels in those skills. You can also recommend them to get up skilled i.e. increase the level of the skill</source>
+        <target>List of all the skills your team has and levels in those skills. You can also recommend them to get up skilled i.e. increase the level of the skill</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:ManagerDashboard_tableTitleTooltipCompletedDescription" translate="no">
+      <notes>
+      <note id="context">Informative text to indicate more information about the count of people who completed that specific content item.</note>
+    </notes>
+      <segment >
+        <source>Completed: Number of people who have completed the content</source>
+        <target>Completed: Number of people who have completed the content</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:ManagerDashboard_tableTitleTooltipOverdueDescription" translate="no">
+      <notes>
+      <note id="context">Informative text to indicate more information about the Overdue section of the table.</note>
+    </notes>
+      <segment >
+        <source>Overdue: Number of people for whom the content completion due date is in past</source>
+        <target>Overdue: Number of people for whom the content completion due date is in past</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:ManagerDashboard_tableTitleTooltipDueIn2WeeksDescription" translate="no">
+      <notes>
+      <note id="context">Informative text to indicate more information about the content that is due within the next 2 weeks section of the table.</note>
+    </notes>
+      <segment >
+        <source>Due In 2 weeks: Number of people for whom the content completion due date is in next two weeks</source>
+        <target>Due In 2 weeks: Number of people for whom the content completion due date is in next two weeks</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:ManagerDashboard_tableTitleTooltipNotStartedDescription" translate="no">
+      <notes>
+      <note id="context">Informative text to indicate more information about the Not Started section of the table.</note>
+    </notes>
+      <segment >
+        <source>Not Started: Number of people who have not started consuming the content</source>
+        <target>Not Started: Number of people who have not started consuming the content</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:ManagerDashboard_tableTitleTooltipAssignedToDescription" translate="no">
+      <notes>
+      <note id="context">Informative text to indicate more information about the Assigned To section of the table.</note>
+    </notes>
+      <segment >
+        <source>Assigned to: Number of people the content is assigned to</source>
+        <target>Assigned to: Number of people the content is assigned to</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:ManagerDashboard_tableTitleTooltipDescription" translate="no">
+      <notes>
+      <note id="context">Informative text to indicate more information about the info table.</note>
+    </notes>
+      <segment >
+        <source>Shows all content assigned to your team</source>
+        <target>Shows all content assigned to your team</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:ManagerDashboard_allCompleted" translate="no">
+      <notes>
+      <note id="context">Informative text to indicate that all content has been completed.</note>
+    </notes>
+      <segment >
+        <source>All Completed</source>
+        <target>All Completed</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:ManagerDashboard_lastSent" translate="no">
+      <notes>
+      <note id="context">Informative text to indicate when reminder was sent.</note>
+    </notes>
+      <segment >
+        <source>Last Sent</source>
+        <target>Last Sent</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:ManagerDashboard_dueDateRange" translate="no">
+      <notes>
+      <note id="context">Informative text to indicate a date picker filter to choose a date range.</note>
+    </notes>
+      <segment >
+        <source>Due Date Range</source>
+        <target>Due Date Range</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:ManagerDashboard_searchContent" translate="no">
+      <notes>
+      <note id="context">Placeholder label for text input field to search for content.</note>
+    </notes>
+      <segment >
+        <source>Search Content</source>
+        <target>Search Content</target>
       </segment>
     </unit>
     <unit id="teams.teams:ManagerDashboard_allTime" translate="no">
