@@ -1635,7 +1635,7 @@
     </notes>
       <segment >
         <source>Add to Journey(s)</source>
-        <target>Journey'(ler)e Ekle</target>
+        <target>Journey(s)'e Ekle</target>
       </segment>
     </unit>
     <unit id="br-ext.br-ext:Cards_noJourneyFoundString" translate="yes">
@@ -1644,7 +1644,7 @@
     </notes>
       <segment >
         <source>No Journey found!</source>
-        <target>Yolculuk bulunamadı!</target>
+        <target>Journey bulunamadı!</target>
       </segment>
     </unit>
     <unit id="br-ext.br-ext:Cards_addedToJourney" translate="yes">
@@ -1887,7 +1887,7 @@
     </notes>
       <segment >
         <source>Journey title</source>
-        <target>Yolculuk başlığı</target>
+        <target>Journey başlığı</target>
       </segment>
     </unit>
     <unit id="br-ext.br-ext:AddToJourneyModal_sectionsLabelText" translate="yes">
@@ -2595,7 +2595,7 @@
     </notes>
       <segment >
         <source>This is a locked content. Please complete the associated content in the pathway to unlock this card.</source>
-        <target>Bu, kilitli bir içeriktir. Bu kartın kilidini açmak için lütfen yoldaki ilgili içeriği tamamlayın.</target>
+        <target>Bu, kilitli bir içeriktir. Bu kartın kilidini açmak için lütfen pathway'deki ilgili içeriği tamamlayın.</target>
       </segment>
     </unit>
     <unit id="br-ext.common:userPassedLabel" translate="yes">
@@ -2694,7 +2694,7 @@
     </notes>
       <segment >
         <source>Pathways</source>
-        <target>Pathway'ler</target>
+        <target>Pathways</target>
       </segment>
     </unit>
     <unit id="br-ext.common:pathwaySingularLabel" translate="yes">
@@ -2721,7 +2721,7 @@
     </notes>
       <segment >
         <source>SmartCards</source>
-        <target>SmartCard'lar</target>
+        <target>SmartCards</target>
       </segment>
     </unit>
     <unit id="br-ext.common:userResultLabel" translate="yes">
@@ -3420,7 +3420,7 @@
     </notes>
       <segment >
         <source>This is a locked content. Please complete the associated content in the pathway to unlock this card.</source>
-        <target>Bu, kilitli bir içeriktir. Bu kartın kilidini açmak için lütfen yoldaki ilgili içeriği tamamlayın.</target>
+        <target>Bu, kilitli bir içeriktir. Bu kartın kilidini açmak için lütfen pathway'deki ilgili içeriği tamamlayın.</target>
       </segment>
     </unit>
     <unit id="teams.common:paymentAlert" translate="yes">
@@ -3933,7 +3933,7 @@
     </notes>
       <segment >
         <source>SmartCards</source>
-        <target>SmartCard'lar</target>
+        <target>SmartCards</target>
       </segment>
     </unit>
     <unit id="teams.common:about" translate="yes">
@@ -4338,7 +4338,7 @@
     </notes>
       <segment >
         <source>Pathways</source>
-        <target>Pathway'ler</target>
+        <target>Pathways</target>
       </segment>
     </unit>
     <unit id="teams.common:badgeTextLabel" translate="yes">
@@ -6270,7 +6270,7 @@
     </notes>
       <segment >
         <source>No Pathways Found</source>
-        <target>Pathway Bulunamadı</target>
+        <target>Pathways Bulunamadı</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_addedToPathway" translate="yes">
@@ -6297,7 +6297,7 @@
     </notes>
       <segment >
         <source>Add to Journey(s)</source>
-        <target>Journey'(ler)e Ekle</target>
+        <target>Journey(s)'e Ekle</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_noJourneyFoundString" translate="yes">
@@ -6306,7 +6306,7 @@
     </notes>
       <segment >
         <source>No Journey found!</source>
-        <target>Yolculuk bulunamadı!</target>
+        <target>Journey bulunamadı!</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_assignContentTo" translate="yes">
@@ -6729,7 +6729,7 @@
     </notes>
       <segment >
         <source>Journey title</source>
-        <target>Yolculuk başlığı</target>
+        <target>Journey başlığı</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_sections" translate="yes">
@@ -7125,7 +7125,7 @@
     </notes>
       <segment >
         <source>All the SmartCards needs to be completed first</source>
-        <target>Önce tüm SmartCard'ların tamamlanması gerekiyor</target>
+        <target>Önce tüm SmartCards'ın tamamlanması gerekiyor</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_unspecifiedLabel" translate="yes">
@@ -8952,7 +8952,7 @@
     </notes>
       <segment >
         <source>Start your learning journey by finding content to consume</source>
-        <target>Eğitim yolculuğunuza kullanılacak içeriği bularak başlayın</target>
+        <target>Eğitim journey'inizde kullanılacak içeriği bularak başlayın</target>
       </segment>
     </unit>
     <unit id="teams.teams:MyActivity_openLearningPlan" translate="yes">
@@ -11067,7 +11067,7 @@
     </notes>
       <segment >
         <source>pathways</source>
-        <target>pathway'ler</target>
+        <target>pathways</target>
       </segment>
     </unit>
     <unit id="teams.teams:MiniCard_pathwaySingularLabel" translate="yes">
@@ -11319,7 +11319,7 @@
     </notes>
       <segment >
         <source>Skills that you have acquired during your learning journey</source>
-        <target>Eğitim yolculuğunuz sırasında edindiğiniz beceriler</target>
+        <target>Eğitim journey'iniz sırasında edindiğiniz beceriler</target>
       </segment>
     </unit>
     <unit id="teams.teams:SkillPasportTab_assessments" translate="yes">

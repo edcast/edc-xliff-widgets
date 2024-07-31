@@ -330,7 +330,7 @@
     </notes>
       <segment >
         <source>Select Channels, Groups, and/or Individuals you would like to share this SmartCard with upon creation</source>
-        <target>Välj kanaler, grupper och/eller individer som du vill dela smartkortet med när det skapas</target>
+        <target>Välj kanaler, grupper och/eller individer som du vill dela detta SmartCard med när det skapas</target>
       </segment>
     </unit>
     <unit id="br-ext.br-ext:CreateCard_followers" translate="yes">
@@ -1644,7 +1644,7 @@
     </notes>
       <segment >
         <source>No Journey found!</source>
-        <target>Ingen resa hittades!</target>
+        <target>Ingen Journey hittades!</target>
       </segment>
     </unit>
     <unit id="br-ext.br-ext:Cards_addedToJourney" translate="yes">
@@ -5964,7 +5964,7 @@
     </notes>
       <segment >
         <source>This name will be displayed in the smartcard instead of yours</source>
-        <target>Det här namnet visas på smartkortet i stället för ditt</target>
+        <target>Det här namnet visas på detta smartcard i stället för ditt</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_providerLogo" translate="yes">
