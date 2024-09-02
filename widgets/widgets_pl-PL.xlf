@@ -315,7 +315,7 @@
         <target>Utwórz</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:CreateCard_shareThisSmartcard" translate="no">
+    <unit id="br-ext.br-ext:CreateCard_shareThisSmartcard" translate="yes">
       <notes>
       <note id="context">Action/Button text for Sharing the smartcard with users, groups or channels</note>
     </notes>
@@ -324,13 +324,13 @@
         <target>Udostępnij ten materiał</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:CreateCard_shareDetailMessage" translate="no">
+    <unit id="br-ext.br-ext:CreateCard_shareDetailMessage" translate="yes">
       <notes>
       <note id="context">Help text for sharing the smartcard while creating it</note>
     </notes>
       <segment >
         <source>Select Channels, Groups, and/or Individuals you would like to share this SmartCard with upon creation</source>
-        <target>Wybierz kanały, grupy i/lub osoby, którym chcesz udostępnić tę kartę SmartCard po utworzeniu</target>
+        <target>Wybierz kanały, grupy i/lub osoby, którym chcesz udostępnić ten materiał po utworzeniu</target>
       </segment>
     </unit>
     <unit id="br-ext.br-ext:CreateCard_followers" translate="no">
@@ -423,13 +423,13 @@
         <target>Nie znaleziono rekordów</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:CreateCard_smartcardAlreadyExist" translate="no">
+    <unit id="br-ext.br-ext:CreateCard_smartcardAlreadyExist" translate="yes">
       <notes>
       <note id="context">Error text to show if already the smartcard with the same content exists</note>
     </notes>
       <segment >
         <source>You can not create a SmartCard with this URL as the following content already exists</source>
-        <target>Nie możesz utworzyć karty SmartCard z tym adresem URL, ponieważ istnieje już następująca zawartość</target>
+        <target>Nie możesz utworzyć materiału z tym adresem URL, ponieważ istnieje już następująca zawartość</target>
       </segment>
     </unit>
     <unit id="br-ext.br-ext:CreateCard_successMessage" translate="no">
@@ -585,7 +585,7 @@
         <target>Opcjonalne</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:CreateCard_descriptionInfo" translate="no">
+    <unit id="br-ext.br-ext:CreateCard_descriptionInfo" translate="yes">
       <notes>
       <note id="context">Validation text for empty smartcard description</note>
     </notes>
@@ -819,7 +819,7 @@
         <target>Ustawienia prywatności</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:CreateCard_privacySubtitle" translate="no">
+    <unit id="br-ext.br-ext:CreateCard_privacySubtitle" translate="yes">
       <notes>
       <note id="context">Hint text for the level of access</note>
     </notes>
@@ -828,22 +828,22 @@
         <target>Określ poziom dostępu dla tego materiału.</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:CreateCard_privateInfoText" translate="no">
+    <unit id="br-ext.br-ext:CreateCard_privateInfoText" translate="yes">
       <notes>
       <note id="context">Hint text about sharing the smartcard</note>
     </notes>
       <segment >
         <source>Viewing this SmartCard is restricted to users who you have shared it. Sharing a SmartCard can be done directly, or indirectly, via a Group, or Channel, that the users belong to.</source>
-        <target>Oglądanie tego materiału jest ograniczone do użytkowników, którym go udostępniono. Udostępnianie karty SmartCard może odbywać się bezpośrednio lub pośrednio, poprzez grupę lub kanał, do którego należą użytkownicy.</target>
+        <target>Oglądanie tego materiału jest ograniczone do użytkowników, którym go udostępniono. Udostępnianie materiału może odbywać się bezpośrednio lub pośrednio, poprzez grupę lub kanał, do którego należą użytkownicy.</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:CreateCard_publicInfoText" translate="no">
+    <unit id="br-ext.br-ext:CreateCard_publicInfoText" translate="yes">
       <notes>
       <note id="context">Hint text about the visibility of the smart card</note>
     </notes>
       <segment >
         <source>Anyone can view this SmartCard.</source>
-        <target>Każdy może przeglądać tę kartę SmartCard.</target>
+        <target>Każdy może przeglądać ten materiał.</target>
       </segment>
     </unit>
     <unit id="br-ext.br-ext:CreateCard_restrictTo" translate="no">
@@ -1044,7 +1044,7 @@
         <target>Podróż</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_article" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_article" translate="no">
       <notes>
       <note id="context">Label indicating the content type is an article.</note>
     </notes>
@@ -1053,7 +1053,7 @@
         <target>Artykuł</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_assessment" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_assessment" translate="no">
       <notes>
       <note id="context">Label indicating the content type is an assessment.</note>
     </notes>
@@ -1062,7 +1062,7 @@
         <target>Ocena</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_audio" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_audio" translate="no">
       <notes>
       <note id="context">Label indicating the content type is an audio file.</note>
     </notes>
@@ -1071,7 +1071,7 @@
         <target>Dźwięk</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_audioBook" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_audioBook" translate="no">
       <notes>
       <note id="context">Label indicating the content type is an audiobook.</note>
     </notes>
@@ -1080,7 +1080,7 @@
         <target>Audiobook</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_blog" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_blog" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a blog post.</note>
     </notes>
@@ -1089,7 +1089,7 @@
         <target>Blog</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_classroom" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_classroom" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a classroom-based learning module.</note>
     </notes>
@@ -1098,7 +1098,7 @@
         <target>Sala wykładowa</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_course" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_course" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a course.</note>
     </notes>
@@ -1107,7 +1107,7 @@
         <target>Kurs</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_curriculum" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_curriculum" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a curriculum.</note>
     </notes>
@@ -1116,7 +1116,7 @@
         <target>Program</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_dataAndAnalytics" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_dataAndAnalytics" translate="no">
       <notes>
       <note id="context">Label indicating the content type is related to data and analytics.</note>
     </notes>
@@ -1125,7 +1125,7 @@
         <target>Dane i analityka</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_document" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_document" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a document.</note>
     </notes>
@@ -1134,7 +1134,7 @@
         <target>Dokument</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_eBook" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_eBook" translate="no">
       <notes>
       <note id="context">Label indicating the content type is an e-book.</note>
     </notes>
@@ -1143,7 +1143,7 @@
         <target>E-book</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_Infographic" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_Infographic" translate="no">
       <notes>
       <note id="context">Label indicating the content type is an infographic.</note>
     </notes>
@@ -1152,7 +1152,7 @@
         <target>Infografika</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_liveEvent" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_liveEvent" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a live event.</note>
     </notes>
@@ -1161,7 +1161,7 @@
         <target>Zdarzenie na żywo</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_MyGuide" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_MyGuide" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a guide.</note>
     </notes>
@@ -1170,7 +1170,7 @@
         <target>MyGuide</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_news" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_news" translate="no">
       <notes>
       <note id="context">Label indicating the content type is news.</note>
     </notes>
@@ -1179,7 +1179,7 @@
         <target>Wiadomości</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_other" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_other" translate="no">
       <notes>
       <note id="context">Label indicating the content type is uncategorized or other.</note>
     </notes>
@@ -1188,7 +1188,7 @@
         <target>Inne</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_podcast" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_podcast" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a podcast.</note>
     </notes>
@@ -1197,7 +1197,7 @@
         <target>Podcast</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_poll" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_poll" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a poll.</note>
     </notes>
@@ -1206,7 +1206,7 @@
         <target>Ankieta</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_project" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_project" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a project.</note>
     </notes>
@@ -1215,7 +1215,7 @@
         <target>Projekt</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_quiz" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_quiz" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a quiz.</note>
     </notes>
@@ -1224,7 +1224,7 @@
         <target>Quiz</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_research" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_research" translate="no">
       <notes>
       <note id="context">Label indicating the content type is research material.</note>
     </notes>
@@ -1233,7 +1233,7 @@
         <target>Badania</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_slides" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_slides" translate="no">
       <notes>
       <note id="context">Label indicating the content type is presentation slides.</note>
     </notes>
@@ -1242,7 +1242,7 @@
         <target>Slajdy</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_spreadsheet" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_spreadsheet" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a spreadsheet.</note>
     </notes>
@@ -1251,7 +1251,7 @@
         <target>Arkusz kalkulacyjny</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_training" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_training" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a training module.</note>
     </notes>
@@ -1260,7 +1260,7 @@
         <target>Szkolenie</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType.VILT" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType.VILT" translate="no">
       <notes>
       <note id="context">Label indicating the content type is virtual instructor-led training (VILT).</note>
     </notes>
@@ -1269,7 +1269,7 @@
         <target>VILT</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_video" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_video" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a video.</note>
     </notes>
@@ -1278,7 +1278,7 @@
         <target>Wideo</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_videoStream" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_videoStream" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a video stream.</note>
     </notes>
@@ -1287,7 +1287,7 @@
         <target>Strumień wideo</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_webinar" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_webinar" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a webinar.</note>
     </notes>
@@ -1296,7 +1296,7 @@
         <target>Webinarium</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_whitePaper" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_whitePaper" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a white paper.</note>
     </notes>
@@ -1305,7 +1305,7 @@
         <target>Biała księga</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_askMeAnything" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_askMeAnything" translate="no">
       <notes>
       <note id="context">Label indicating the content type is an &quot;Ask me anything&quot; session.</note>
     </notes>
@@ -1314,7 +1314,7 @@
         <target>Zapytaj mnie o cokolwiek</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_image" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_image" translate="no">
       <notes>
       <note id="context">Label indicating the content type is an image.</note>
     </notes>
@@ -1323,7 +1323,7 @@
         <target> zdjęcie</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_instructorLedTraining" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_instructorLedTraining" translate="no">
       <notes>
       <note id="context">Label indicating the content type is instructor-led training.</note>
     </notes>
@@ -1332,7 +1332,7 @@
         <target>Szkolenie pod kierunkiem instruktora</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_money" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_money" translate="no">
       <notes>
       <note id="context">Label indicating the content type is related to money or finance.</note>
     </notes>
@@ -1341,7 +1341,7 @@
         <target>Pieniądze</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_racing" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_racing" translate="no">
       <notes>
       <note id="context">Label indicating the content type is related to racing.</note>
     </notes>
@@ -1350,7 +1350,7 @@
         <target>Wyścigi</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_SCORM" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_SCORM" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a SCORM-compliant module.</note>
     </notes>
@@ -1359,7 +1359,7 @@
         <target>SCORM</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_selfPacedCourse" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_selfPacedCourse" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a self-paced course.</note>
     </notes>
@@ -1368,7 +1368,7 @@
         <target>Kurs we własnym tempie</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_sports" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_sports" translate="no">
       <notes>
       <note id="context">Label indicating the content type is related to sports.</note>
     </notes>
@@ -1377,7 +1377,7 @@
         <target>Sporty</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_survey" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_survey" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a survey.</note>
     </notes>
@@ -1386,7 +1386,7 @@
         <target>Ankieta</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_swimming" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_swimming" translate="no">
       <notes>
       <note id="context">Label indicating the content type is related to swimming.</note>
     </notes>
@@ -1395,7 +1395,7 @@
         <target>Pływanie</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_text" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_text" translate="no">
       <notes>
       <note id="context">Label indicating the content type is text-based.</note>
     </notes>
@@ -1404,7 +1404,7 @@
         <target>Tekst</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_transcript" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_transcript" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a transcript.</note>
     </notes>
@@ -1413,7 +1413,7 @@
         <target>Transkrypcja</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_tutorial" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_tutorial" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a tutorial.</note>
     </notes>
@@ -1422,7 +1422,7 @@
         <target>Samouczek</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_virtualLab" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_virtualLab" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a virtual lab.</note>
     </notes>
@@ -1431,7 +1431,7 @@
         <target>Ćwiczenie wirtualne</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_wikipedia" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_wikipedia" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a Wikipedia article.</note>
     </notes>
@@ -1440,7 +1440,7 @@
         <target>Wikipedia</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_event" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_event" translate="no">
       <notes>
       <note id="context">Label indicating the content type is an event.</note>
     </notes>
@@ -1449,7 +1449,7 @@
         <target>Zdarzenie</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_experience" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_experience" translate="no">
       <notes>
       <note id="context">Label indicating the content type is an experience-based learning module.</note>
     </notes>
@@ -1458,7 +1458,7 @@
         <target>Doświadczenie</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_file" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_file" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a file.</note>
     </notes>
@@ -1467,7 +1467,7 @@
         <target>Plik</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_interactive" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_interactive" translate="no">
       <notes>
       <note id="context">Label indicating the content type is interactive.</note>
     </notes>
@@ -1476,7 +1476,7 @@
         <target>Interaktywne</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_resource" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_resource" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a resource.</note>
     </notes>
@@ -1485,7 +1485,7 @@
         <target>Zasób</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_link" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_link" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a link.</note>
     </notes>
@@ -1494,7 +1494,7 @@
         <target>Łącze</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_deleteCommentToast" translate="yes">
+    <unit id="br-ext.br-ext:Cards_deleteCommentToast" translate="no">
       <notes>
       <note id="context">Message displayed when a comment is successfully deleted.</note>
     </notes>
@@ -1620,16 +1620,16 @@
         <target>Pomyślnie przypisano kartę</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_addedToPathway" translate="no">
+    <unit id="br-ext.br-ext:Cards_addedToPathway" translate="yes">
       <notes>
       <note id="context">This text is used as a toast message once added to the pathway.</note>
     </notes>
       <segment >
         <source>Card successfully added to Pathway(s)</source>
-        <target>Karta została pomyślnie dodana do ścieżki (ścieżek)</target>
+        <target>Karta pomyślnie dodana do ścieżek</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_addToJourney" translate="no">
+    <unit id="br-ext.br-ext:Cards_addToJourney" translate="yes">
       <notes>
       <note id="context">Title text for the add-to-journey modal</note>
     </notes>
@@ -1638,7 +1638,7 @@
         <target>Dodaj do podróży</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_noJourneyFoundString" translate="no">
+    <unit id="br-ext.br-ext:Cards_noJourneyFoundString" translate="yes">
       <notes>
       <note id="context">This text is used to display &quot;No Journey found&quot;.</note>
     </notes>
@@ -1647,7 +1647,7 @@
         <target>Nie znaleziono żadnej podróży!</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_addedToJourney" translate="no">
+    <unit id="br-ext.br-ext:Cards_addedToJourney" translate="yes">
       <notes>
       <note id="context">This text is used as a toast message once added to the journey.</note>
     </notes>
@@ -1665,13 +1665,13 @@
         <target>Karta została udostępniona pomyślnie!</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_sharePrivateLabel" translate="no">
+    <unit id="br-ext.br-ext:Cards_sharePrivateLabel" translate="yes">
       <notes>
       <note id="context">This text is used as content for private share modal.</note>
     </notes>
       <segment >
         <source>You are about to share a private SmartCard, only users that have already been granted access to this card will be able to access it.</source>
-        <target>Zamierzasz udostępnić prywatną kartę SmartCard. Tylko użytkownicy, którym przyznano już dostęp do tej karty, będą mogli uzyskać do niej dostęp.</target>
+        <target>Zamierzasz udostępnić prywatny materiał. Tylko użytkownicy, którym przyznano już dostęp do tej karty, będą mogli uzyskać do niej dostęp.</target>
       </segment>
     </unit>
     <unit id="br-ext.br-ext:Cards_commentPlaceholder" translate="no">
@@ -1809,7 +1809,7 @@
         <target>Lata temu</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:AddToPathwayModal_searchPlaceholderText" translate="no">
+    <unit id="br-ext.br-ext:AddToPathwayModal_searchPlaceholderText" translate="yes">
       <notes>
       <note id="context">This text is used as a placeholder for search in the add to pathway modal.</note>
     </notes>
@@ -1827,7 +1827,7 @@
         <target>Zastosowany filtr</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:AddToPathwayModal_titleLabel" translate="no">
+    <unit id="br-ext.br-ext:AddToPathwayModal_titleLabel" translate="yes">
       <notes>
       <note id="context">This text is used as a title for adding to pathway modal.</note>
     </notes>
@@ -1836,7 +1836,7 @@
         <target>Tytuł ścieżki</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:AddToPathwayModal_noPathwayFound" translate="no">
+    <unit id="br-ext.br-ext:AddToPathwayModal_noPathwayFound" translate="yes">
       <notes>
       <note id="context">Text to be shown where no pathway based on the search keyword is found</note>
     </notes>
@@ -1845,7 +1845,7 @@
         <target>Nie znaleziono ścieżki</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:AddToPathwayModal_selectPathwaySubHeading" translate="no">
+    <unit id="br-ext.br-ext:AddToPathwayModal_selectPathwaySubHeading" translate="yes">
       <notes>
       <note id="context">Help text for adding content into pathways</note>
     </notes>
@@ -1854,16 +1854,16 @@
         <target>Wybierz ścieżki, do których chcesz dodać tę zawartość. Zawartość zostanie dodana na końcu wybranych ścieżek.</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:AddToPathwayModal_addToPathway" translate="no">
+    <unit id="br-ext.br-ext:AddToPathwayModal_addToPathway" translate="yes">
       <notes>
       <note id="context">Header string for add to pathway modal</note>
     </notes>
       <segment >
         <source>Add to Pathway(s)</source>
-        <target>Dodaj do ścieżki (ścieżek)</target>
+        <target>Dodaj do ścieżek</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:AddToJourneyModal_infoText" translate="no">
+    <unit id="br-ext.br-ext:AddToJourneyModal_infoText" translate="yes">
       <notes>
       <note id="context">Help text for adding content into journeys</note>
     </notes>
@@ -1872,7 +1872,7 @@
         <target>Wybierz podróż(e), do których chcesz dodać tę zawartość. Przy każdej wybranej podróży wskaż sekcje, w których chcesz wyświetlić zawartość. Zawartość zostanie dodana na końcu każdej sekcji.</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:AddToJourneyModal_searchPlacehoderText" translate="no">
+    <unit id="br-ext.br-ext:AddToJourneyModal_searchPlacehoderText" translate="yes">
       <notes>
       <note id="context">This text is used as a placeholder for search text.</note>
     </notes>
@@ -1881,7 +1881,7 @@
         <target>Szukaj podróży</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:AddToJourneyModal_titleLabelText" translate="no">
+    <unit id="br-ext.br-ext:AddToJourneyModal_titleLabelText" translate="yes">
       <notes>
       <note id="context">This text is used as a placeholder for the Journey title.</note>
     </notes>
@@ -2007,7 +2007,7 @@
         <target>Utwórz nową grupę z członkami z wybranych grup</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:AssignModal_privateContentText" translate="no">
+    <unit id="br-ext.br-ext:AssignModal_privateContentText" translate="yes">
       <notes>
       <note id="context">Info text for assigning private card to the assignee</note>
     </notes>
@@ -2088,7 +2088,7 @@
         <target>{{selected}} z {{total}} wybranych</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:ContextMenu_addToPathway" translate="no">
+    <unit id="br-ext.br-ext:ContextMenu_addToPathway" translate="yes">
       <notes>
       <note id="context">Label text for a context menu item that opens a modal to Add to a particular pathway</note>
     </notes>
@@ -2097,7 +2097,7 @@
         <target>Dodaj do ścieżki</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:ContextMenu_addToJourney" translate="no">
+    <unit id="br-ext.br-ext:ContextMenu_addToJourney" translate="yes">
       <notes>
       <note id="context">Label text for a context menu item that opens a modal to Add to a particular journey</note>
     </notes>
@@ -2256,7 +2256,7 @@
     </notes>
       <segment >
         <source>Login to your &lt;b&gt;{{orgName}}&lt;/b&gt; account to get the relevant content from &lt;b&gt;{{orgName}}&lt;/b&gt;</source>
-        <target>Zaloguj się na swoje konto &lt;b&gt;{{orgName}}&lt;/b&gt;, aby uzyskać odpowiednią zawartość &lt;b&gt;{{orgName}}&lt;/b&gt;</target>
+        <target>Zaloguj się na swoje konto &lt;b>{{orgName}}&lt;/b>, aby uzyskać odpowiednią treść z &lt;b>{{orgName}}&lt;/b></target>
       </segment>
     </unit>
     <unit id="br-ext.br-ext:SearchPanel_loggedInLabel" translate="no">
@@ -2439,7 +2439,7 @@
         <target>Warunki świadczenia usług</target>
       </segment>
     </unit>
-    <!-- File::widgets:: NewWords: 84, NewStrings: 54 -->
+    <!-- File::widgets:: NewWords: 16, NewStrings: 2 -->
   </file>
   <file id="widgets:br-ext.common" original="packages/widgets/br-ext/labels/common.yaml" translate="yes">
     <notes>
@@ -2589,7 +2589,7 @@
         <target>Usuń</target>
       </segment>
     </unit>
-    <unit id="br-ext.common:lockedCardMiniLabel" translate="no">
+    <unit id="br-ext.common:lockedCardMiniLabel" translate="yes">
       <notes>
       <note id="context">Info text to show that the card is locked</note>
     </notes>
@@ -2616,7 +2616,7 @@
         <target>Niepowodzenie:</target>
       </segment>
     </unit>
-    <unit id="br-ext.common:smartCard" translate="no">
+    <unit id="br-ext.common:smartCard" translate="yes">
       <notes>
       <note id="context">Label text to denote the smartcard</note>
     </notes>
@@ -2688,7 +2688,7 @@
         <target>Zapisz się teraz</target>
       </segment>
     </unit>
-    <unit id="br-ext.common:pathwayPluralLabel" translate="no">
+    <unit id="br-ext.common:pathwayPluralLabel" translate="yes">
       <notes>
       <note id="context">Label text for the pathways tab</note>
     </notes>
@@ -2715,7 +2715,7 @@
         <target>Zdobądź odznakę</target>
       </segment>
     </unit>
-    <unit id="br-ext.common:smartCardPluralLabel" translate="no">
+    <unit id="br-ext.common:smartCardPluralLabel" translate="yes">
       <notes>
       <note id="context">Label text to denote the smartcard (plural) to be shown as banner text in journey mini card  thumbnail</note>
     </notes>
@@ -2823,7 +2823,7 @@
         <target>Transmisja na żywo zakończona</target>
       </segment>
     </unit>
-    <!-- File::widgets:: NewWords: 1, NewStrings: 1 -->
+    <!-- File::widgets:: NewWords: 0, NewStrings: 0 -->
   </file>
   <file id="widgets:teams.common" original="packages/widgets/teams/labels/common.yaml" translate="yes">
     <notes>
@@ -2946,22 +2946,22 @@
         <target>i</target>
       </segment>
     </unit>
-    <unit id="teams.common:unbookmarked" translate="no">
+    <unit id="teams.common:unbookmarked" translate="yes">
       <notes>
       <note id="context">Info text to be shown when unbookmark action is a success</note>
     </notes>
       <segment >
         <source>This SmartCard has been removed from your Bookmarks.</source>
-        <target>Ta karta SmartCard została usunięta z Twoich zakładek.</target>
+        <target>Ten materiał został usunięty z Twoich zakładek.</target>
       </segment>
     </unit>
-    <unit id="teams.common:completedSmartcard" translate="no">
+    <unit id="teams.common:completedSmartcard" translate="yes">
       <notes>
       <note id="context">Text for the success message when a smartcard is completed</note>
     </notes>
       <segment >
         <source>You have successfully completed the SmartCard.</source>
-        <target>Udało Ci się ukończyć materiał.</target>
+        <target>Pomyślnie ukończono materiał.</target>
       </segment>
     </unit>
     <unit id="teams.common:smartcardSection" translate="no">
@@ -3009,7 +3009,7 @@
         <target>Ukończone</target>
       </segment>
     </unit>
-    <unit id="teams.common:pathway" translate="no">
+    <unit id="teams.common:pathway" translate="yes">
       <notes>
       <note id="context">Label text for the pathway card type</note>
     </notes>
@@ -3018,7 +3018,7 @@
         <target>Ścieżka</target>
       </segment>
     </unit>
-    <unit id="teams.common:journey" translate="no">
+    <unit id="teams.common:journey" translate="yes">
       <notes>
       <note id="context">Label text for the journey card type</note>
     </notes>
@@ -3153,13 +3153,13 @@
         <target>Utwórz nową grupę z członkami z wybranych grup</target>
       </segment>
     </unit>
-    <unit id="teams.common:privateContent" translate="no">
+    <unit id="teams.common:privateContent" translate="yes">
       <notes>
       <note id="context">Info text to denote that the content is private</note>
     </notes>
       <segment >
         <source>This content is private and therefore won&apos;t be visible to the assignee. You can change this in your smartcard settings.</source>
-        <target>Ta zawartość jest prywatna i dlatego nie będzie widoczna dla osoby przypisanej. Możesz to zmienić w ustawieniach materiałów.</target>
+        <target>Ta zawartość jest prywatna i dlatego nie będzie widoczna dla osoby przypisanej. Możesz to zmienić w ustawieniach materiału.</target>
       </segment>
     </unit>
     <unit id="teams.common:userSelectedCountText" translate="no">
@@ -3252,13 +3252,13 @@
         <target>Obserwuj</target>
       </segment>
     </unit>
-    <unit id="teams.common:sharePrivateModalContent" translate="no">
+    <unit id="teams.common:sharePrivateModalContent" translate="yes">
       <notes>
       <note id="context">Warning text to be shown when the card is private and wants to be shared</note>
     </notes>
       <segment >
         <source>You are about to share a private SmartCard. Only users to whom this card has been shared will have access to it.</source>
-        <target>Zamierzasz udostępnić materiał prywatny. Dostęp do tej karty będą mieli tylko użytkownicy, którym ją udostępniono.</target>
+        <target>Zamierzasz udostępnić prywatny materiał. Dostęp do tej karty będą mieli tylko użytkownicy, którym ją udostępniono.</target>
       </segment>
     </unit>
     <unit id="teams.common:skipNotifyingUsers" translate="no">
@@ -3360,7 +3360,7 @@
         <target>Znaczniki</target>
       </segment>
     </unit>
-    <unit id="teams.common:channelsText" translate="yes">
+    <unit id="teams.common:channelsText" translate="no">
       <notes>
       <note id="context">Label text to show the channels the card belongs to be shown in the pathway footer</note>
     </notes>
@@ -3414,7 +3414,7 @@
         <target>Prześlij plik</target>
       </segment>
     </unit>
-    <unit id="teams.common:lockedCardAlert" translate="no">
+    <unit id="teams.common:lockedCardAlert" translate="yes">
       <notes>
       <note id="context">Overlay text to show that the card is locked</note>
     </notes>
@@ -3441,7 +3441,7 @@
         <target>Aby korzystać z tej zawartości, musisz zapisać się na tę kartę.</target>
       </segment>
     </unit>
-    <unit id="teams.common:addToPathway" translate="no">
+    <unit id="teams.common:addToPathway" translate="yes">
       <notes>
       <note id="context">Title text for the add-to pathway modal</note>
     </notes>
@@ -3927,7 +3927,7 @@
         <target>więcej</target>
       </segment>
     </unit>
-    <unit id="teams.common:smartCardTextLabel" translate="no">
+    <unit id="teams.common:smartCardTextLabel" translate="yes">
       <notes>
       <note id="context">Label text denoting the SmartCards</note>
     </notes>
@@ -4332,7 +4332,7 @@
         <target>Oznacz zakładką</target>
       </segment>
     </unit>
-    <unit id="teams.common:pathways" translate="no">
+    <unit id="teams.common:pathways" translate="yes">
       <notes>
       <note id="context">Label text for the pathways tab</note>
     </notes>
@@ -4512,7 +4512,7 @@
         <target>Materiał</target>
       </segment>
     </unit>
-    <unit id="teams.common:featured" translate="yes">
+    <unit id="teams.common:featured" translate="no">
       <notes>
       <note id="context">A label indicating that the content or item is highlighted as featured or recommended.</note>
     </notes>
@@ -4521,7 +4521,7 @@
         <target>Polecane</target>
       </segment>
     </unit>
-    <unit id="teams.common:home" translate="yes">
+    <unit id="teams.common:home" translate="no">
       <notes>
       <note id="context">Label for the home section or main page.</note>
     </notes>
@@ -4530,7 +4530,7 @@
         <target>Strona główna</target>
       </segment>
     </unit>
-    <unit id="teams.common:handle" translate="yes">
+    <unit id="teams.common:handle" translate="no">
       <notes>
       <note id="context">Label for the text &quot;Handle&quot; - of a user</note>
     </notes>
@@ -4539,7 +4539,7 @@
         <target>Nazwa</target>
       </segment>
     </unit>
-    <unit id="teams.common:time" translate="yes">
+    <unit id="teams.common:time" translate="no">
       <notes>
       <note id="context">The label text denoting the Time for training details in the smart card detail view.</note>
     </notes>
@@ -4548,7 +4548,7 @@
         <target>Czas</target>
       </segment>
     </unit>
-    <unit id="teams.common:status" translate="yes">
+    <unit id="teams.common:status" translate="no">
       <notes>
       <note id="context">Represents a label indicating the current status of an item.</note>
     </notes>
@@ -4557,7 +4557,7 @@
         <target>Stan</target>
       </segment>
     </unit>
-    <unit id="teams.common:viewAttendeesLabel" translate="yes">
+    <unit id="teams.common:viewAttendeesLabel" translate="no">
       <notes>
       <note id="context">This text is used as all attendees&apos; labels.</note>
     </notes>
@@ -4566,13 +4566,22 @@
         <target>Wyświetl uczestników</target>
       </segment>
     </unit>
-    <!-- File::widgets:: NewWords: 9, NewStrings: 8 -->
+    <unit id="teams.common:less" translate="yes">
+      <notes>
+      <note id="context">The Label text for Minimising More options tab</note>
+    </notes>
+      <segment >
+        <source>Less</source>
+        <target>Mniej</target>
+      </segment>
+    </unit>
+    <!-- File::widgets:: NewWords: 1, NewStrings: 1 -->
   </file>
   <file id="widgets:teams.teams" original="packages/widgets/teams/labels/teams.yaml" translate="yes">
     <notes>
       <note id="n1">Edcast Translation file for widgets</note>
     </notes>
-    <unit id="teams.teams:dateTimeTranslations_current" translate="yes">
+    <unit id="teams.teams:dateTimeTranslations_current" translate="no">
       <notes>
       <note id="context">Label indicating the present time or data.</note>
     </notes>
@@ -4959,7 +4968,7 @@
         <target>Jeśli chcesz kontynuować, zaznacz pole wyboru</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Cards_star" translate="yes">
+    <unit id="teams.teams:Cards_star" translate="no">
       <notes>
       <note id="context">Label for a single star rating or feature.</note>
     </notes>
@@ -4968,7 +4977,7 @@
         <target>Gwiazdka</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Cards_stars" translate="yes">
+    <unit id="teams.teams:Cards_stars" translate="no">
       <notes>
       <note id="context">Label for multiple star ratings or features.</note>
     </notes>
@@ -4983,10 +4992,10 @@
     </notes>
       <segment >
         <source>You can not create a SmartCard with the above-mentioned URL as the following content already exist:</source>
-        <target>Nie można utworzyć karty SmartCard o podanym powyżej adresie URL, ponieważ istnieją już następujące treści:</target>
+        <target>Nie można utworzyć materiału o podanym powyżej adresie URL, ponieważ istnieją już następujące treści:</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Cards_deleteCommentToast" translate="yes">
+    <unit id="teams.teams:Cards_deleteCommentToast" translate="no">
       <notes>
       <note id="context">Notification confirming successful comment deletion.</note>
     </notes>
@@ -4995,7 +5004,7 @@
         <target>Komentarz został pomyślnie usunięty</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Cards_loadingUsers" translate="yes">
+    <unit id="teams.teams:Cards_loadingUsers" translate="no">
       <notes>
       <note id="context">Indicates that user data is currently being retrieved.</note>
     </notes>
@@ -5004,7 +5013,7 @@
         <target>Ładowanie użytkowników</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Cards_loadingGroups" translate="yes">
+    <unit id="teams.teams:Cards_loadingGroups" translate="no">
       <notes>
       <note id="context">Indicates that group data is currently being retrieved.</note>
     </notes>
@@ -5013,7 +5022,7 @@
         <target>Ładowanie grup</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Cards_addToPathways" translate="no">
+    <unit id="teams.teams:Cards_addToPathways" translate="yes">
       <notes>
       <note id="context">Title for adding content to Pathway(s)</note>
     </notes>
@@ -5103,7 +5112,7 @@
         <target>Społecznościowe</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Cards_createCardHeading" translate="no">
+    <unit id="teams.teams:Cards_createCardHeading" translate="yes">
       <notes>
       <note id="context">This label is used as a header string in createcardmodal</note>
     </notes>
@@ -5112,7 +5121,7 @@
         <target>Utwórz materiał</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Cards_updateCardHeading" translate="no">
+    <unit id="teams.teams:Cards_updateCardHeading" translate="yes">
       <notes>
       <note id="context">This label is used as a header string in create-card-modal while updating a card.</note>
     </notes>
@@ -5220,13 +5229,13 @@
         <target>Wpisz tytuł</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Cards_smartCardTitlePlaceholder" translate="no">
+    <unit id="teams.teams:Cards_smartCardTitlePlaceholder" translate="yes">
       <notes>
       <note id="context">This label is used as a placeholder for the title text in Create Card.</note>
     </notes>
       <segment >
         <source>Enter SmartCard title here</source>
-        <target>Wpisz tutaj nazwę materiału</target>
+        <target>Wpisz tutaj tytuł materiału</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_linkPaste" translate="no">
@@ -5400,7 +5409,7 @@
         <target>Kryteria zaliczenia</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Cards_quizPassingCriteriaSubTitle" translate="no">
+    <unit id="teams.teams:Cards_quizPassingCriteriaSubTitle" translate="yes">
       <notes>
       <note id="context">This text is used as a subheading for quiz passing in quiz smart card.</note>
     </notes>
@@ -5490,7 +5499,7 @@
         <target>Maksymalna liczba pytań na kartę: 30</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Cards_textCardDescription" translate="no">
+    <unit id="teams.teams:Cards_textCardDescription" translate="yes">
       <notes>
       <note id="context">This text is used as subheading text for description in quiz smart card.</note>
     </notes>
@@ -5499,13 +5508,13 @@
         <target>Poniżej znajduje się pełny opis materiału</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Cards_smartCardDescription" translate="no">
+    <unit id="teams.teams:Cards_smartCardDescription" translate="yes">
       <notes>
       <note id="context">This text is used as a placeholder for description in the quiz smart card.</note>
     </notes>
       <segment >
         <source>Enter SmartCard description here</source>
-        <target>Wprowadź tutaj opis karty SmartCard</target>
+        <target>Wprowadź tutaj opis materiału</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_liveEventInputTitle" translate="no">
@@ -5949,7 +5958,7 @@
         <target>Nazwa dostawcy</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Cards_providerSubtitle" translate="no">
+    <unit id="teams.teams:Cards_providerSubtitle" translate="yes">
       <notes>
       <note id="context">This text is used as a subtitle for provider name input.</note>
     </notes>
@@ -5967,13 +5976,13 @@
         <target>Logo dostawcy</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Cards_uploadSubtitle" translate="no">
+    <unit id="teams.teams:Cards_uploadSubtitle" translate="yes">
       <notes>
       <note id="context">This text is used as a sub-title for provider logo input.</note>
     </notes>
       <segment >
         <source>This logo will be displayed in the smartcard instead of your profile picture</source>
-        <target>To logo będzie wyświetlane na karcie inteligentnej zamiast zdjęcia profilowego</target>
+        <target>To logo będzie wyświetlane w materiale zamiast zdjęcia profilowego</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_providerPlaceholder" translate="no">
@@ -6057,7 +6066,7 @@
         <target>Ustawienia prywatności</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Cards_privacySubtitle" translate="no">
+    <unit id="teams.teams:Cards_privacySubtitle" translate="yes">
       <notes>
       <note id="context">This text is used as a subtitle for privacy input.</note>
     </notes>
@@ -6066,22 +6075,22 @@
         <target>Określ poziom dostępu dla tego materiału.</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Cards_privateInfoText" translate="no">
+    <unit id="teams.teams:Cards_privateInfoText" translate="yes">
       <notes>
       <note id="context">This text is used as a description for the private info icon.</note>
     </notes>
       <segment >
         <source>Viewing this SmartCard is restricted to users who you have shared it. Sharing a SmartCard can be done directly, or indirectly, via a Group, or Channel, that the users belong to.</source>
-        <target>Oglądanie tego materiału jest ograniczone do użytkowników, którym go udostępniono. Udostępnianie karty SmartCard może odbywać się bezpośrednio lub pośrednio, poprzez grupę lub kanał, do którego należą użytkownicy.</target>
+        <target>Oglądanie tego materiału jest ograniczone do użytkowników, którym go udostępniono. Udostępnianie materiału może odbywać się bezpośrednio lub pośrednio, poprzez grupę lub kanał, do którego należą użytkownicy.</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Cards_publicInfoText" translate="no">
+    <unit id="teams.teams:Cards_publicInfoText" translate="yes">
       <notes>
       <note id="context">This text is used as a description for the public info icon.</note>
     </notes>
       <segment >
         <source>Anyone can view this SmartCard.</source>
-        <target>Każdy może przeglądać tę kartę SmartCard.</target>
+        <target>Każdy może przeglądać ten materiał.</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_restrictTo" translate="no">
@@ -6237,7 +6246,7 @@
         <target>Autora zmieniono pomyślnie</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Cards_selectPathwaySubHeading" translate="no">
+    <unit id="teams.teams:Cards_selectPathwaySubHeading" translate="yes">
       <notes>
       <note id="context">This text is used as a subtitle for the pathway in the Add to Pathway modal.</note>
     </notes>
@@ -6255,7 +6264,7 @@
         <target>Proszę czekać</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Cards_noPathwayFound" translate="no">
+    <unit id="teams.teams:Cards_noPathwayFound" translate="yes">
       <notes>
       <note id="context">This text is used to display &quot;No Pathways Found&quot; in smartcards.</note>
     </notes>
@@ -6264,16 +6273,16 @@
         <target>Nie znaleziono ścieżek</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Cards_addedToPathway" translate="no">
+    <unit id="teams.teams:Cards_addedToPathway" translate="yes">
       <notes>
       <note id="context">This text is used as a toast message once added to the pathway.</note>
     </notes>
       <segment >
         <source>Card successfully added to Pathway(s)</source>
-        <target>Karta została pomyślnie dodana do ścieżki (ścieżek)</target>
+        <target>Karta pomyślnie dodana do ścieżek</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Cards_addedToJourney" translate="no">
+    <unit id="teams.teams:Cards_addedToJourney" translate="yes">
       <notes>
       <note id="context">This text is used as a toast message once added to the journey.</note>
     </notes>
@@ -6282,7 +6291,7 @@
         <target>Karta pomyślnie dodana do podróży</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Cards_addToJourney" translate="no">
+    <unit id="teams.teams:Cards_addToJourney" translate="yes">
       <notes>
       <note id="context">This text is used as a label for &quot;Add to Journey(s)&quot;.</note>
     </notes>
@@ -6291,7 +6300,7 @@
         <target>Dodaj do podróży</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Cards_noJourneyFoundString" translate="no">
+    <unit id="teams.teams:Cards_noJourneyFoundString" translate="yes">
       <notes>
       <note id="context">This text is used to display &quot;No Journey found!&quot;.</note>
     </notes>
@@ -6399,7 +6408,7 @@
         <target>Twój raport zostanie wysłany do Ciebie na zarejestrowany adres e-mail po jego przetworzeniu</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Cards_uncompletedSmartcard" translate="no">
+    <unit id="teams.teams:Cards_uncompletedSmartcard" translate="yes">
       <notes>
       <note id="context">This text is used as a toast message after uncompleting the smartcard.</note>
     </notes>
@@ -6408,13 +6417,13 @@
         <target>Udało Ci się anulować ukończenie materiału.</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Cards_bookmarkCreated" translate="no">
+    <unit id="teams.teams:Cards_bookmarkCreated" translate="yes">
       <notes>
       <note id="context">This text is used as a toast message after creating a bookmark.</note>
     </notes>
       <segment >
         <source>Done! This SmartCard has been Bookmarked and now be found in your bookmarked content</source>
-        <target>Gotowe! Ta karta inteligentna została dodana do zakładek i teraz można ją znaleźć w treści dodanej do zakładek</target>
+        <target>Gotowe! Ten materiał został dodany do zakładek i teraz można go znaleźć w treści dodanej do zakładek</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_noMatchFound" translate="no">
@@ -6471,7 +6480,7 @@
         <target>przez</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Cards_bookmarkMessage" translate="no">
+    <unit id="teams.teams:Cards_bookmarkMessage" translate="yes">
       <notes>
       <note id="context">This text is used as a toast message after bookmarking a smart card.</note>
     </notes>
@@ -6480,7 +6489,7 @@
         <target>Gotowe! Dodano materiał do zakładek i teraz można go znaleźć w zawartości dodanej do zakładek.</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Cards_pathwayBookmarkMessage" translate="no">
+    <unit id="teams.teams:Cards_pathwayBookmarkMessage" translate="yes">
       <notes>
       <note id="context">This text is used as a toast message after bookmarking a pathway card.</note>
     </notes>
@@ -6489,7 +6498,7 @@
         <target>Gotowe! Ta ścieżka została dodana do zakładek i można ją teraz znaleźć w treści dodanej do zakładek.</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Cards_pathwayUnbookmarkMessage" translate="no">
+    <unit id="teams.teams:Cards_pathwayUnbookmarkMessage" translate="yes">
       <notes>
       <note id="context">This text is used as a toast message after unbookmarking a pathway card.</note>
     </notes>
@@ -6498,7 +6507,7 @@
         <target>Ta ścieżka została usunięta z Twoich zakładek.</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Cards_journeyBookmarkMessage" translate="no">
+    <unit id="teams.teams:Cards_journeyBookmarkMessage" translate="yes">
       <notes>
       <note id="context">This text is used as a toast message after bookmarking a journey card.</note>
     </notes>
@@ -6507,7 +6516,7 @@
         <target>Gotowe! Dodano podróż do zakładek i teraz można ją znaleźć w zawartości dodanej do zakładek.</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Cards_journeyUnbookmarkMessage" translate="no">
+    <unit id="teams.teams:Cards_journeyUnbookmarkMessage" translate="yes">
       <notes>
       <note id="context">This text is used as a toast message after unbookmarking a journey card.</note>
     </notes>
@@ -6597,13 +6606,13 @@
         <target>Zawartość została opublikowana na wybranych kanałach.</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Cards_markAsIncomplete" translate="no">
+    <unit id="teams.teams:Cards_markAsIncomplete" translate="yes">
       <notes>
       <note id="context">The Success message to be displayed after marking a smartcard as incomplete.</note>
     </notes>
       <segment >
         <source>You have marked this SmartCard as incomplete.</source>
-        <target>Oznaczyłeś tę kartę SmartCard jako niekompletną.</target>
+        <target>Ten materiał został przez Ciebie oznaczony jako nieukończony.</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_markAsIncompleteText" translate="no">
@@ -6669,7 +6678,7 @@
         <target>Treść niedostępna.</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Cards_pathwayTitle" translate="no">
+    <unit id="teams.teams:Cards_pathwayTitle" translate="yes">
       <notes>
       <note id="context">This text is used as a title for the Add to Pathway modal.</note>
     </notes>
@@ -6687,7 +6696,7 @@
         <target>Zastosowany filtr</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Cards_searchPathway" translate="no">
+    <unit id="teams.teams:Cards_searchPathway" translate="yes">
       <notes>
       <note id="context">This text is used as a placeholder for search in the Add to Pathway modal.</note>
     </notes>
@@ -6696,7 +6705,7 @@
         <target>Szukaj ścieżki</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Cards_journeySelectText" translate="no">
+    <unit id="teams.teams:Cards_journeySelectText" translate="yes">
       <notes>
       <note id="context">This text is used as info text in the Add to Pathway modal.</note>
     </notes>
@@ -6705,7 +6714,7 @@
         <target>Wybierz podróż(e), do których chcesz dodać tę zawartość. Przy każdej wybranej podróży wskaż sekcje, w których chcesz wyświetlić zawartość. Zawartość zostanie dodana na końcu każdej sekcji.</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Cards_searchJourney" translate="no">
+    <unit id="teams.teams:Cards_searchJourney" translate="yes">
       <notes>
       <note id="context">This text is used as a placeholder for search text.</note>
     </notes>
@@ -6714,7 +6723,7 @@
         <target>Szukaj podróży</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Cards_journeyTitle" translate="no">
+    <unit id="teams.teams:Cards_journeyTitle" translate="yes">
       <notes>
       <note id="context">This text is used as a placeholder for the Journey title.</note>
     </notes>
@@ -7110,13 +7119,13 @@
         <target>Oznacz jako ukończone</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Cards_markAsCompleteNotAllowedText" translate="no">
+    <unit id="teams.teams:Cards_markAsCompleteNotAllowedText" translate="yes">
       <notes>
       <note id="context">Help Text to complete the journey/pathway</note>
     </notes>
       <segment >
         <source>All the SmartCards needs to be completed first</source>
-        <target>Wszystkie materiały muszą być wypełnione w pierwszej kolejności</target>
+        <target>Wszystkie materiały muszą zostać ukończone w pierwszej kolejności</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_unspecifiedLabel" translate="no">
@@ -7632,16 +7641,16 @@
         <target>dnia</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailViewHeader_adminSelfAuthoredDeleteAlert_1" translate="no">
+    <unit id="teams.teams:SmartCardDetailViewHeader_adminSelfAuthoredDeleteAlert_1" translate="yes">
       <notes>
       <note id="context">Alert Text to be shown when the user is deleting a card</note>
     </notes>
       <segment >
         <source>You are about to delete the SmartCard</source>
-        <target>Zamierzasz usunąć kartę SmartCard</target>
+        <target>Zamierzasz usunąć materiał</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ShareModal_searchGroups" translate="yes">
+    <unit id="teams.teams:ShareModal_searchGroups" translate="no">
       <notes>
       <note id="context">Prompt for searching through groups.</note>
     </notes>
@@ -7686,7 +7695,7 @@
         <target>Wyszukaj osoby</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_liveTabPendingLabel" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_liveTabPendingLabel" translate="no">
       <notes>
       <note id="context">Label indicating that the item is pending approval.</note>
     </notes>
@@ -7695,7 +7704,7 @@
         <target>Oczekujące</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_liveTabDeclinedLabel" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_liveTabDeclinedLabel" translate="no">
       <notes>
       <note id="context">Label indicating that the item is declined.</note>
     </notes>
@@ -7704,7 +7713,7 @@
         <target>Odrzucone</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_liveTabUnregisteredLabel" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_liveTabUnregisteredLabel" translate="no">
       <notes>
       <note id="context">Label indicating that the user is not registered.</note>
     </notes>
@@ -7713,7 +7722,7 @@
         <target>Niezarejestrowany</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_liveNoDataLabel" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_liveNoDataLabel" translate="no">
       <notes>
       <note id="context">Notification indicating no user data is available.</note>
     </notes>
@@ -7722,7 +7731,7 @@
         <target>Lista użytkowników jest obecnie pusta</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_liveTabRegisteredOnLabel" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_liveTabRegisteredOnLabel" translate="no">
       <notes>
       <note id="context">Label for displaying the registration date.</note>
     </notes>
@@ -7731,7 +7740,7 @@
         <target>Data rejestracji</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_liveTabApprovalModalLabel" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_liveTabApprovalModalLabel" translate="no">
       <notes>
       <note id="context">Confirmation message for approving multiple member requests.</note>
     </notes>
@@ -7740,7 +7749,7 @@
         <target>Za chwilę zatwierdzisz {{selected} prośby o członkostwo. Czy na pewno chcesz je zatwierdzić?</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_liveTabDeclineModalLabel" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_liveTabDeclineModalLabel" translate="no">
       <notes>
       <note id="context">Confirmation message for declining multiple member requests.</note>
     </notes>
@@ -7749,7 +7758,7 @@
         <target>Zamierzasz odrzucić {{selected}} prośby o członkostwo. Czy na pewno chcesz je odrzucić?</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_liveTabMarkAsCompleteModalLabel" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_liveTabMarkAsCompleteModalLabel" translate="no">
       <notes>
       <note id="context">Confirmation message for marking multiple member requests as complete.</note>
     </notes>
@@ -7758,7 +7767,7 @@
         <target>Zamierzasz oznaczyć następującą liczbę wniosków członków jako ukończone: {{selected}. Czy na pewno chcesz oznaczyć je jako ukończone?</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_liveTabMarkAsCompleteLabel" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_liveTabMarkAsCompleteLabel" translate="no">
       <notes>
       <note id="context">Action button label for marking an item as complete.</note>
     </notes>
@@ -7767,7 +7776,7 @@
         <target>Oznacz jako ukończone</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_liveToastMarkAsComplete" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_liveToastMarkAsComplete" translate="no">
       <notes>
       <note id="context">Notification indicating successful completion of member requests.</note>
     </notes>
@@ -7776,7 +7785,7 @@
         <target>Członkowie zostali pomyślnie oznaczeni jako gotowi.</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_unRegistrationConfirmationLabel" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_unRegistrationConfirmationLabel" translate="no">
       <notes>
       <note id="context">Label for the confirmation dialog to unregister.</note>
     </notes>
@@ -7785,7 +7794,7 @@
         <target>Potwierdzenie wyrejestrowania</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_unRegistrationConfirmationBody" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_unRegistrationConfirmationBody" translate="no">
       <notes>
       <note id="context">Confirmation message to unregister from an event.</note>
     </notes>
@@ -7794,7 +7803,7 @@
         <target>Czy na pewno chcesz się wyrejestrować? Po wyrejestrowaniu nie będziesz już mieć dostępu do wydarzenia na żywo.</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_liveEventRegisteredMessage" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_liveEventRegisteredMessage" translate="no">
       <notes>
       <note id="context">Notification indicating successful registration for an event.</note>
     </notes>
@@ -7803,7 +7812,7 @@
         <target>Jesteś osobą zarejestrowaną na to wydarzenie.</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_liveEventUnRegisteredMessage" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_liveEventUnRegisteredMessage" translate="no">
       <notes>
       <note id="context">Notification indicating successful un-registration from an event.</note>
     </notes>
@@ -7812,7 +7821,7 @@
         <target>Pomyślnie wyrejestrowałeś się z wydarzenia.</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_addToCalendarLabel" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_addToCalendarLabel" translate="no">
       <notes>
       <note id="context">Button label for adding an event to the calendar.</note>
     </notes>
@@ -7821,7 +7830,7 @@
         <target>Dodaj do kalendarza</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_meetingLinkLabel" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_meetingLinkLabel" translate="no">
       <notes>
       <note id="context">Label for displaying the meeting link.</note>
     </notes>
@@ -7830,7 +7839,7 @@
         <target>Link do spotkania</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_recordingURLLabel" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_recordingURLLabel" translate="no">
       <notes>
       <note id="context">Label for displaying the recording URL.</note>
     </notes>
@@ -7839,7 +7848,7 @@
         <target>Adres URL nagrania</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_registerMeetingLinkLabel" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_registerMeetingLinkLabel" translate="no">
       <notes>
       <note id="context">Prompt for users to register in order to receive the meeting link.</note>
     </notes>
@@ -7866,12 +7875,12 @@
         <target>Odmowa dostępu</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_pendingApproval" translate="no">
+    <unit id="teams.teams:SmartCardDetailView_pendingApproval" translate="yes">
       <notes>
       <note id="context">Approval is yet to be approved by the approver</note>
     </notes>
       <segment >
-        <source>Pending Approval</source>
+        <source>Pending approval</source>
         <target>Oczekuje na zatwierdzenie</target>
       </segment>
     </unit>
@@ -8055,13 +8064,13 @@
         <target>Komentarz</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_completionSupportAlertText" translate="no">
+    <unit id="teams.teams:SmartCardDetailView_completionSupportAlertText" translate="yes">
       <notes>
       <note id="context">Help text for the smartcard completion</note>
     </notes>
       <segment >
         <source>Marking the SmartCard as incomplete will not change the Continuous Learning hour or the score associated with it.</source>
-        <target>Oznaczenie materiału jako niepełnego nie zmieni godziny nauki ciągłej ani związanego z nią wyniku.</target>
+        <target>Oznaczenie materiału jako nieukończonego nie zmieni godziny nauki ciągłej ani związanego z nią wyniku.</target>
       </segment>
     </unit>
     <unit id="teams.teams:SmartCardDetailView_markAsCompleted" translate="no">
@@ -8142,7 +8151,7 @@
     </notes>
       <segment >
         <source>You are about to delete the {{readable_card_type}} &lt;i&gt;{{card_title}}&lt;/i&gt;. Please be aware that doing so will remove all associated statistics and comments. This action cannot be undone. How would you like to proceed?</source>
-        <target>Próbujesz usunąć element: {{readable_card_type}} &lt;i&gt;{{card_title}}&lt;/i&gt;. Należy pamiętać, że spowoduje to usunięcie wszystkich powiązanych statystyk i komentarzy. Tego działania nie można cofnąć. Co chcesz zrobić?</target>
+        <target>Zamierzasz usunąć kartę {{readable_card_type}} &lt;i&gt;{{card_title}}&lt;/i&gt;. Należy pamiętać, że spowoduje to usunięcie wszystkich powiązanych statystyk i komentarzy. Tego działania nie można cofnąć. Co chcesz zrobić?</target>
       </segment>
     </unit>
     <unit id="teams.teams:SmartCardDetailView_progressText" translate="no">
@@ -8424,7 +8433,7 @@
         <target>Dodaj do polecanych</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ContextMenu_addToJourney" translate="no">
+    <unit id="teams.teams:ContextMenu_addToJourney" translate="yes">
       <notes>
       <note id="context">Title text for the Add to Journey modal</note>
     </notes>
@@ -8523,7 +8532,7 @@
         <target>Oczekiwanie, aż użytkownicy zostaną załadowani…</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Search_waitingJourneyLoaderLabel" translate="no">
+    <unit id="teams.teams:Search_waitingJourneyLoaderLabel" translate="yes">
       <notes>
       <note id="context">Loader text to be shown till the journey list is loaded</note>
     </notes>
@@ -8838,7 +8847,7 @@
         <target>Tego działania nie można cofnąć. Jak chcesz kontynuować?</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Modal_deleteSmartcard" translate="no">
+    <unit id="teams.teams:Modal_deleteSmartcard" translate="yes">
       <notes>
       <note id="context">Button text for delete smartcard action</note>
     </notes>
@@ -8847,16 +8856,16 @@
         <target>Usuń materiał</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Modal_smartcardDeleted" translate="no">
+    <unit id="teams.teams:Modal_smartcardDeleted" translate="yes">
       <notes>
       <note id="context">Success message for Smartcard deletion</note>
     </notes>
       <segment >
         <source>SmartCard deleted. It will never show again.</source>
-        <target>Karta inteligentna została usunięta. Nigdy nie pojawi się ponownie.</target>
+        <target>Materiał został usunięty. Nigdy nie pojawi się ponownie.</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Modal_pathwayDeleted" translate="no">
+    <unit id="teams.teams:Modal_pathwayDeleted" translate="yes">
       <notes>
       <note id="context">Success message for Patway deletion</note>
     </notes>
@@ -8865,7 +8874,7 @@
         <target>Ścieżka usunięta. Nigdy nie pojawi się ponownie.</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Modal_journeyDeleted" translate="no">
+    <unit id="teams.teams:Modal_journeyDeleted" translate="yes">
       <notes>
       <note id="context">Success message for journey deletion</note>
     </notes>
@@ -8937,7 +8946,7 @@
         <target>Brak elementów w toku</target>
       </segment>
     </unit>
-    <unit id="teams.teams:MyActivity_startLearningJourney" translate="no">
+    <unit id="teams.teams:MyActivity_startLearningJourney" translate="yes">
       <notes>
       <note id="context">Hint text for empty Learning joruney</note>
     </notes>
@@ -9180,15 +9189,6 @@
         <target>Katalog umiejętności</target>
       </segment>
     </unit>
-    <unit id="teams.teams:TopNav_less" translate="no">
-      <notes>
-      <note id="context">The Label text for Minimising More options tab in Top NavBar</note>
-    </notes>
-      <segment >
-        <source>Less</source>
-        <target>Mniej</target>
-      </segment>
-    </unit>
     <unit id="teams.teams:TopNav_selectLanguage" translate="no">
       <notes>
       <note id="context">Label text for application language dropdown on the side drawer</note>
@@ -9405,7 +9405,7 @@
         <target>anuluj</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Groups_myAssignments" translate="yes">
+    <unit id="teams.teams:Groups_myAssignments" translate="no">
       <notes>
       <note id="context">Section label for personal assignments.</note>
     </notes>
@@ -9414,7 +9414,7 @@
         <target>Moje zadania</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Groups_associatedChannels" translate="yes">
+    <unit id="teams.teams:Groups_associatedChannels" translate="no">
       <notes>
       <note id="context">Label for channels linked to a group.</note>
     </notes>
@@ -9747,7 +9747,7 @@
         <target>Ładowanie szczegółów kanału.</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Channels_toPathwayHome" translate="no">
+    <unit id="teams.teams:Channels_toPathwayHome" translate="yes">
       <notes>
       <note id="context">Label for a button or action that directs the user to the home page of pathways.</note>
     </notes>
@@ -9756,7 +9756,7 @@
         <target>Do strony głównej ścieżki</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Channels_toJourneyHome" translate="no">
+    <unit id="teams.teams:Channels_toJourneyHome" translate="yes">
       <notes>
       <note id="context">Label for a button or action that directs the user to the home page of journeys.</note>
     </notes>
@@ -9945,40 +9945,40 @@
         <target>Kanał prywatny</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Channels_journeyCompleteSuccess" translate="no">
+    <unit id="teams.teams:Channels_journeyCompleteSuccess" translate="yes">
       <notes>
       <note id="context">A success message is displayed when a user completes a journey.</note>
     </notes>
       <segment >
         <source>You have successfully completed the Journey.</source>
-        <target>Pomyślnie ukończyłeś podróż.</target>
+        <target>Pomyślnie ukończono podróż.</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Channels_pathwayCompleteSuccess" translate="no">
+    <unit id="teams.teams:Channels_pathwayCompleteSuccess" translate="yes">
       <notes>
       <note id="context">A success message is displayed when a user completes a pathway.</note>
     </notes>
       <segment >
         <source>You have successfully completed the Pathway.</source>
-        <target>Pomyślnie ukończyłeś Ścieżkę.</target>
+        <target>Pomyślnie ukończono ścieżkę.</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Channels_journeyInCompleteSuccess" translate="no">
+    <unit id="teams.teams:Channels_journeyInCompleteSuccess" translate="yes">
       <notes>
       <note id="context">A success message is displayed when a user marks a journey as incomplete.</note>
     </notes>
       <segment >
         <source>You have marked this Journey as incomplete.</source>
-        <target>Ta podróż została oznaczona jako niekompletna.</target>
+        <target>Ta podróż została oznaczona przez Ciebie jako nieukończona.</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Channels_pathwayInCompleteSuccess" translate="no">
+    <unit id="teams.teams:Channels_pathwayInCompleteSuccess" translate="yes">
       <notes>
       <note id="context">A success message is displayed when a user marks a pathway as incomplete.</note>
     </notes>
       <segment >
         <source>You have marked this Pathway as incomplete.</source>
-        <target>Zaznaczyłeś tę ścieżkę jako niekompletną.</target>
+        <target>Ta ścieżka została oznaczona przez Ciebie jako nieukończona.</target>
       </segment>
     </unit>
     <unit id="teams.teams:Channels_previousCardLabel" translate="no">
@@ -10215,7 +10215,106 @@
         <target>Wybierz: Nazwa umiejętności</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ManagerDashboard_allTime" translate="yes">
+    <unit id="teams.teams:ManagerDashboard_teamSkillsTableTitleTooltip" translate="yes">
+      <notes>
+      <note id="context">Informative text to indicate more information about the Skills section of the table.</note>
+    </notes>
+      <segment >
+        <source>List of all the skills your team has and levels in those skills. You can also recommend them to get up skilled i.e. increase the level of the skill</source>
+        <target>Lista umiejętności Twojego zespołu oraz poziomy tych umiejętności. Możesz zalecić im podniesienie umiejętności, tzn. podniesienie poziomu umiejętności</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:ManagerDashboard_tableTitleTooltipCompletedDescription" translate="yes">
+      <notes>
+      <note id="context">Informative text to indicate more information about the count of people who completed that specific content item.</note>
+    </notes>
+      <segment >
+        <source>Completed: Number of people who have completed the content</source>
+        <target>Ukończono: Liczba osób, które ukończyły treść</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:ManagerDashboard_tableTitleTooltipOverdueDescription" translate="yes">
+      <notes>
+      <note id="context">Informative text to indicate more information about the Overdue section of the table.</note>
+    </notes>
+      <segment >
+        <source>Overdue: Number of people for whom the content completion due date is in past</source>
+        <target>Zaległe: Liczba osób, w przypadku których upłynął termin realizacji zawartości</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:ManagerDashboard_tableTitleTooltipDueIn2WeeksDescription" translate="yes">
+      <notes>
+      <note id="context">Informative text to indicate more information about the content that is due within the next 2 weeks section of the table.</note>
+    </notes>
+      <segment >
+        <source>Due In 2 weeks: Number of people for whom the content completion due date is in next two weeks</source>
+        <target>Termin za 2 tygodnie: Liczba osób, w przypadku których termin zakończenia zawartości upływa w ciągu dwóch najbliższych tygodni</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:ManagerDashboard_tableTitleTooltipNotStartedDescription" translate="yes">
+      <notes>
+      <note id="context">Informative text to indicate more information about the Not Started section of the table.</note>
+    </notes>
+      <segment >
+        <source>Not Started: Number of people who have not started consuming the content</source>
+        <target>Nie rozpoczęto: Liczba osób, które nie rozpoczęły realizacji zawartości</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:ManagerDashboard_tableTitleTooltipAssignedToDescription" translate="yes">
+      <notes>
+      <note id="context">Informative text to indicate more information about the Assigned To section of the table.</note>
+    </notes>
+      <segment >
+        <source>Assigned to: Number of people the content is assigned to</source>
+        <target>Przypisano do: Liczba osób, do których przypisana jest zawartość</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:ManagerDashboard_tableTitleTooltipDescription" translate="yes">
+      <notes>
+      <note id="context">Informative text to indicate more information about the info table.</note>
+    </notes>
+      <segment >
+        <source>Shows all content assigned to your team</source>
+        <target>Wyświetla całą zawartość przypisaną Twojemu zespołowi</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:ManagerDashboard_allCompleted" translate="yes">
+      <notes>
+      <note id="context">Informative text to indicate that all content has been completed.</note>
+    </notes>
+      <segment >
+        <source>All Completed</source>
+        <target>Wszystko ukończone</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:ManagerDashboard_lastSent" translate="yes">
+      <notes>
+      <note id="context">Informative text to indicate when reminder was sent.</note>
+    </notes>
+      <segment >
+        <source>Last Sent</source>
+        <target>Ostatnio wysłane</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:ManagerDashboard_dueDateRange" translate="yes">
+      <notes>
+      <note id="context">Informative text to indicate a date picker filter to choose a date range.</note>
+    </notes>
+      <segment >
+        <source>Due Date Range</source>
+        <target>Zakres terminów</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:ManagerDashboard_searchContent" translate="yes">
+      <notes>
+      <note id="context">Placeholder label for text input field to search for content.</note>
+    </notes>
+      <segment >
+        <source>Search Content</source>
+        <target>Wyszukaj zawartość</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:ManagerDashboard_allTime" translate="no">
       <notes>
       <note id="context">Label indicating data for the entire duration.</note>
     </notes>
@@ -10224,7 +10323,7 @@
         <target>Cały czas</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ManagerDashboard_thisWeek" translate="yes">
+    <unit id="teams.teams:ManagerDashboard_thisWeek" translate="no">
       <notes>
       <note id="context">Label indicating data for the current week.</note>
     </notes>
@@ -10233,7 +10332,7 @@
         <target>W tym tygodniu</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ManagerDashboard_last30Days" translate="yes">
+    <unit id="teams.teams:ManagerDashboard_last30Days" translate="no">
       <notes>
       <note id="context">Label indicating data for the past 30 days.</note>
     </notes>
@@ -10242,7 +10341,7 @@
         <target>Ostatnie 30 dni</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ManagerDashboard_last3Months" translate="yes">
+    <unit id="teams.teams:ManagerDashboard_last3Months" translate="no">
       <notes>
       <note id="context">Label indicating data for the past 3 months.</note>
     </notes>
@@ -10251,7 +10350,7 @@
         <target>Ostatnie 3 miesiące</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ManagerDashboard_last1Year" translate="yes">
+    <unit id="teams.teams:ManagerDashboard_last1Year" translate="no">
       <notes>
       <note id="context">Label indicating data for the past year.</note>
     </notes>
@@ -10260,7 +10359,7 @@
         <target>Poprzedni rok</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ManagerDashboard_showHoursFor" translate="yes">
+    <unit id="teams.teams:ManagerDashboard_showHoursFor" translate="no">
       <notes>
       <note id="context">Label prompting selection of hours to display.</note>
     </notes>
@@ -10269,7 +10368,7 @@
         <target>Pokaż godziny dla</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ManagerDashboard_sortBy" translate="yes">
+    <unit id="teams.teams:ManagerDashboard_sortBy" translate="no">
       <notes>
       <note id="context">Label for sorting options.</note>
     </notes>
@@ -10278,7 +10377,7 @@
         <target>Sortuj według</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ManagerDashboard_lowestFirst" translate="yes">
+    <unit id="teams.teams:ManagerDashboard_lowestFirst" translate="no">
       <notes>
       <note id="context">Sorting option for displaying the lowest values first.</note>
     </notes>
@@ -10287,7 +10386,7 @@
         <target>Najmniejsza liczba na początku</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ManagerDashboard_highestFirst" translate="yes">
+    <unit id="teams.teams:ManagerDashboard_highestFirst" translate="no">
       <notes>
       <note id="context">Sorting option for displaying the highest values first.</note>
     </notes>
@@ -10296,7 +10395,7 @@
         <target>Największa liczba na początku</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ManagerDashboard_aToZ" translate="yes">
+    <unit id="teams.teams:ManagerDashboard_aToZ" translate="no">
       <notes>
       <note id="context">Sorting option for alphabetical order from A to Z.</note>
     </notes>
@@ -10305,7 +10404,7 @@
         <target>A do Z</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ManagerDashboard_zToA" translate="yes">
+    <unit id="teams.teams:ManagerDashboard_zToA" translate="no">
       <notes>
       <note id="context">Sorting option for reverse alphabetical order from Z to A.</note>
     </notes>
@@ -10314,7 +10413,7 @@
         <target>Z do A</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ManagerDashboard_individualGraphSwitchTooltip" translate="yes">
+    <unit id="teams.teams:ManagerDashboard_individualGraphSwitchTooltip" translate="no">
       <notes>
       <note id="context">Tooltip explaining individual learning hours analysis graph.</note>
     </notes>
@@ -10323,7 +10422,7 @@
         <target>Wykres przedstawia analizę poszczególnych członków zespołu w funkcji godzin nauki, czyli liczby godzin nauki przypadających na każdego członka.</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ManagerDashboard_teamGraphSwitchTooltip" translate="yes">
+    <unit id="teams.teams:ManagerDashboard_teamGraphSwitchTooltip" translate="no">
       <notes>
       <note id="context">Tooltip explaining team learning hours distribution graph.</note>
     </notes>
@@ -10332,7 +10431,7 @@
         <target>Wykres przedstawia analizę liczby członków zespołu względem godzin szkoleniowych, tzn. na ile osób przypada określony zakres godzin szkoleniowych.</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ManagerDashboard_totalAssignmentTooltip" translate="yes">
+    <unit id="teams.teams:ManagerDashboard_totalAssignmentTooltip" translate="no">
       <notes>
       <note id="context">Tooltip describing total assignments given to the team.</note>
     </notes>
@@ -10341,7 +10440,7 @@
         <target>Całkowita liczba treści przypisanych do Twojego zespołu w danym czasie</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ManagerDashboard_dueIn2WeeksTooltip" translate="yes">
+    <unit id="teams.teams:ManagerDashboard_dueIn2WeeksTooltip" translate="no">
       <notes>
       <note id="context">Tooltip describing assignments due in the next two weeks.</note>
     </notes>
@@ -10350,7 +10449,7 @@
         <target>Wszystkie zadania, których termin mija w ciągu dwóch najbliższych tygodni</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ManagerDashboard_overdueTooltip" translate="yes">
+    <unit id="teams.teams:ManagerDashboard_overdueTooltip" translate="no">
       <notes>
       <note id="context">Tooltip describing assignments that are overdue.</note>
     </notes>
@@ -10359,7 +10458,7 @@
         <target>Suma zadań, których termin upłynął</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ManagerDashboard_noData" translate="yes">
+    <unit id="teams.teams:ManagerDashboard_noData" translate="no">
       <notes>
       <note id="context">Notification indicating absence of data.</note>
     </notes>
@@ -10602,7 +10701,7 @@
         <target>Umiejętność</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ManagerDashboard_teamMember" translate="yes">
+    <unit id="teams.teams:ManagerDashboard_teamMember" translate="no">
       <notes>
       <note id="context">Label for an individual team member.</note>
     </notes>
@@ -10962,7 +11061,7 @@
         <target>Nie masz już uprawnień do przeglądania tej zawartości.</target>
       </segment>
     </unit>
-    <unit id="teams.teams:MiniCard_pathwayPluralLabel" translate="no">
+    <unit id="teams.teams:MiniCard_pathwayPluralLabel" translate="yes">
       <notes>
       <note id="context">Represents the label for multiple pathways.</note>
     </notes>
@@ -10971,7 +11070,7 @@
         <target>ścieżki</target>
       </segment>
     </unit>
-    <unit id="teams.teams:MiniCard_pathwaySingularLabel" translate="no">
+    <unit id="teams.teams:MiniCard_pathwaySingularLabel" translate="yes">
       <notes>
       <note id="context">Represents the label for a single pathway.</note>
     </notes>
@@ -11214,7 +11313,7 @@
         <target>Przegląd</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SkillPasportTab_skillsAcquiredText" translate="no">
+    <unit id="teams.teams:SkillPasportTab_skillsAcquiredText" translate="yes">
       <notes>
       <note id="context">Describes content related to skills acquired during a user&apos;s learning journey.</note>
     </notes>
@@ -11340,7 +11439,7 @@
         <target>Data przypisania: Najnowsze</target>
       </segment>
     </unit>
-    <unit id="teams.teams:QuickSearchErrors_UnknownSearchField" translate="yes">
+    <unit id="teams.teams:QuickSearchErrors_UnknownSearchField" translate="no">
       <notes>
       <note id="context">Error message indicating the search field was not found.</note>
     </notes>
@@ -11349,7 +11448,7 @@
         <target>Nie można znaleźć określonej nazwy pola dla funkcji QuickSearch. Skontaktuj się ze swoim administratorem Salesforce.</target>
       </segment>
     </unit>
-    <unit id="teams.teams:QuickSearchErrors_TooManySearchFields" translate="yes">
+    <unit id="teams.teams:QuickSearchErrors_TooManySearchFields" translate="no">
       <notes>
       <note id="context">Error message indicating there are too many search fields.</note>
     </notes>
@@ -11358,7 +11457,7 @@
         <target>Błąd zbyt wielu pól wyszukiwania</target>
       </segment>
     </unit>
-    <unit id="teams.teams:QuickSearchErrors_BlankSearchData" translate="yes">
+    <unit id="teams.teams:QuickSearchErrors_BlankSearchData" translate="no">
       <notes>
       <note id="context">Error message indicating missing field data for the search object.</note>
     </notes>
@@ -11367,7 +11466,7 @@
         <target>Określone dane pola nie istnieją dla tego obiektu. Nie można wykonać funkcji QuickSearch.</target>
       </segment>
     </unit>
-    <!-- File::widgets:: NewWords: 330, NewStrings: 50 -->
+    <!-- File::widgets:: NewWords: 143, NewStrings: 13 -->
   </file>
-  <!-- XLIFF::widgets_pl-PL.xlf:: TotalNewWords: 424, TotalNewStrings: 113 -->
+  <!-- XLIFF::widgets_pl-PL.xlf:: TotalNewWords: 160, TotalNewStrings: 16 -->
 </xliff>

@@ -1035,7 +1035,7 @@
         <target>간단히 표시</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_journey" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_journey" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a journey.</note>
     </notes>
@@ -1044,7 +1044,7 @@
         <target>Journey</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_article" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_article" translate="no">
       <notes>
       <note id="context">Label indicating the content type is an article.</note>
     </notes>
@@ -1053,7 +1053,7 @@
         <target>기사</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_assessment" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_assessment" translate="no">
       <notes>
       <note id="context">Label indicating the content type is an assessment.</note>
     </notes>
@@ -1062,7 +1062,7 @@
         <target>평가</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_audio" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_audio" translate="no">
       <notes>
       <note id="context">Label indicating the content type is an audio file.</note>
     </notes>
@@ -1071,7 +1071,7 @@
         <target>오디오</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_audioBook" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_audioBook" translate="no">
       <notes>
       <note id="context">Label indicating the content type is an audiobook.</note>
     </notes>
@@ -1080,7 +1080,7 @@
         <target>오디오 북</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_blog" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_blog" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a blog post.</note>
     </notes>
@@ -1089,7 +1089,7 @@
         <target>블로그</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_classroom" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_classroom" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a classroom-based learning module.</note>
     </notes>
@@ -1098,7 +1098,7 @@
         <target>강의실</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_course" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_course" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a course.</note>
     </notes>
@@ -1107,7 +1107,7 @@
         <target>과정</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_curriculum" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_curriculum" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a curriculum.</note>
     </notes>
@@ -1116,7 +1116,7 @@
         <target>교육 과정</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_dataAndAnalytics" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_dataAndAnalytics" translate="no">
       <notes>
       <note id="context">Label indicating the content type is related to data and analytics.</note>
     </notes>
@@ -1125,7 +1125,7 @@
         <target>데이터 및 분석</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_document" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_document" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a document.</note>
     </notes>
@@ -1134,7 +1134,7 @@
         <target>문서</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_eBook" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_eBook" translate="no">
       <notes>
       <note id="context">Label indicating the content type is an e-book.</note>
     </notes>
@@ -1143,7 +1143,7 @@
         <target>E-Book</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_Infographic" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_Infographic" translate="no">
       <notes>
       <note id="context">Label indicating the content type is an infographic.</note>
     </notes>
@@ -1152,7 +1152,7 @@
         <target>인포그래픽</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_liveEvent" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_liveEvent" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a live event.</note>
     </notes>
@@ -1161,7 +1161,7 @@
         <target>라이브 이벤트</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_MyGuide" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_MyGuide" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a guide.</note>
     </notes>
@@ -1170,7 +1170,7 @@
         <target>MyGuide</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_news" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_news" translate="no">
       <notes>
       <note id="context">Label indicating the content type is news.</note>
     </notes>
@@ -1179,7 +1179,7 @@
         <target>뉴스</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_other" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_other" translate="no">
       <notes>
       <note id="context">Label indicating the content type is uncategorized or other.</note>
     </notes>
@@ -1188,7 +1188,7 @@
         <target>기타</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_podcast" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_podcast" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a podcast.</note>
     </notes>
@@ -1197,7 +1197,7 @@
         <target>팟캐스트</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_poll" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_poll" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a poll.</note>
     </notes>
@@ -1206,7 +1206,7 @@
         <target>투표</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_project" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_project" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a project.</note>
     </notes>
@@ -1215,7 +1215,7 @@
         <target>프로젝트</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_quiz" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_quiz" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a quiz.</note>
     </notes>
@@ -1224,7 +1224,7 @@
         <target>퀴즈</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_research" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_research" translate="no">
       <notes>
       <note id="context">Label indicating the content type is research material.</note>
     </notes>
@@ -1233,7 +1233,7 @@
         <target>연구</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_slides" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_slides" translate="no">
       <notes>
       <note id="context">Label indicating the content type is presentation slides.</note>
     </notes>
@@ -1242,7 +1242,7 @@
         <target>슬라이드</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_spreadsheet" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_spreadsheet" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a spreadsheet.</note>
     </notes>
@@ -1251,7 +1251,7 @@
         <target>스프레드시트</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_training" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_training" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a training module.</note>
     </notes>
@@ -1260,7 +1260,7 @@
         <target>교육</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType.VILT" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType.VILT" translate="no">
       <notes>
       <note id="context">Label indicating the content type is virtual instructor-led training (VILT).</note>
     </notes>
@@ -1269,7 +1269,7 @@
         <target>가상 강사 주도형 교육(VILT)</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_video" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_video" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a video.</note>
     </notes>
@@ -1278,7 +1278,7 @@
         <target>비디오</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_videoStream" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_videoStream" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a video stream.</note>
     </notes>
@@ -1287,7 +1287,7 @@
         <target>비디오 스트림</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_webinar" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_webinar" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a webinar.</note>
     </notes>
@@ -1296,7 +1296,7 @@
         <target>웹세미나</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_whitePaper" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_whitePaper" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a white paper.</note>
     </notes>
@@ -1305,7 +1305,7 @@
         <target>화이트 페이퍼</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_askMeAnything" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_askMeAnything" translate="no">
       <notes>
       <note id="context">Label indicating the content type is an &quot;Ask me anything&quot; session.</note>
     </notes>
@@ -1314,7 +1314,7 @@
         <target>무엇이든 물어보세요</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_image" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_image" translate="no">
       <notes>
       <note id="context">Label indicating the content type is an image.</note>
     </notes>
@@ -1323,7 +1323,7 @@
         <target>이미지 </target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_instructorLedTraining" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_instructorLedTraining" translate="no">
       <notes>
       <note id="context">Label indicating the content type is instructor-led training.</note>
     </notes>
@@ -1332,7 +1332,7 @@
         <target>강사 주도식 교육</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_money" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_money" translate="no">
       <notes>
       <note id="context">Label indicating the content type is related to money or finance.</note>
     </notes>
@@ -1341,7 +1341,7 @@
         <target>자금</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_racing" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_racing" translate="no">
       <notes>
       <note id="context">Label indicating the content type is related to racing.</note>
     </notes>
@@ -1350,7 +1350,7 @@
         <target>레이싱</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_SCORM" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_SCORM" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a SCORM-compliant module.</note>
     </notes>
@@ -1359,7 +1359,7 @@
         <target>SCORM</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_selfPacedCourse" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_selfPacedCourse" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a self-paced course.</note>
     </notes>
@@ -1368,7 +1368,7 @@
         <target>자율식 과정</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_sports" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_sports" translate="no">
       <notes>
       <note id="context">Label indicating the content type is related to sports.</note>
     </notes>
@@ -1377,7 +1377,7 @@
         <target>스포츠</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_survey" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_survey" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a survey.</note>
     </notes>
@@ -1386,7 +1386,7 @@
         <target>설문 조사</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_swimming" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_swimming" translate="no">
       <notes>
       <note id="context">Label indicating the content type is related to swimming.</note>
     </notes>
@@ -1395,7 +1395,7 @@
         <target>수영</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_text" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_text" translate="no">
       <notes>
       <note id="context">Label indicating the content type is text-based.</note>
     </notes>
@@ -1404,7 +1404,7 @@
         <target>텍스트</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_transcript" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_transcript" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a transcript.</note>
     </notes>
@@ -1413,7 +1413,7 @@
         <target>성적 기록</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_tutorial" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_tutorial" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a tutorial.</note>
     </notes>
@@ -1422,7 +1422,7 @@
         <target>튜토리얼</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_virtualLab" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_virtualLab" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a virtual lab.</note>
     </notes>
@@ -1431,7 +1431,7 @@
         <target>가상 랩</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_wikipedia" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_wikipedia" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a Wikipedia article.</note>
     </notes>
@@ -1440,7 +1440,7 @@
         <target>위키피디아</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_event" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_event" translate="no">
       <notes>
       <note id="context">Label indicating the content type is an event.</note>
     </notes>
@@ -1449,7 +1449,7 @@
         <target>이벤트</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_experience" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_experience" translate="no">
       <notes>
       <note id="context">Label indicating the content type is an experience-based learning module.</note>
     </notes>
@@ -1458,7 +1458,7 @@
         <target>경력</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_file" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_file" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a file.</note>
     </notes>
@@ -1467,7 +1467,7 @@
         <target>파일</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_interactive" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_interactive" translate="no">
       <notes>
       <note id="context">Label indicating the content type is interactive.</note>
     </notes>
@@ -1476,7 +1476,7 @@
         <target>대화</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_resource" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_resource" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a resource.</note>
     </notes>
@@ -1485,7 +1485,7 @@
         <target>리소스</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_link" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_link" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a link.</note>
     </notes>
@@ -1494,7 +1494,7 @@
         <target> 연결</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_deleteCommentToast" translate="yes">
+    <unit id="br-ext.br-ext:Cards_deleteCommentToast" translate="no">
       <notes>
       <note id="context">Message displayed when a comment is successfully deleted.</note>
     </notes>
@@ -2256,7 +2256,7 @@
     </notes>
       <segment >
         <source>Login to your &lt;b&gt;{{orgName}}&lt;/b&gt; account to get the relevant content from &lt;b&gt;{{orgName}}&lt;/b&gt;</source>
-        <target>&lt;b&gt;{{orgName}}&lt;/b&gt; 계정에 로그인하여 &lt;b&gt;{{orgName}}&lt;/b&gt;에서 관련 콘텐츠를 받으십시오.</target>
+        <target>&lt;b&gt;{{orgName}}&lt;/b&gt; 계정에 로그인하여 &lt;b&gt;{{orgName}}&lt;/b&gt;에서 관련 콘텐츠를 가져옵니다.</target>
       </segment>
     </unit>
     <unit id="br-ext.br-ext:SearchPanel_loggedInLabel" translate="no">
@@ -2439,7 +2439,7 @@
         <target>서비스 약관</target>
       </segment>
     </unit>
-    <!-- File::widgets:: NewWords: 84, NewStrings: 54 -->
+    <!-- File::widgets:: NewWords: 16, NewStrings: 2 -->
   </file>
   <file id="widgets:br-ext.common" original="packages/widgets/br-ext/labels/common.yaml" translate="yes">
     <notes>
@@ -2697,7 +2697,7 @@
         <target>Pathways</target>
       </segment>
     </unit>
-    <unit id="br-ext.common:pathwaySingularLabel" translate="yes">
+    <unit id="br-ext.common:pathwaySingularLabel" translate="no">
       <notes>
       <note id="context">Label text to be shown on the minicard cover image smartcard count banner</note>
     </notes>
@@ -2823,7 +2823,7 @@
         <target>LiveStream 종료</target>
       </segment>
     </unit>
-    <!-- File::widgets:: NewWords: 1, NewStrings: 1 -->
+    <!-- File::widgets:: NewWords: 0, NewStrings: 0 -->
   </file>
   <file id="widgets:teams.common" original="packages/widgets/teams/labels/common.yaml" translate="yes">
     <notes>
@@ -3360,7 +3360,7 @@
         <target>태그</target>
       </segment>
     </unit>
-    <unit id="teams.common:channelsText" translate="yes">
+    <unit id="teams.common:channelsText" translate="no">
       <notes>
       <note id="context">Label text to show the channels the card belongs to be shown in the pathway footer</note>
     </notes>
@@ -4503,7 +4503,7 @@
         <target>모든 질문은 필수입니다.</target>
       </segment>
     </unit>
-    <unit id="teams.common:smartCardSingularLabel" translate="yes">
+    <unit id="teams.common:smartCardSingularLabel" translate="no">
       <notes>
       <note id="context">Represents the label for a single smart card.</note>
     </notes>
@@ -4512,7 +4512,7 @@
         <target>스마트카드</target>
       </segment>
     </unit>
-    <unit id="teams.common:featured" translate="yes">
+    <unit id="teams.common:featured" translate="no">
       <notes>
       <note id="context">A label indicating that the content or item is highlighted as featured or recommended.</note>
     </notes>
@@ -4521,7 +4521,7 @@
         <target>특집</target>
       </segment>
     </unit>
-    <unit id="teams.common:home" translate="yes">
+    <unit id="teams.common:home" translate="no">
       <notes>
       <note id="context">Label for the home section or main page.</note>
     </notes>
@@ -4530,7 +4530,7 @@
         <target>홈</target>
       </segment>
     </unit>
-    <unit id="teams.common:handle" translate="yes">
+    <unit id="teams.common:handle" translate="no">
       <notes>
       <note id="context">Label for the text &quot;Handle&quot; - of a user</note>
     </notes>
@@ -4539,7 +4539,7 @@
         <target>취급</target>
       </segment>
     </unit>
-    <unit id="teams.common:time" translate="yes">
+    <unit id="teams.common:time" translate="no">
       <notes>
       <note id="context">The label text denoting the Time for training details in the smart card detail view.</note>
     </notes>
@@ -4548,7 +4548,7 @@
         <target>시간</target>
       </segment>
     </unit>
-    <unit id="teams.common:status" translate="yes">
+    <unit id="teams.common:status" translate="no">
       <notes>
       <note id="context">Represents a label indicating the current status of an item.</note>
     </notes>
@@ -4557,7 +4557,7 @@
         <target>상태</target>
       </segment>
     </unit>
-    <unit id="teams.common:viewAttendeesLabel" translate="yes">
+    <unit id="teams.common:viewAttendeesLabel" translate="no">
       <notes>
       <note id="context">This text is used as all attendees&apos; labels.</note>
     </notes>
@@ -4566,13 +4566,22 @@
         <target>참석자 보기</target>
       </segment>
     </unit>
-    <!-- File::widgets:: NewWords: 9, NewStrings: 8 -->
+    <unit id="teams.common:less" translate="yes">
+      <notes>
+      <note id="context">The Label text for Minimising More options tab</note>
+    </notes>
+      <segment >
+        <source>Less</source>
+        <target>작음</target>
+      </segment>
+    </unit>
+    <!-- File::widgets:: NewWords: 1, NewStrings: 1 -->
   </file>
   <file id="widgets:teams.teams" original="packages/widgets/teams/labels/teams.yaml" translate="yes">
     <notes>
       <note id="n1">Edcast Translation file for widgets</note>
     </notes>
-    <unit id="teams.teams:dateTimeTranslations_current" translate="yes">
+    <unit id="teams.teams:dateTimeTranslations_current" translate="no">
       <notes>
       <note id="context">Label indicating the present time or data.</note>
     </notes>
@@ -4959,7 +4968,7 @@
         <target>계속하려면 확인란을 선택하십시오</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Cards_star" translate="yes">
+    <unit id="teams.teams:Cards_star" translate="no">
       <notes>
       <note id="context">Label for a single star rating or feature.</note>
     </notes>
@@ -4968,7 +4977,7 @@
         <target>별점</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Cards_stars" translate="yes">
+    <unit id="teams.teams:Cards_stars" translate="no">
       <notes>
       <note id="context">Label for multiple star ratings or features.</note>
     </notes>
@@ -4977,7 +4986,7 @@
         <target>별점</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Cards_linkDuplicateString" translate="yes">
+    <unit id="teams.teams:Cards_linkDuplicateString" translate="no">
       <notes>
       <note id="context">Error message indicating a duplicate SmartCard URL.</note>
     </notes>
@@ -4986,7 +4995,7 @@
         <target>다음 콘텐츠가 이미 존재하므로 위에서 언급된 URL로 SmartCard를 생성할 수 없습니다.</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Cards_deleteCommentToast" translate="yes">
+    <unit id="teams.teams:Cards_deleteCommentToast" translate="no">
       <notes>
       <note id="context">Notification confirming successful comment deletion.</note>
     </notes>
@@ -4995,7 +5004,7 @@
         <target>댓글이 성공적으로 삭제되었습니다.</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Cards_loadingUsers" translate="yes">
+    <unit id="teams.teams:Cards_loadingUsers" translate="no">
       <notes>
       <note id="context">Indicates that user data is currently being retrieved.</note>
     </notes>
@@ -5004,7 +5013,7 @@
         <target>사용자 로드 중</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Cards_loadingGroups" translate="yes">
+    <unit id="teams.teams:Cards_loadingGroups" translate="no">
       <notes>
       <note id="context">Indicates that group data is currently being retrieved.</note>
     </notes>
@@ -7641,7 +7650,7 @@
         <target>스마트 카드를 삭제하려고 합니다.</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ShareModal_searchGroups" translate="yes">
+    <unit id="teams.teams:ShareModal_searchGroups" translate="no">
       <notes>
       <note id="context">Prompt for searching through groups.</note>
     </notes>
@@ -7686,7 +7695,7 @@
         <target>개인 검색</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_liveTabPendingLabel" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_liveTabPendingLabel" translate="no">
       <notes>
       <note id="context">Label indicating that the item is pending approval.</note>
     </notes>
@@ -7695,7 +7704,7 @@
         <target>보류 중</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_liveTabDeclinedLabel" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_liveTabDeclinedLabel" translate="no">
       <notes>
       <note id="context">Label indicating that the item is declined.</note>
     </notes>
@@ -7704,7 +7713,7 @@
         <target>거부함</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_liveTabUnregisteredLabel" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_liveTabUnregisteredLabel" translate="no">
       <notes>
       <note id="context">Label indicating that the user is not registered.</note>
     </notes>
@@ -7713,7 +7722,7 @@
         <target>미등록</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_liveNoDataLabel" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_liveNoDataLabel" translate="no">
       <notes>
       <note id="context">Notification indicating no user data is available.</note>
     </notes>
@@ -7722,7 +7731,7 @@
         <target>사용자 목록이 현재 비어 있습니다.</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_liveTabRegisteredOnLabel" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_liveTabRegisteredOnLabel" translate="no">
       <notes>
       <note id="context">Label for displaying the registration date.</note>
     </notes>
@@ -7731,7 +7740,7 @@
         <target>등록 과목</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_liveTabApprovalModalLabel" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_liveTabApprovalModalLabel" translate="no">
       <notes>
       <note id="context">Confirmation message for approving multiple member requests.</note>
     </notes>
@@ -7740,7 +7749,7 @@
         <target>{{selected}}명의 멤버 요청을 승인하려고 합니다. 승인하시겠습니까?</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_liveTabDeclineModalLabel" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_liveTabDeclineModalLabel" translate="no">
       <notes>
       <note id="context">Confirmation message for declining multiple member requests.</note>
     </notes>
@@ -7749,7 +7758,7 @@
         <target>{{selected}}명의 멤버 요청을 거부하려고 합니다. 거부하시겠습니까?</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_liveTabMarkAsCompleteModalLabel" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_liveTabMarkAsCompleteModalLabel" translate="no">
       <notes>
       <note id="context">Confirmation message for marking multiple member requests as complete.</note>
     </notes>
@@ -7758,7 +7767,7 @@
         <target>{{selected}}명의 멤버 요청을 완료로 표시하려고 합니다. 완료로 표시하시겠습니까?</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_liveTabMarkAsCompleteLabel" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_liveTabMarkAsCompleteLabel" translate="no">
       <notes>
       <note id="context">Action button label for marking an item as complete.</note>
     </notes>
@@ -7767,7 +7776,7 @@
         <target>완료로 표시</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_liveToastMarkAsComplete" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_liveToastMarkAsComplete" translate="no">
       <notes>
       <note id="context">Notification indicating successful completion of member requests.</note>
     </notes>
@@ -7776,7 +7785,7 @@
         <target>멤버가 성공적으로 완료로 표시되었습니다.</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_unRegistrationConfirmationLabel" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_unRegistrationConfirmationLabel" translate="no">
       <notes>
       <note id="context">Label for the confirmation dialog to unregister.</note>
     </notes>
@@ -7785,7 +7794,7 @@
         <target>등록 해제 확인</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_unRegistrationConfirmationBody" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_unRegistrationConfirmationBody" translate="no">
       <notes>
       <note id="context">Confirmation message to unregister from an event.</note>
     </notes>
@@ -7794,7 +7803,7 @@
         <target>등록을 취소하시겠습니까? 등록을 취소하면 더 이상 라이브 이벤트에 액세스할 수 없습니다.</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_liveEventRegisteredMessage" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_liveEventRegisteredMessage" translate="no">
       <notes>
       <note id="context">Notification indicating successful registration for an event.</note>
     </notes>
@@ -7803,7 +7812,7 @@
         <target>이 이벤트에 등록되었습니다.</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_liveEventUnRegisteredMessage" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_liveEventUnRegisteredMessage" translate="no">
       <notes>
       <note id="context">Notification indicating successful un-registration from an event.</note>
     </notes>
@@ -7812,7 +7821,7 @@
         <target>이벤트에서 등록을 취소했습니다.</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_addToCalendarLabel" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_addToCalendarLabel" translate="no">
       <notes>
       <note id="context">Button label for adding an event to the calendar.</note>
     </notes>
@@ -7821,7 +7830,7 @@
         <target>캘린더에 추가</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_meetingLinkLabel" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_meetingLinkLabel" translate="no">
       <notes>
       <note id="context">Label for displaying the meeting link.</note>
     </notes>
@@ -7830,7 +7839,7 @@
         <target>모임 링크</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_recordingURLLabel" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_recordingURLLabel" translate="no">
       <notes>
       <note id="context">Label for displaying the recording URL.</note>
     </notes>
@@ -7839,7 +7848,7 @@
         <target>URL 기록 중</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_registerMeetingLinkLabel" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_registerMeetingLinkLabel" translate="no">
       <notes>
       <note id="context">Prompt for users to register in order to receive the meeting link.</note>
     </notes>
@@ -7866,12 +7875,12 @@
         <target>액세스가 거부되었습니다.</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_pendingApproval" translate="no">
+    <unit id="teams.teams:SmartCardDetailView_pendingApproval" translate="yes">
       <notes>
       <note id="context">Approval is yet to be approved by the approver</note>
     </notes>
       <segment >
-        <source>Pending Approval</source>
+        <source>Pending approval</source>
         <target>승인 보류 중</target>
       </segment>
     </unit>
@@ -8142,7 +8151,7 @@
     </notes>
       <segment >
         <source>You are about to delete the {{readable_card_type}} &lt;i&gt;{{card_title}}&lt;/i&gt;. Please be aware that doing so will remove all associated statistics and comments. This action cannot be undone. How would you like to proceed?</source>
-        <target>{{readable_card_type}} &lt;i&gt;{{card_title}}&lt;/i&gt;을(를) 삭제하려고 합니다. 삭제를 진행하면 모든 통계와 댓글도 삭제된다는 점을 주의해주십시오. 이 작업은 실행 취소할 수 없습니다. 계속하시겠습니까?</target>
+        <target>&lt;i&gt; {{readable_card_type}} &lt;/i&gt;{{card_title}}을(를) 삭제하려고 합니다. 삭제를 진행하면 모든 통계와 댓글도 삭제된다는 점을 주의해주십시오. 이 작업은 실행 취소할 수 없습니다. 계속하시겠습니까?</target>
       </segment>
     </unit>
     <unit id="teams.teams:SmartCardDetailView_progressText" translate="no">
@@ -9180,15 +9189,6 @@
         <target>기술 디렉토리</target>
       </segment>
     </unit>
-    <unit id="teams.teams:TopNav_less" translate="no">
-      <notes>
-      <note id="context">The Label text for Minimising More options tab in Top NavBar</note>
-    </notes>
-      <segment >
-        <source>Less</source>
-        <target>작음</target>
-      </segment>
-    </unit>
     <unit id="teams.teams:TopNav_selectLanguage" translate="no">
       <notes>
       <note id="context">Label text for application language dropdown on the side drawer</note>
@@ -9405,7 +9405,7 @@
         <target>취소</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Groups_myAssignments" translate="yes">
+    <unit id="teams.teams:Groups_myAssignments" translate="no">
       <notes>
       <note id="context">Section label for personal assignments.</note>
     </notes>
@@ -9414,7 +9414,7 @@
         <target>내 과제</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Groups_associatedChannels" translate="yes">
+    <unit id="teams.teams:Groups_associatedChannels" translate="no">
       <notes>
       <note id="context">Label for channels linked to a group.</note>
     </notes>
@@ -10215,7 +10215,106 @@
         <target>선택: 기술 이름</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ManagerDashboard_allTime" translate="yes">
+    <unit id="teams.teams:ManagerDashboard_teamSkillsTableTitleTooltip" translate="yes">
+      <notes>
+      <note id="context">Informative text to indicate more information about the Skills section of the table.</note>
+    </notes>
+      <segment >
+        <source>List of all the skills your team has and levels in those skills. You can also recommend them to get up skilled i.e. increase the level of the skill</source>
+        <target>팀이 보유한 모든 기술과 해당 기술의 수준을 나열합니다. 또한 팀에게 기술을 익히도록(예: 기술 수준 향상) 추천할 수도 있습니다.</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:ManagerDashboard_tableTitleTooltipCompletedDescription" translate="yes">
+      <notes>
+      <note id="context">Informative text to indicate more information about the count of people who completed that specific content item.</note>
+    </notes>
+      <segment >
+        <source>Completed: Number of people who have completed the content</source>
+        <target>완료됨: 콘텐츠 완료한 인원 수</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:ManagerDashboard_tableTitleTooltipOverdueDescription" translate="yes">
+      <notes>
+      <note id="context">Informative text to indicate more information about the Overdue section of the table.</note>
+    </notes>
+      <segment >
+        <source>Overdue: Number of people for whom the content completion due date is in past</source>
+        <target>기한 경과: 콘텐츠 완료 만료 날짜가 지난 사람 수</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:ManagerDashboard_tableTitleTooltipDueIn2WeeksDescription" translate="yes">
+      <notes>
+      <note id="context">Informative text to indicate more information about the content that is due within the next 2 weeks section of the table.</note>
+    </notes>
+      <segment >
+        <source>Due In 2 weeks: Number of people for whom the content completion due date is in next two weeks</source>
+        <target>2주 후에 만기: 콘텐츠 완료 만료 날짜가 다음 2주 내인 사람 수</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:ManagerDashboard_tableTitleTooltipNotStartedDescription" translate="yes">
+      <notes>
+      <note id="context">Informative text to indicate more information about the Not Started section of the table.</note>
+    </notes>
+      <segment >
+        <source>Not Started: Number of people who have not started consuming the content</source>
+        <target>시작되지 않음: 콘텐츠 사용을 시작하지 않은 사람 수</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:ManagerDashboard_tableTitleTooltipAssignedToDescription" translate="yes">
+      <notes>
+      <note id="context">Informative text to indicate more information about the Assigned To section of the table.</note>
+    </notes>
+      <segment >
+        <source>Assigned to: Number of people the content is assigned to</source>
+        <target>지정 대상: 콘텐츠가 할당된 사람 수</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:ManagerDashboard_tableTitleTooltipDescription" translate="yes">
+      <notes>
+      <note id="context">Informative text to indicate more information about the info table.</note>
+    </notes>
+      <segment >
+        <source>Shows all content assigned to your team</source>
+        <target>팀에 지정된 모든 콘텐츠 표시합니다.</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:ManagerDashboard_allCompleted" translate="yes">
+      <notes>
+      <note id="context">Informative text to indicate that all content has been completed.</note>
+    </notes>
+      <segment >
+        <source>All Completed</source>
+        <target>모두 완료됨</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:ManagerDashboard_lastSent" translate="yes">
+      <notes>
+      <note id="context">Informative text to indicate when reminder was sent.</note>
+    </notes>
+      <segment >
+        <source>Last Sent</source>
+        <target>마지막으로 보낸 날짜</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:ManagerDashboard_dueDateRange" translate="yes">
+      <notes>
+      <note id="context">Informative text to indicate a date picker filter to choose a date range.</note>
+    </notes>
+      <segment >
+        <source>Due Date Range</source>
+        <target>만료 날짜 범위</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:ManagerDashboard_searchContent" translate="yes">
+      <notes>
+      <note id="context">Placeholder label for text input field to search for content.</note>
+    </notes>
+      <segment >
+        <source>Search Content</source>
+        <target>콘텐츠 검색</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:ManagerDashboard_allTime" translate="no">
       <notes>
       <note id="context">Label indicating data for the entire duration.</note>
     </notes>
@@ -10224,7 +10323,7 @@
         <target>항상</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ManagerDashboard_thisWeek" translate="yes">
+    <unit id="teams.teams:ManagerDashboard_thisWeek" translate="no">
       <notes>
       <note id="context">Label indicating data for the current week.</note>
     </notes>
@@ -10233,7 +10332,7 @@
         <target>이번 주</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ManagerDashboard_last30Days" translate="yes">
+    <unit id="teams.teams:ManagerDashboard_last30Days" translate="no">
       <notes>
       <note id="context">Label indicating data for the past 30 days.</note>
     </notes>
@@ -10242,7 +10341,7 @@
         <target>최근 30일</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ManagerDashboard_last3Months" translate="yes">
+    <unit id="teams.teams:ManagerDashboard_last3Months" translate="no">
       <notes>
       <note id="context">Label indicating data for the past 3 months.</note>
     </notes>
@@ -10251,7 +10350,7 @@
         <target>지난 3개월</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ManagerDashboard_last1Year" translate="yes">
+    <unit id="teams.teams:ManagerDashboard_last1Year" translate="no">
       <notes>
       <note id="context">Label indicating data for the past year.</note>
     </notes>
@@ -10260,7 +10359,7 @@
         <target>지난 1년</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ManagerDashboard_showHoursFor" translate="yes">
+    <unit id="teams.teams:ManagerDashboard_showHoursFor" translate="no">
       <notes>
       <note id="context">Label prompting selection of hours to display.</note>
     </notes>
@@ -10269,7 +10368,7 @@
         <target>다음에 대한 시간 표시:</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ManagerDashboard_sortBy" translate="yes">
+    <unit id="teams.teams:ManagerDashboard_sortBy" translate="no">
       <notes>
       <note id="context">Label for sorting options.</note>
     </notes>
@@ -10278,7 +10377,7 @@
         <target>정렬 기준</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ManagerDashboard_lowestFirst" translate="yes">
+    <unit id="teams.teams:ManagerDashboard_lowestFirst" translate="no">
       <notes>
       <note id="context">Sorting option for displaying the lowest values first.</note>
     </notes>
@@ -10287,7 +10386,7 @@
         <target>가장 낮은 것부터</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ManagerDashboard_highestFirst" translate="yes">
+    <unit id="teams.teams:ManagerDashboard_highestFirst" translate="no">
       <notes>
       <note id="context">Sorting option for displaying the highest values first.</note>
     </notes>
@@ -10296,7 +10395,7 @@
         <target>가장 높은 것부터</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ManagerDashboard_aToZ" translate="yes">
+    <unit id="teams.teams:ManagerDashboard_aToZ" translate="no">
       <notes>
       <note id="context">Sorting option for alphabetical order from A to Z.</note>
     </notes>
@@ -10305,7 +10404,7 @@
         <target>A부터 Z까지</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ManagerDashboard_zToA" translate="yes">
+    <unit id="teams.teams:ManagerDashboard_zToA" translate="no">
       <notes>
       <note id="context">Sorting option for reverse alphabetical order from Z to A.</note>
     </notes>
@@ -10314,7 +10413,7 @@
         <target>Z ~ A</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ManagerDashboard_individualGraphSwitchTooltip" translate="yes">
+    <unit id="teams.teams:ManagerDashboard_individualGraphSwitchTooltip" translate="no">
       <notes>
       <note id="context">Tooltip explaining individual learning hours analysis graph.</note>
     </notes>
@@ -10323,7 +10422,7 @@
         <target>그래프는 개별 팀 구성원 대 학습 시간, 즉 각 구성원의 학습 시간 수에 대한 분석을 보여줍니다.</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ManagerDashboard_teamGraphSwitchTooltip" translate="yes">
+    <unit id="teams.teams:ManagerDashboard_teamGraphSwitchTooltip" translate="no">
       <notes>
       <note id="context">Tooltip explaining team learning hours distribution graph.</note>
     </notes>
@@ -10332,7 +10431,7 @@
         <target>그래프는 얼마나 많은 사람들이 해당 범위 사이에서 학습 시간을 갖는지, 팀원 수 대 학습 시간을 분석한 것입니다.</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ManagerDashboard_totalAssignmentTooltip" translate="yes">
+    <unit id="teams.teams:ManagerDashboard_totalAssignmentTooltip" translate="no">
       <notes>
       <note id="context">Tooltip describing total assignments given to the team.</note>
     </notes>
@@ -10341,7 +10440,7 @@
         <target>기간 동안 팀에 할당된 총 콘텐츠 수</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ManagerDashboard_dueIn2WeeksTooltip" translate="yes">
+    <unit id="teams.teams:ManagerDashboard_dueIn2WeeksTooltip" translate="no">
       <notes>
       <note id="context">Tooltip describing assignments due in the next two weeks.</note>
     </notes>
@@ -10350,7 +10449,7 @@
         <target>오늘부터 다음 2주 내에 만료 날짜가 도래하는 총 과제</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ManagerDashboard_overdueTooltip" translate="yes">
+    <unit id="teams.teams:ManagerDashboard_overdueTooltip" translate="no">
       <notes>
       <note id="context">Tooltip describing assignments that are overdue.</note>
     </notes>
@@ -10359,7 +10458,7 @@
         <target>만료 날짜가 지난 총 과제 수</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ManagerDashboard_noData" translate="yes">
+    <unit id="teams.teams:ManagerDashboard_noData" translate="no">
       <notes>
       <note id="context">Notification indicating absence of data.</note>
     </notes>
@@ -10602,7 +10701,7 @@
         <target>기술</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ManagerDashboard_teamMember" translate="yes">
+    <unit id="teams.teams:ManagerDashboard_teamMember" translate="no">
       <notes>
       <note id="context">Label for an individual team member.</note>
     </notes>
@@ -11340,7 +11439,7 @@
         <target>지정 날짜: 가장 최근 항목</target>
       </segment>
     </unit>
-    <unit id="teams.teams:QuickSearchErrors_UnknownSearchField" translate="yes">
+    <unit id="teams.teams:QuickSearchErrors_UnknownSearchField" translate="no">
       <notes>
       <note id="context">Error message indicating the search field was not found.</note>
     </notes>
@@ -11349,7 +11448,7 @@
         <target>QuickSearch에 대해 지정된 필드 이름을 찾을 수 없습니다. Salesforce 관리자에게 문의하십시오.</target>
       </segment>
     </unit>
-    <unit id="teams.teams:QuickSearchErrors_TooManySearchFields" translate="yes">
+    <unit id="teams.teams:QuickSearchErrors_TooManySearchFields" translate="no">
       <notes>
       <note id="context">Error message indicating there are too many search fields.</note>
     </notes>
@@ -11358,7 +11457,7 @@
         <target>검색 필드가 너무 많음 오류</target>
       </segment>
     </unit>
-    <unit id="teams.teams:QuickSearchErrors_BlankSearchData" translate="yes">
+    <unit id="teams.teams:QuickSearchErrors_BlankSearchData" translate="no">
       <notes>
       <note id="context">Error message indicating missing field data for the search object.</note>
     </notes>
@@ -11367,7 +11466,7 @@
         <target>이 개체에 대해 지정한 필드 데이터가 없습니다. 빠른 검색을 수행할 수 없습니다.</target>
       </segment>
     </unit>
-    <!-- File::widgets:: NewWords: 330, NewStrings: 50 -->
+    <!-- File::widgets:: NewWords: 143, NewStrings: 13 -->
   </file>
-  <!-- XLIFF::widgets_ko-KR.xlf:: TotalNewWords: 424, TotalNewStrings: 113 -->
+  <!-- XLIFF::widgets_ko-KR.xlf:: TotalNewWords: 160, TotalNewStrings: 16 -->
 </xliff>

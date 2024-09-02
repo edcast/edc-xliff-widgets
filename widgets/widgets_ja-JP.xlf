@@ -321,7 +321,7 @@
     </notes>
       <segment >
         <source>Share this SmartCard</source>
-        <target>このスマートカードを共有する</target>
+        <target>このSmartCardを共有する</target>
       </segment>
     </unit>
     <unit id="br-ext.br-ext:CreateCard_shareDetailMessage" translate="no">
@@ -330,7 +330,7 @@
     </notes>
       <segment >
         <source>Select Channels, Groups, and/or Individuals you would like to share this SmartCard with upon creation</source>
-        <target>作成時にこのスマートカードをどのチャンネル、グループ、または個人と共有したいか選択してください</target>
+        <target>作成時にこのSmartCardをどのチャンネル、グループ、または個人と共有したいか選択してください</target>
       </segment>
     </unit>
     <unit id="br-ext.br-ext:CreateCard_followers" translate="no">
@@ -429,7 +429,7 @@
     </notes>
       <segment >
         <source>You can not create a SmartCard with this URL as the following content already exists</source>
-        <target>次のコンテンツが既に存在するため、このURLでスマートカードを作成できません</target>
+        <target>次のコンテンツが既に存在するため、このURLでSmartCardを作成できません</target>
       </segment>
     </unit>
     <unit id="br-ext.br-ext:CreateCard_successMessage" translate="no">
@@ -591,7 +591,7 @@
     </notes>
       <segment >
         <source>Please, provide a description for your SmartCard.</source>
-        <target>スマートカードの説明を入力してください。</target>
+        <target>SmartCardの説明を入力してください。</target>
       </segment>
     </unit>
     <unit id="br-ext.br-ext:CreateCard_tagsInputPlaceholder" translate="no">
@@ -825,7 +825,7 @@
     </notes>
       <segment >
         <source>Please specify the level of access for this SmartCard.</source>
-        <target>このスマートカードのアクセスレベルを指定してください。</target>
+        <target>このSmartCardのアクセスレベルを指定してください。</target>
       </segment>
     </unit>
     <unit id="br-ext.br-ext:CreateCard_privateInfoText" translate="no">
@@ -834,7 +834,7 @@
     </notes>
       <segment >
         <source>Viewing this SmartCard is restricted to users who you have shared it. Sharing a SmartCard can be done directly, or indirectly, via a Group, or Channel, that the users belong to.</source>
-        <target>このスマートカードの表示は、あなたが共有したユーザーに限定されます。スマートカードの共有は、ユーザーが属するグループまたはチャンネルを介して直接的または間接的に行うことができます。</target>
+        <target>このSmartCardの表示は、あなたが共有したユーザーに限定されます。SmartCardの共有は、ユーザーが属するグループまたはチャンネルを介して直接的または間接的に行うことができます。</target>
       </segment>
     </unit>
     <unit id="br-ext.br-ext:CreateCard_publicInfoText" translate="no">
@@ -843,7 +843,7 @@
     </notes>
       <segment >
         <source>Anyone can view this SmartCard.</source>
-        <target>このスマートカードは誰でも表示できます。</target>
+        <target>このSmartCardは誰でも表示できます。</target>
       </segment>
     </unit>
     <unit id="br-ext.br-ext:CreateCard_restrictTo" translate="no">
@@ -1035,16 +1035,16 @@
         <target>表示を減らす</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_journey" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_journey" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a journey.</note>
     </notes>
       <segment >
         <source>Journey</source>
-        <target>ジャーニー</target>
+        <target>Journey</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_article" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_article" translate="no">
       <notes>
       <note id="context">Label indicating the content type is an article.</note>
     </notes>
@@ -1053,7 +1053,7 @@
         <target>記事</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_assessment" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_assessment" translate="no">
       <notes>
       <note id="context">Label indicating the content type is an assessment.</note>
     </notes>
@@ -1062,7 +1062,7 @@
         <target>アセスメント</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_audio" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_audio" translate="no">
       <notes>
       <note id="context">Label indicating the content type is an audio file.</note>
     </notes>
@@ -1071,7 +1071,7 @@
         <target>オーディオ</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_audioBook" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_audioBook" translate="no">
       <notes>
       <note id="context">Label indicating the content type is an audiobook.</note>
     </notes>
@@ -1080,7 +1080,7 @@
         <target>オーディオブック</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_blog" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_blog" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a blog post.</note>
     </notes>
@@ -1089,7 +1089,7 @@
         <target>ブログ</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_classroom" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_classroom" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a classroom-based learning module.</note>
     </notes>
@@ -1098,7 +1098,7 @@
         <target>クラスルーム</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_course" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_course" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a course.</note>
     </notes>
@@ -1107,7 +1107,7 @@
         <target>コース</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_curriculum" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_curriculum" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a curriculum.</note>
     </notes>
@@ -1116,7 +1116,7 @@
         <target>カリキュラム</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_dataAndAnalytics" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_dataAndAnalytics" translate="no">
       <notes>
       <note id="context">Label indicating the content type is related to data and analytics.</note>
     </notes>
@@ -1125,7 +1125,7 @@
         <target>データ &amp; アナリティクス</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_document" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_document" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a document.</note>
     </notes>
@@ -1134,7 +1134,7 @@
         <target>ドキュメント</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_eBook" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_eBook" translate="no">
       <notes>
       <note id="context">Label indicating the content type is an e-book.</note>
     </notes>
@@ -1143,7 +1143,7 @@
         <target>eブック</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_Infographic" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_Infographic" translate="no">
       <notes>
       <note id="context">Label indicating the content type is an infographic.</note>
     </notes>
@@ -1152,7 +1152,7 @@
         <target>インフォグラフィック</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_liveEvent" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_liveEvent" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a live event.</note>
     </notes>
@@ -1161,7 +1161,7 @@
         <target>ライブイベント</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_MyGuide" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_MyGuide" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a guide.</note>
     </notes>
@@ -1170,7 +1170,7 @@
         <target>MyGuide</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_news" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_news" translate="no">
       <notes>
       <note id="context">Label indicating the content type is news.</note>
     </notes>
@@ -1179,7 +1179,7 @@
         <target>ニュース</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_other" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_other" translate="no">
       <notes>
       <note id="context">Label indicating the content type is uncategorized or other.</note>
     </notes>
@@ -1188,7 +1188,7 @@
         <target>その他</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_podcast" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_podcast" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a podcast.</note>
     </notes>
@@ -1197,7 +1197,7 @@
         <target>ポッドキャスト</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_poll" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_poll" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a poll.</note>
     </notes>
@@ -1206,7 +1206,7 @@
         <target>投票</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_project" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_project" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a project.</note>
     </notes>
@@ -1215,7 +1215,7 @@
         <target>プロジェクト</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_quiz" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_quiz" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a quiz.</note>
     </notes>
@@ -1224,7 +1224,7 @@
         <target>クイズ</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_research" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_research" translate="no">
       <notes>
       <note id="context">Label indicating the content type is research material.</note>
     </notes>
@@ -1233,7 +1233,7 @@
         <target>研究</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_slides" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_slides" translate="no">
       <notes>
       <note id="context">Label indicating the content type is presentation slides.</note>
     </notes>
@@ -1242,7 +1242,7 @@
         <target>スライド</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_spreadsheet" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_spreadsheet" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a spreadsheet.</note>
     </notes>
@@ -1251,7 +1251,7 @@
         <target>スプレッドシート</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_training" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_training" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a training module.</note>
     </notes>
@@ -1260,7 +1260,7 @@
         <target>研修</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType.VILT" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType.VILT" translate="no">
       <notes>
       <note id="context">Label indicating the content type is virtual instructor-led training (VILT).</note>
     </notes>
@@ -1269,7 +1269,7 @@
         <target>VILT</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_video" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_video" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a video.</note>
     </notes>
@@ -1278,7 +1278,7 @@
         <target>動画</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_videoStream" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_videoStream" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a video stream.</note>
     </notes>
@@ -1287,7 +1287,7 @@
         <target>動画配信</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_webinar" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_webinar" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a webinar.</note>
     </notes>
@@ -1296,7 +1296,7 @@
         <target>ウェブセミナー</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_whitePaper" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_whitePaper" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a white paper.</note>
     </notes>
@@ -1305,7 +1305,7 @@
         <target>ホワイトペーパー</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_askMeAnything" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_askMeAnything" translate="no">
       <notes>
       <note id="context">Label indicating the content type is an &quot;Ask me anything&quot; session.</note>
     </notes>
@@ -1314,7 +1314,7 @@
         <target>どんな質問でもお任せください。</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_image" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_image" translate="no">
       <notes>
       <note id="context">Label indicating the content type is an image.</note>
     </notes>
@@ -1323,7 +1323,7 @@
         <target>画像</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_instructorLedTraining" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_instructorLedTraining" translate="no">
       <notes>
       <note id="context">Label indicating the content type is instructor-led training.</note>
     </notes>
@@ -1332,7 +1332,7 @@
         <target>集合研修</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_money" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_money" translate="no">
       <notes>
       <note id="context">Label indicating the content type is related to money or finance.</note>
     </notes>
@@ -1341,7 +1341,7 @@
         <target>お金</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_racing" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_racing" translate="no">
       <notes>
       <note id="context">Label indicating the content type is related to racing.</note>
     </notes>
@@ -1350,7 +1350,7 @@
         <target>レーシング</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_SCORM" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_SCORM" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a SCORM-compliant module.</note>
     </notes>
@@ -1359,7 +1359,7 @@
         <target>SCORM</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_selfPacedCourse" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_selfPacedCourse" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a self-paced course.</note>
     </notes>
@@ -1368,7 +1368,7 @@
         <target>マイペースコース</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_sports" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_sports" translate="no">
       <notes>
       <note id="context">Label indicating the content type is related to sports.</note>
     </notes>
@@ -1377,7 +1377,7 @@
         <target>スポーツ</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_survey" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_survey" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a survey.</note>
     </notes>
@@ -1386,7 +1386,7 @@
         <target>調査</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_swimming" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_swimming" translate="no">
       <notes>
       <note id="context">Label indicating the content type is related to swimming.</note>
     </notes>
@@ -1395,7 +1395,7 @@
         <target>水泳</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_text" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_text" translate="no">
       <notes>
       <note id="context">Label indicating the content type is text-based.</note>
     </notes>
@@ -1404,7 +1404,7 @@
         <target>テキスト</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_transcript" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_transcript" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a transcript.</note>
     </notes>
@@ -1413,7 +1413,7 @@
         <target>受講実績</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_tutorial" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_tutorial" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a tutorial.</note>
     </notes>
@@ -1422,7 +1422,7 @@
         <target>チュートリアル</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_virtualLab" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_virtualLab" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a virtual lab.</note>
     </notes>
@@ -1431,7 +1431,7 @@
         <target>バーチャルラボ</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_wikipedia" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_wikipedia" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a Wikipedia article.</note>
     </notes>
@@ -1440,7 +1440,7 @@
         <target>ウィキペディア</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_event" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_event" translate="no">
       <notes>
       <note id="context">Label indicating the content type is an event.</note>
     </notes>
@@ -1449,7 +1449,7 @@
         <target>イベント</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_experience" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_experience" translate="no">
       <notes>
       <note id="context">Label indicating the content type is an experience-based learning module.</note>
     </notes>
@@ -1458,7 +1458,7 @@
         <target>経験</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_file" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_file" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a file.</note>
     </notes>
@@ -1467,7 +1467,7 @@
         <target>ファイル</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_interactive" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_interactive" translate="no">
       <notes>
       <note id="context">Label indicating the content type is interactive.</note>
     </notes>
@@ -1476,7 +1476,7 @@
         <target>インタラクティブ</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_resource" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_resource" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a resource.</note>
     </notes>
@@ -1485,7 +1485,7 @@
         <target>リソース</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_link" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardType_link" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a link.</note>
     </notes>
@@ -1494,7 +1494,7 @@
         <target>リンク</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_deleteCommentToast" translate="yes">
+    <unit id="br-ext.br-ext:Cards_deleteCommentToast" translate="no">
       <notes>
       <note id="context">Message displayed when a comment is successfully deleted.</note>
     </notes>
@@ -1626,7 +1626,7 @@
     </notes>
       <segment >
         <source>Card successfully added to Pathway(s)</source>
-        <target>カードがパスウェイに正常に追加されました</target>
+        <target>カードがPathwayに正常に追加されました</target>
       </segment>
     </unit>
     <unit id="br-ext.br-ext:Cards_addToJourney" translate="no">
@@ -1635,7 +1635,7 @@
     </notes>
       <segment >
         <source>Add to Journey(s)</source>
-        <target>ジャーニーに追加</target>
+        <target>Journeyに追加</target>
       </segment>
     </unit>
     <unit id="br-ext.br-ext:Cards_noJourneyFoundString" translate="no">
@@ -1644,7 +1644,7 @@
     </notes>
       <segment >
         <source>No Journey found!</source>
-        <target>ジャーニーが見つかりません!</target>
+        <target>Journeyが見つかりません!</target>
       </segment>
     </unit>
     <unit id="br-ext.br-ext:Cards_addedToJourney" translate="no">
@@ -1653,7 +1653,7 @@
     </notes>
       <segment >
         <source>Card successfully added to Journey(s)</source>
-        <target>カードがジャーニーに正常に追加されました</target>
+        <target>カードがJourneyに正常に追加されました</target>
       </segment>
     </unit>
     <unit id="br-ext.br-ext:Cards_cardSharedSuccessfully" translate="no">
@@ -1671,7 +1671,7 @@
     </notes>
       <segment >
         <source>You are about to share a private SmartCard, only users that have already been granted access to this card will be able to access it.</source>
-        <target>非公開のスマートカードを共有しようとしています。このカードへのアクセスが既に許可されているユーザーのみがアクセスできます。</target>
+        <target>非公開のSmartCardを共有しようとしています。このカードへのアクセスが既に許可されているユーザーのみがアクセスできます。</target>
       </segment>
     </unit>
     <unit id="br-ext.br-ext:Cards_commentPlaceholder" translate="no">
@@ -1815,7 +1815,7 @@
     </notes>
       <segment >
         <source>Search Pathway</source>
-        <target>パスウェイを検索</target>
+        <target>Pathwayを検索</target>
       </segment>
     </unit>
     <unit id="br-ext.br-ext:AddToPathwayModal_appliedFilterLabel" translate="no">
@@ -1833,7 +1833,7 @@
     </notes>
       <segment >
         <source>Pathway Title</source>
-        <target>パスウェイ タイトル</target>
+        <target>Pathway タイトル</target>
       </segment>
     </unit>
     <unit id="br-ext.br-ext:AddToPathwayModal_noPathwayFound" translate="no">
@@ -1842,7 +1842,7 @@
     </notes>
       <segment >
         <source>No Pathway found</source>
-        <target>パスウェイが見つかりません</target>
+        <target>Pathwayが見つかりません</target>
       </segment>
     </unit>
     <unit id="br-ext.br-ext:AddToPathwayModal_selectPathwaySubHeading" translate="no">
@@ -1851,7 +1851,7 @@
     </notes>
       <segment >
         <source>Select the pathway(s) you want to add this content into. Content will be added at the end of the selected pathway(s).</source>
-        <target>このコンテンツを追加するパスウェイを選択してください。コンテンツは選択した パスウェイの最後に追加されます。</target>
+        <target>このコンテンツを追加するPathwayを選択してください。コンテンツは選択した Pathwayの最後に追加されます。</target>
       </segment>
     </unit>
     <unit id="br-ext.br-ext:AddToPathwayModal_addToPathway" translate="no">
@@ -1860,7 +1860,7 @@
     </notes>
       <segment >
         <source>Add to Pathway(s)</source>
-        <target>パスウェイに追加</target>
+        <target>Pathwayに追加</target>
       </segment>
     </unit>
     <unit id="br-ext.br-ext:AddToJourneyModal_infoText" translate="no">
@@ -1869,7 +1869,7 @@
     </notes>
       <segment >
         <source>Select the journey(s) you want to add this content into. For each journey selected, indicate the sections you want the content to be displayed. Content will be added at the end of each section.</source>
-        <target>このコンテンツを追加するジャーニーを選択してください。選択した各ジャーニーに対して、表示するコンテンツのセクションを指定します。コンテンツは各セクションの最後に追加されます。</target>
+        <target>このコンテンツを追加するJourneyを選択してください。選択した各Journeyに対して、表示するコンテンツのセクションを指定します。コンテンツは各セクションの最後に追加されます。</target>
       </segment>
     </unit>
     <unit id="br-ext.br-ext:AddToJourneyModal_searchPlacehoderText" translate="no">
@@ -1878,7 +1878,7 @@
     </notes>
       <segment >
         <source>Search Journey</source>
-        <target>ジャーニー を検索</target>
+        <target>Journey を検索</target>
       </segment>
     </unit>
     <unit id="br-ext.br-ext:AddToJourneyModal_titleLabelText" translate="no">
@@ -1887,7 +1887,7 @@
     </notes>
       <segment >
         <source>Journey title</source>
-        <target>ジャーニータイトル</target>
+        <target>Journeyタイトル</target>
       </segment>
     </unit>
     <unit id="br-ext.br-ext:AddToJourneyModal_sectionsLabelText" translate="no">
@@ -2013,7 +2013,7 @@
     </notes>
       <segment >
         <source>This content is private and therefore won&apos;t be visible to the assignee. You can change this in your smartcard settings.</source>
-        <target>このコンテンツは非公開であるため、表示されません。割当先に表示されます。これはスマートカード設定で変更できます。</target>
+        <target>このコンテンツは非公開であるため、表示されません。割当先に表示されます。これはSmartCard設定で変更できます。</target>
       </segment>
     </unit>
     <unit id="br-ext.br-ext:AssignModal_groupSelectedCountText" translate="no">
@@ -2094,7 +2094,7 @@
     </notes>
       <segment >
         <source>Add to Pathway</source>
-        <target>パスウェイに追加</target>
+        <target>Pathwayに追加</target>
       </segment>
     </unit>
     <unit id="br-ext.br-ext:ContextMenu_addToJourney" translate="no">
@@ -2103,7 +2103,7 @@
     </notes>
       <segment >
         <source>Add to Journey</source>
-        <target>ジャーニーに追加</target>
+        <target>Journeyに追加</target>
       </segment>
     </unit>
     <unit id="br-ext.br-ext:ContextMenu_postToChannel" translate="no">
@@ -2238,7 +2238,7 @@
     </notes>
       <segment >
         <source>Result by &lt;span className=&quot;edx-ext-instance-name&quot;&gt;{{orgName}}&lt;/span&gt; </source>
-        <target>結果による &lt;span className=&quot;edx-ext-instance-name&quot;&gt;{{orgName}}&lt;/span&gt;</target>
+        <target>結果 &lt;span className=&quot;edx-ext-instance-name&quot;&gt;{{orgName}}&lt;/span&gt;</target>
       </segment>
     </unit>
     <unit id="br-ext.br-ext:SearchPanel_loginNow" translate="no">
@@ -2256,7 +2256,7 @@
     </notes>
       <segment >
         <source>Login to your &lt;b&gt;{{orgName}}&lt;/b&gt; account to get the relevant content from &lt;b&gt;{{orgName}}&lt;/b&gt;</source>
-        <target>あなたの&lt;b&gt;{{orgName}}&lt;/b&gt; アカウントにログインして、関連する &lt;b&gt;{{orgName}}&lt;/b&gt;から関連するコンテンツを取得します</target>
+        <target>あなたの &lt;b&gt;{{orgName}}&lt;/b&gt; アカウントにアクセスして、&lt;b&gt;{{orgName}}&lt;/b&gt; から関連するコンテンツを取得します</target>
       </segment>
     </unit>
     <unit id="br-ext.br-ext:SearchPanel_loggedInLabel" translate="no">
@@ -2439,7 +2439,7 @@
         <target>サービスの条件</target>
       </segment>
     </unit>
-    <!-- File::widgets:: NewWords: 84, NewStrings: 54 -->
+    <!-- File::widgets:: NewWords: 16, NewStrings: 2 -->
   </file>
   <file id="widgets:br-ext.common" original="packages/widgets/br-ext/labels/common.yaml" translate="yes">
     <notes>
@@ -2595,7 +2595,7 @@
     </notes>
       <segment >
         <source>This is a locked content. Please complete the associated content in the pathway to unlock this card.</source>
-        <target>これはロックされたコンテンツです。パスウェイに関連付けられたコンテンツを完了させてください。これにより、このカードのロックが解除されます。</target>
+        <target>これはロックされたコンテンツです。Pathwayに関連付けられたコンテンツを完了させてください。これにより、このカードのロックが解除されます。</target>
       </segment>
     </unit>
     <unit id="br-ext.common:userPassedLabel" translate="no">
@@ -2622,7 +2622,7 @@
     </notes>
       <segment >
         <source>SmartCard</source>
-        <target>スマートカード</target>
+        <target>SmartCard</target>
       </segment>
     </unit>
     <unit id="br-ext.common:settings" translate="no">
@@ -2694,16 +2694,16 @@
     </notes>
       <segment >
         <source>Pathways</source>
-        <target>パスウェイ</target>
+        <target>Pathway</target>
       </segment>
     </unit>
-    <unit id="br-ext.common:pathwaySingularLabel" translate="yes">
+    <unit id="br-ext.common:pathwaySingularLabel" translate="no">
       <notes>
       <note id="context">Label text to be shown on the minicard cover image smartcard count banner</note>
     </notes>
       <segment >
         <source>Pathway</source>
-        <target>パスウェイ</target>
+        <target>Pathway</target>
       </segment>
     </unit>
     <unit id="br-ext.common:badgeTextLabel" translate="no">
@@ -2721,7 +2721,7 @@
     </notes>
       <segment >
         <source>SmartCards</source>
-        <target>スマートカード</target>
+        <target>SmartCard</target>
       </segment>
     </unit>
     <unit id="br-ext.common:userResultLabel" translate="no">
@@ -2823,7 +2823,7 @@
         <target>ライブ配信終了</target>
       </segment>
     </unit>
-    <!-- File::widgets:: NewWords: 1, NewStrings: 1 -->
+    <!-- File::widgets:: NewWords: 0, NewStrings: 0 -->
   </file>
   <file id="widgets:teams.common" original="packages/widgets/teams/labels/common.yaml" translate="yes">
     <notes>
@@ -2952,7 +2952,7 @@
     </notes>
       <segment >
         <source>This SmartCard has been removed from your Bookmarks.</source>
-        <target>このスマートカードはブックマークから削除されました。</target>
+        <target>このSmartCardはブックマークから削除されました。</target>
       </segment>
     </unit>
     <unit id="teams.common:completedSmartcard" translate="no">
@@ -2961,7 +2961,7 @@
     </notes>
       <segment >
         <source>You have successfully completed the SmartCard.</source>
-        <target>スマートカードを完了しました。</target>
+        <target>SmartCardを完了しました。</target>
       </segment>
     </unit>
     <unit id="teams.common:smartcardSection" translate="no">
@@ -3015,7 +3015,7 @@
     </notes>
       <segment >
         <source>Pathway</source>
-        <target>パスウェイ</target>
+        <target>Pathway</target>
       </segment>
     </unit>
     <unit id="teams.common:journey" translate="no">
@@ -3024,7 +3024,7 @@
     </notes>
       <segment >
         <source>Journey</source>
-        <target>ジャーニー</target>
+        <target>Journey</target>
       </segment>
     </unit>
     <unit id="teams.common:liveEvent" translate="no">
@@ -3159,7 +3159,7 @@
     </notes>
       <segment >
         <source>This content is private and therefore won&apos;t be visible to the assignee. You can change this in your smartcard settings.</source>
-        <target>このコンテンツは非公開であるため、表示されません。割当先に表示されます。これはスマートカード設定で変更できます。</target>
+        <target>このコンテンツは非公開であるため、表示されません。割当先に表示されます。これはSmartCard設定で変更できます。</target>
       </segment>
     </unit>
     <unit id="teams.common:userSelectedCountText" translate="no">
@@ -3360,7 +3360,7 @@
         <target>タグ</target>
       </segment>
     </unit>
-    <unit id="teams.common:channelsText" translate="yes">
+    <unit id="teams.common:channelsText" translate="no">
       <notes>
       <note id="context">Label text to show the channels the card belongs to be shown in the pathway footer</note>
     </notes>
@@ -3420,7 +3420,7 @@
     </notes>
       <segment >
         <source>This is a locked content. Please complete the associated content in the pathway to unlock this card.</source>
-        <target>これはロックされたコンテンツです。パスウェイに関連付けられたコンテンツを完了させてください。これにより、このカードのロックが解除されます。</target>
+        <target>これはロックされたコンテンツです。Pathwayに関連付けられたコンテンツを完了させてください。これにより、このカードのロックが解除されます。</target>
       </segment>
     </unit>
     <unit id="teams.common:paymentAlert" translate="no">
@@ -3447,7 +3447,7 @@
     </notes>
       <segment >
         <source>Add to Pathway</source>
-        <target>パスウェイに追加</target>
+        <target>Pathwayに追加</target>
       </segment>
     </unit>
     <unit id="teams.common:assign" translate="no">
@@ -3933,7 +3933,7 @@
     </notes>
       <segment >
         <source>SmartCards</source>
-        <target>スマートカード</target>
+        <target>SmartCard</target>
       </segment>
     </unit>
     <unit id="teams.common:about" translate="no">
@@ -4338,7 +4338,7 @@
     </notes>
       <segment >
         <source>Pathways</source>
-        <target>パスウェイ</target>
+        <target>Pathway</target>
       </segment>
     </unit>
     <unit id="teams.common:badgeTextLabel" translate="no">
@@ -4503,16 +4503,16 @@
         <target>すべての質問は必須です</target>
       </segment>
     </unit>
-    <unit id="teams.common:smartCardSingularLabel" translate="yes">
+    <unit id="teams.common:smartCardSingularLabel" translate="no">
       <notes>
       <note id="context">Represents the label for a single smart card.</note>
     </notes>
       <segment >
         <source>SmartCard</source>
-        <target>スマートカード</target>
+        <target>SmartCard</target>
       </segment>
     </unit>
-    <unit id="teams.common:featured" translate="yes">
+    <unit id="teams.common:featured" translate="no">
       <notes>
       <note id="context">A label indicating that the content or item is highlighted as featured or recommended.</note>
     </notes>
@@ -4521,7 +4521,7 @@
         <target>ハイライト</target>
       </segment>
     </unit>
-    <unit id="teams.common:home" translate="yes">
+    <unit id="teams.common:home" translate="no">
       <notes>
       <note id="context">Label for the home section or main page.</note>
     </notes>
@@ -4530,7 +4530,7 @@
         <target>ホーム</target>
       </segment>
     </unit>
-    <unit id="teams.common:handle" translate="yes">
+    <unit id="teams.common:handle" translate="no">
       <notes>
       <note id="context">Label for the text &quot;Handle&quot; - of a user</note>
     </notes>
@@ -4539,7 +4539,7 @@
         <target>ハンドル</target>
       </segment>
     </unit>
-    <unit id="teams.common:time" translate="yes">
+    <unit id="teams.common:time" translate="no">
       <notes>
       <note id="context">The label text denoting the Time for training details in the smart card detail view.</note>
     </notes>
@@ -4548,7 +4548,7 @@
         <target>時間</target>
       </segment>
     </unit>
-    <unit id="teams.common:status" translate="yes">
+    <unit id="teams.common:status" translate="no">
       <notes>
       <note id="context">Represents a label indicating the current status of an item.</note>
     </notes>
@@ -4557,7 +4557,7 @@
         <target>ステータス</target>
       </segment>
     </unit>
-    <unit id="teams.common:viewAttendeesLabel" translate="yes">
+    <unit id="teams.common:viewAttendeesLabel" translate="no">
       <notes>
       <note id="context">This text is used as all attendees&apos; labels.</note>
     </notes>
@@ -4566,13 +4566,22 @@
         <target>出席者の表示</target>
       </segment>
     </unit>
-    <!-- File::widgets:: NewWords: 9, NewStrings: 8 -->
+    <unit id="teams.common:less" translate="yes">
+      <notes>
+      <note id="context">The Label text for Minimising More options tab</note>
+    </notes>
+      <segment >
+        <source>Less</source>
+        <target>次より少ない</target>
+      </segment>
+    </unit>
+    <!-- File::widgets:: NewWords: 1, NewStrings: 1 -->
   </file>
   <file id="widgets:teams.teams" original="packages/widgets/teams/labels/teams.yaml" translate="yes">
     <notes>
       <note id="n1">Edcast Translation file for widgets</note>
     </notes>
-    <unit id="teams.teams:dateTimeTranslations_current" translate="yes">
+    <unit id="teams.teams:dateTimeTranslations_current" translate="no">
       <notes>
       <note id="context">Label indicating the present time or data.</note>
     </notes>
@@ -4959,7 +4968,7 @@
         <target>続行する場合は、チェックボックスにチェックを入れてください</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Cards_star" translate="yes">
+    <unit id="teams.teams:Cards_star" translate="no">
       <notes>
       <note id="context">Label for a single star rating or feature.</note>
     </notes>
@@ -4968,7 +4977,7 @@
         <target>スター</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Cards_stars" translate="yes">
+    <unit id="teams.teams:Cards_stars" translate="no">
       <notes>
       <note id="context">Label for multiple star ratings or features.</note>
     </notes>
@@ -4977,7 +4986,7 @@
         <target>星</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Cards_linkDuplicateString" translate="yes">
+    <unit id="teams.teams:Cards_linkDuplicateString" translate="no">
       <notes>
       <note id="context">Error message indicating a duplicate SmartCard URL.</note>
     </notes>
@@ -4986,7 +4995,7 @@
         <target>次のコンテンツが既に存在するため、上記の URL でスマート カードを作成することはできません。</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Cards_deleteCommentToast" translate="yes">
+    <unit id="teams.teams:Cards_deleteCommentToast" translate="no">
       <notes>
       <note id="context">Notification confirming successful comment deletion.</note>
     </notes>
@@ -4995,7 +5004,7 @@
         <target>コメントが正常に削除されました</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Cards_loadingUsers" translate="yes">
+    <unit id="teams.teams:Cards_loadingUsers" translate="no">
       <notes>
       <note id="context">Indicates that user data is currently being retrieved.</note>
     </notes>
@@ -5004,7 +5013,7 @@
         <target>ユーザーの読み込み中</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Cards_loadingGroups" translate="yes">
+    <unit id="teams.teams:Cards_loadingGroups" translate="no">
       <notes>
       <note id="context">Indicates that group data is currently being retrieved.</note>
     </notes>
@@ -5019,7 +5028,7 @@
     </notes>
       <segment >
         <source>Add to pathway(s)</source>
-        <target>パスウェイに追加</target>
+        <target>Pathwayに追加</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_assignCardSuccessMessage" translate="no">
@@ -5109,7 +5118,7 @@
     </notes>
       <segment >
         <source>Create a SmartCard</source>
-        <target>スマートカードを作成します</target>
+        <target>SmartCardを作成します</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_updateCardHeading" translate="no">
@@ -5118,7 +5127,7 @@
     </notes>
       <segment >
         <source>Update a SmartCard</source>
-        <target>スマートカードを更新します</target>
+        <target>SmartCardを更新します</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_cardSuccessful" translate="no">
@@ -5226,7 +5235,7 @@
     </notes>
       <segment >
         <source>Enter SmartCard title here</source>
-        <target>ここにスマートカードのタイトルを入力します</target>
+        <target>ここにSmartCardのタイトルを入力します</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_linkPaste" translate="no">
@@ -5406,7 +5415,7 @@
     </notes>
       <segment >
         <source>It can be used to control awarding badges for Pathway completion</source>
-        <target>パスウェイ完了の授与バッジを制御するために使用できます</target>
+        <target>Pathway完了の授与バッジを制御するために使用できます</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_selectPassingCriteria" translate="no">
@@ -5496,7 +5505,7 @@
     </notes>
       <segment >
         <source>The following will be the full description of your SmartCard</source>
-        <target>以下はあなたのスマートカードの完全な説明になります</target>
+        <target>以下はあなたのSmartCardの完全な説明になります</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_smartCardDescription" translate="no">
@@ -5505,7 +5514,7 @@
     </notes>
       <segment >
         <source>Enter SmartCard description here</source>
-        <target>ここにスマートカードの説明を入力してください</target>
+        <target>ここにSmartCardの説明を入力してください</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_liveEventInputTitle" translate="no">
@@ -5955,7 +5964,7 @@
     </notes>
       <segment >
         <source>This name will be displayed in the smartcard instead of yours</source>
-        <target>この名前は、自分の名前ではなくスマートカードに表示されます</target>
+        <target>この名前は、自分の名前ではなくSmartCardに表示されます</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_providerLogo" translate="no">
@@ -5973,7 +5982,7 @@
     </notes>
       <segment >
         <source>This logo will be displayed in the smartcard instead of your profile picture</source>
-        <target>このロゴは、プロファイル画像の代わりにスマートカードに表示されます</target>
+        <target>このロゴは、プロファイル画像の代わりにSmartCardに表示されます</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_providerPlaceholder" translate="no">
@@ -6063,7 +6072,7 @@
     </notes>
       <segment >
         <source>Please specify the level of access for this SmartCard.</source>
-        <target>このスマートカードのアクセスレベルを指定してください。</target>
+        <target>このSmartCardのアクセスレベルを指定してください。</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_privateInfoText" translate="no">
@@ -6072,7 +6081,7 @@
     </notes>
       <segment >
         <source>Viewing this SmartCard is restricted to users who you have shared it. Sharing a SmartCard can be done directly, or indirectly, via a Group, or Channel, that the users belong to.</source>
-        <target>このスマートカードの表示は、あなたが共有したユーザーに限定されます。スマートカードの共有は、ユーザーが属するグループまたはチャンネルを介して直接的または間接的に行うことができます。</target>
+        <target>このSmartCardの表示は、あなたが共有したユーザーに限定されます。SmartCardの共有は、ユーザーが属するグループまたはチャンネルを介して直接的または間接的に行うことができます。</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_publicInfoText" translate="no">
@@ -6081,7 +6090,7 @@
     </notes>
       <segment >
         <source>Anyone can view this SmartCard.</source>
-        <target>このスマートカードは誰でも表示できます。</target>
+        <target>このSmartCardは誰でも表示できます。</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_restrictTo" translate="no">
@@ -6243,7 +6252,7 @@
     </notes>
       <segment >
         <source>Select the pathway(s) you want to add this content into. Content will be added at the end of the selected pathway(s).</source>
-        <target>このコンテンツを追加するパスウェイを選択してください。コンテンツは選択したパスウェイの最後に追加されます。</target>
+        <target>このコンテンツを追加するPathwayを選択してください。コンテンツは選択したPathwayの最後に追加されます。</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_pleaseWait" translate="no">
@@ -6270,7 +6279,7 @@
     </notes>
       <segment >
         <source>Card successfully added to Pathway(s)</source>
-        <target>カードがパスウェイに正常に追加されました</target>
+        <target>カードがPathwayに正常に追加されました</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_addedToJourney" translate="no">
@@ -6279,7 +6288,7 @@
     </notes>
       <segment >
         <source>Card successfully added to Journey(s)</source>
-        <target>カードがジャーニーに正常に追加されました</target>
+        <target>カードがJourneyに正常に追加されました</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_addToJourney" translate="no">
@@ -6288,7 +6297,7 @@
     </notes>
       <segment >
         <source>Add to Journey(s)</source>
-        <target>ジャーニーに追加</target>
+        <target>Journeyに追加</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_noJourneyFoundString" translate="no">
@@ -6297,7 +6306,7 @@
     </notes>
       <segment >
         <source>No Journey found!</source>
-        <target>ジャーニーが見つかりません!</target>
+        <target>Journeyが見つかりません!</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_assignContentTo" translate="no">
@@ -6405,7 +6414,7 @@
     </notes>
       <segment >
         <source>You have successfully Uncompleted the SmartCard.</source>
-        <target>スマートカードを未完了にしました。</target>
+        <target>SmartCardを未完了にしました。</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_bookmarkCreated" translate="no">
@@ -6414,7 +6423,7 @@
     </notes>
       <segment >
         <source>Done! This SmartCard has been Bookmarked and now be found in your bookmarked content</source>
-        <target>完了!このスマートカードはブックマークされており、ブックマークしたコンテンツで見つけることができます。</target>
+        <target>完了!このSmartCardはブックマークされており、ブックマークしたコンテンツで見つけることができます。</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_noMatchFound" translate="no">
@@ -6477,7 +6486,7 @@
     </notes>
       <segment >
         <source>Done! This SmartCard has been Bookmarked and can now be found in your bookmarked content.</source>
-        <target>完了!このスマートカードはブックマークされており、ブックマークしたコンテンツで見つけることができます。</target>
+        <target>完了!このSmartCardはブックマークされており、ブックマークしたコンテンツで見つけることができます。</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_pathwayBookmarkMessage" translate="no">
@@ -6486,7 +6495,7 @@
     </notes>
       <segment >
         <source>Done! This Pathway has been Bookmarked and can now be found in your bookmarked content.</source>
-        <target>完了!このパスウェイはブックマークされており、ブックマークしたコンテンツで見つけることができます。</target>
+        <target>完了!このPathwayはブックマークされており、ブックマークしたコンテンツで見つけることができます。</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_pathwayUnbookmarkMessage" translate="no">
@@ -6504,7 +6513,7 @@
     </notes>
       <segment >
         <source>Done! This Journey has been Bookmarked and can now be found in your bookmarked content.</source>
-        <target>完了!このジャーニーはブックマークされており、ブックマークしたコンテンツで見つけることができます。</target>
+        <target>完了!このJourneyはブックマークされており、ブックマークしたコンテンツで見つけることができます。</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_journeyUnbookmarkMessage" translate="no">
@@ -6513,7 +6522,7 @@
     </notes>
       <segment >
         <source>This Journey has been removed from your Bookmarks.</source>
-        <target>このジャーニーはブックマークから削除されました。</target>
+        <target>このJourneyはブックマークから削除されました。</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_cardError" translate="no">
@@ -6603,7 +6612,7 @@
     </notes>
       <segment >
         <source>You have marked this SmartCard as incomplete.</source>
-        <target>このスマートカードを未完了としてマークしました。</target>
+        <target>このSmartCardを未完了としてマークしました。</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_markAsIncompleteText" translate="no">
@@ -6675,7 +6684,7 @@
     </notes>
       <segment >
         <source>Pathway Title</source>
-        <target>パスウェイ タイトル</target>
+        <target>Pathway タイトル</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_appliedFilter" translate="no">
@@ -6693,7 +6702,7 @@
     </notes>
       <segment >
         <source>Search Pathway</source>
-        <target>パスウェイ を検索</target>
+        <target>Pathway を検索</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_journeySelectText" translate="no">
@@ -6702,7 +6711,7 @@
     </notes>
       <segment >
         <source>Select the journey(s) you want to add this content into. For each journey selected, indicate the sections you want the content to be displayed. Content will be added at the end of each section.</source>
-        <target>このコンテンツを追加するジャーニー を選択してください。選択した各ジャーニーに対して、表示するコンテンツのセクションを指定します。コンテンツは各セクションの最後に追加されます。</target>
+        <target>このコンテンツを追加するJourney を選択してください。選択した各Journeyに対して、表示するコンテンツのセクションを指定します。コンテンツは各セクションの最後に追加されます。</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_searchJourney" translate="no">
@@ -6711,7 +6720,7 @@
     </notes>
       <segment >
         <source>Search Journey</source>
-        <target>ジャーニー を検索</target>
+        <target>Journey を検索</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_journeyTitle" translate="no">
@@ -6720,7 +6729,7 @@
     </notes>
       <segment >
         <source>Journey title</source>
-        <target>ジャーニータイトル</target>
+        <target>Journeyタイトル</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_sections" translate="no">
@@ -7116,7 +7125,7 @@
     </notes>
       <segment >
         <source>All the SmartCards needs to be completed first</source>
-        <target>すべてのスマートカードを最初に完了する必要があります</target>
+        <target>すべてのSmartCardを最初に完了する必要があります</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_unspecifiedLabel" translate="no">
@@ -7638,10 +7647,10 @@
     </notes>
       <segment >
         <source>You are about to delete the SmartCard</source>
-        <target>スマートカードを削除しようとしています</target>
+        <target>SmartCardを削除しようとしています</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ShareModal_searchGroups" translate="yes">
+    <unit id="teams.teams:ShareModal_searchGroups" translate="no">
       <notes>
       <note id="context">Prompt for searching through groups.</note>
     </notes>
@@ -7686,7 +7695,7 @@
         <target>個人を検索</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_liveTabPendingLabel" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_liveTabPendingLabel" translate="no">
       <notes>
       <note id="context">Label indicating that the item is pending approval.</note>
     </notes>
@@ -7695,7 +7704,7 @@
         <target>保留中</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_liveTabDeclinedLabel" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_liveTabDeclinedLabel" translate="no">
       <notes>
       <note id="context">Label indicating that the item is declined.</note>
     </notes>
@@ -7704,7 +7713,7 @@
         <target>拒否しました</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_liveTabUnregisteredLabel" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_liveTabUnregisteredLabel" translate="no">
       <notes>
       <note id="context">Label indicating that the user is not registered.</note>
     </notes>
@@ -7713,7 +7722,7 @@
         <target>未登録</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_liveNoDataLabel" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_liveNoDataLabel" translate="no">
       <notes>
       <note id="context">Notification indicating no user data is available.</note>
     </notes>
@@ -7722,7 +7731,7 @@
         <target>ユーザーリストは現在空です</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_liveTabRegisteredOnLabel" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_liveTabRegisteredOnLabel" translate="no">
       <notes>
       <note id="context">Label for displaying the registration date.</note>
     </notes>
@@ -7731,7 +7740,7 @@
         <target>登録済み</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_liveTabApprovalModalLabel" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_liveTabApprovalModalLabel" translate="no">
       <notes>
       <note id="context">Confirmation message for approving multiple member requests.</note>
     </notes>
@@ -7740,7 +7749,7 @@
         <target>あなたは {{selected}} のメンバー リクエストを承認しようとしています。それらを承認しますか?</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_liveTabDeclineModalLabel" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_liveTabDeclineModalLabel" translate="no">
       <notes>
       <note id="context">Confirmation message for declining multiple member requests.</note>
     </notes>
@@ -7749,7 +7758,7 @@
         <target>あなたは {{selected}} のメンバー リクエストを拒否しようとしています。それらを拒否しますか?</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_liveTabMarkAsCompleteModalLabel" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_liveTabMarkAsCompleteModalLabel" translate="no">
       <notes>
       <note id="context">Confirmation message for marking multiple member requests as complete.</note>
     </notes>
@@ -7758,7 +7767,7 @@
         <target>あなたは {{selected}} のメンバーリクエストを完了としてマークしようとしています。それらを完了としてマークしますか?</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_liveTabMarkAsCompleteLabel" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_liveTabMarkAsCompleteLabel" translate="no">
       <notes>
       <note id="context">Action button label for marking an item as complete.</note>
     </notes>
@@ -7767,7 +7776,7 @@
         <target>完了としてマーク</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_liveToastMarkAsComplete" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_liveToastMarkAsComplete" translate="no">
       <notes>
       <note id="context">Notification indicating successful completion of member requests.</note>
     </notes>
@@ -7776,7 +7785,7 @@
         <target>メンバーが正常に完了としてマークされました。</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_unRegistrationConfirmationLabel" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_unRegistrationConfirmationLabel" translate="no">
       <notes>
       <note id="context">Label for the confirmation dialog to unregister.</note>
     </notes>
@@ -7785,7 +7794,7 @@
         <target>登録解除の確認</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_unRegistrationConfirmationBody" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_unRegistrationConfirmationBody" translate="no">
       <notes>
       <note id="context">Confirmation message to unregister from an event.</note>
     </notes>
@@ -7794,7 +7803,7 @@
         <target>登録を解除しますか?登録を解除すると、ライブイベントにアクセスできなくなります。</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_liveEventRegisteredMessage" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_liveEventRegisteredMessage" translate="no">
       <notes>
       <note id="context">Notification indicating successful registration for an event.</note>
     </notes>
@@ -7803,7 +7812,7 @@
         <target>このイベントは登録済みです。</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_liveEventUnRegisteredMessage" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_liveEventUnRegisteredMessage" translate="no">
       <notes>
       <note id="context">Notification indicating successful un-registration from an event.</note>
     </notes>
@@ -7812,7 +7821,7 @@
         <target>イベントから正常に登録解除されました。</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_addToCalendarLabel" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_addToCalendarLabel" translate="no">
       <notes>
       <note id="context">Button label for adding an event to the calendar.</note>
     </notes>
@@ -7821,7 +7830,7 @@
         <target>カレンダーに追加</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_meetingLinkLabel" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_meetingLinkLabel" translate="no">
       <notes>
       <note id="context">Label for displaying the meeting link.</note>
     </notes>
@@ -7830,7 +7839,7 @@
         <target>ミーティングリンク</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_recordingURLLabel" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_recordingURLLabel" translate="no">
       <notes>
       <note id="context">Label for displaying the recording URL.</note>
     </notes>
@@ -7839,7 +7848,7 @@
         <target>レコーディング URL</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_registerMeetingLinkLabel" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_registerMeetingLinkLabel" translate="no">
       <notes>
       <note id="context">Prompt for users to register in order to receive the meeting link.</note>
     </notes>
@@ -7866,13 +7875,13 @@
         <target>アクセスは否認されました</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_pendingApproval" translate="no">
+    <unit id="teams.teams:SmartCardDetailView_pendingApproval" translate="yes">
       <notes>
       <note id="context">Approval is yet to be approved by the approver</note>
     </notes>
       <segment >
-        <source>Pending Approval</source>
-        <target>承認保留</target>
+        <source>Pending approval</source>
+        <target>承認保留中</target>
       </segment>
     </unit>
     <unit id="teams.teams:SmartCardDetailView_registerForDetails" translate="no">
@@ -8061,7 +8070,7 @@
     </notes>
       <segment >
         <source>Marking the SmartCard as incomplete will not change the Continuous Learning hour or the score associated with it.</source>
-        <target>スマートカードを未完了としてマークしても、継続学習時間やそれに関連付けられているスコアは変更されません。</target>
+        <target>SmartCardを未完了としてマークしても、継続学習時間やそれに関連付けられているスコアは変更されません。</target>
       </segment>
     </unit>
     <unit id="teams.teams:SmartCardDetailView_markAsCompleted" translate="no">
@@ -8142,7 +8151,7 @@
     </notes>
       <segment >
         <source>You are about to delete the {{readable_card_type}} &lt;i&gt;{{card_title}}&lt;/i&gt;. Please be aware that doing so will remove all associated statistics and comments. This action cannot be undone. How would you like to proceed?</source>
-        <target>{{readable_card_type}} &lt;i&gt;{{card_title}}&lt;/i&gt;を削除しようとしています。これを行うと、関連付けられているすべての統計とコメントが削除されることに注意してください。このアクションは元に戻せません。どのように進めますか。</target>
+        <target>{{readable_card_type}} の&lt;i&gt;{{card_title}}&lt;/i&gt;を削除しようとしていまます。これを行うと、関連付けられているすべての統計とコメントが削除されることに注意してください。このアクションは元に戻せません。どのように進めますか。</target>
       </segment>
     </unit>
     <unit id="teams.teams:SmartCardDetailView_progressText" translate="no">
@@ -8430,7 +8439,7 @@
     </notes>
       <segment >
         <source>Add to Journey</source>
-        <target>ジャーニーに追加</target>
+        <target>Journeyに追加</target>
       </segment>
     </unit>
     <unit id="teams.teams:ContextMenu_postToChannel" translate="no">
@@ -8529,7 +8538,7 @@
     </notes>
       <segment >
         <source>Waiting for journey to load...</source>
-        <target>ジャーニーが読み込まれるのを待っています...</target>
+        <target>Journeyが読み込まれるのを待っています...</target>
       </segment>
     </unit>
     <unit id="teams.teams:Search_findingMoreCards" translate="no">
@@ -8844,7 +8853,7 @@
     </notes>
       <segment >
         <source>Delete SmartCard</source>
-        <target>スマートカードを削除</target>
+        <target>SmartCardを削除</target>
       </segment>
     </unit>
     <unit id="teams.teams:Modal_smartcardDeleted" translate="no">
@@ -8853,7 +8862,7 @@
     </notes>
       <segment >
         <source>SmartCard deleted. It will never show again.</source>
-        <target>スマートカードが削除されました。今後表示されません。</target>
+        <target>SmartCardが削除されました。今後表示されません。</target>
       </segment>
     </unit>
     <unit id="teams.teams:Modal_pathwayDeleted" translate="no">
@@ -8862,7 +8871,7 @@
     </notes>
       <segment >
         <source>Pathway deleted. It will never show again.</source>
-        <target>パスウェイが削除されました。今後表示されません。</target>
+        <target>Pathwayが削除されました。今後表示されません。</target>
       </segment>
     </unit>
     <unit id="teams.teams:Modal_journeyDeleted" translate="no">
@@ -8871,7 +8880,7 @@
     </notes>
       <segment >
         <source>Journey deleted. It will never show again.</source>
-        <target>ジャーニーが削除されました。今後表示されません。</target>
+        <target>Journeyが削除されました。今後表示されません。</target>
       </segment>
     </unit>
     <unit id="teams.teams:Notification_notification" translate="no">
@@ -9180,15 +9189,6 @@
         <target>スキル ディレクトリ</target>
       </segment>
     </unit>
-    <unit id="teams.teams:TopNav_less" translate="no">
-      <notes>
-      <note id="context">The Label text for Minimising More options tab in Top NavBar</note>
-    </notes>
-      <segment >
-        <source>Less</source>
-        <target>次より少ない</target>
-      </segment>
-    </unit>
     <unit id="teams.teams:TopNav_selectLanguage" translate="no">
       <notes>
       <note id="context">Label text for application language dropdown on the side drawer</note>
@@ -9405,7 +9405,7 @@
         <target>キャンセル</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Groups_myAssignments" translate="yes">
+    <unit id="teams.teams:Groups_myAssignments" translate="no">
       <notes>
       <note id="context">Section label for personal assignments.</note>
     </notes>
@@ -9414,7 +9414,7 @@
         <target>マイ割当</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Groups_associatedChannels" translate="yes">
+    <unit id="teams.teams:Groups_associatedChannels" translate="no">
       <notes>
       <note id="context">Label for channels linked to a group.</note>
     </notes>
@@ -9753,7 +9753,7 @@
     </notes>
       <segment >
         <source>To Pathway Home</source>
-        <target>パスウェイホームへ</target>
+        <target>Pathwayホームへ</target>
       </segment>
     </unit>
     <unit id="teams.teams:Channels_toJourneyHome" translate="no">
@@ -9762,7 +9762,7 @@
     </notes>
       <segment >
         <source>To Journey Home</source>
-        <target>ジャーニー ホームへ</target>
+        <target>Journey ホームへ</target>
       </segment>
     </unit>
     <unit id="teams.teams:Channels_allContentPost" translate="no">
@@ -9951,7 +9951,7 @@
     </notes>
       <segment >
         <source>You have successfully completed the Journey.</source>
-        <target>ジャーニーを完了しました。</target>
+        <target>Journeyを完了しました。</target>
       </segment>
     </unit>
     <unit id="teams.teams:Channels_pathwayCompleteSuccess" translate="no">
@@ -9960,7 +9960,7 @@
     </notes>
       <segment >
         <source>You have successfully completed the Pathway.</source>
-        <target>パスウェイを完了しました。</target>
+        <target>Pathwayを完了しました。</target>
       </segment>
     </unit>
     <unit id="teams.teams:Channels_journeyInCompleteSuccess" translate="no">
@@ -9969,7 +9969,7 @@
     </notes>
       <segment >
         <source>You have marked this Journey as incomplete.</source>
-        <target>このジャーニーを未完了としてマークしました。</target>
+        <target>このJourneyを未完了としてマークしました。</target>
       </segment>
     </unit>
     <unit id="teams.teams:Channels_pathwayInCompleteSuccess" translate="no">
@@ -9978,7 +9978,7 @@
     </notes>
       <segment >
         <source>You have marked this Pathway as incomplete.</source>
-        <target>このパスウェイを未完了としてマークしました。</target>
+        <target>このPathwayを未完了としてマークしました。</target>
       </segment>
     </unit>
     <unit id="teams.teams:Channels_previousCardLabel" translate="no">
@@ -10215,7 +10215,106 @@
         <target>選択：スキル名</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ManagerDashboard_allTime" translate="yes">
+    <unit id="teams.teams:ManagerDashboard_teamSkillsTableTitleTooltip" translate="yes">
+      <notes>
+      <note id="context">Informative text to indicate more information about the Skills section of the table.</note>
+    </notes>
+      <segment >
+        <source>List of all the skills your team has and levels in those skills. You can also recommend them to get up skilled i.e. increase the level of the skill</source>
+        <target>チームが持っているすべてのskillsと各skillsのレベルのリスト。レベルを引き上げるなどのスキルアップを推奨することもできます</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:ManagerDashboard_tableTitleTooltipCompletedDescription" translate="yes">
+      <notes>
+      <note id="context">Informative text to indicate more information about the count of people who completed that specific content item.</note>
+    </notes>
+      <segment >
+        <source>Completed: Number of people who have completed the content</source>
+        <target>完了済み:コンテンツを完了したユーザーの数</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:ManagerDashboard_tableTitleTooltipOverdueDescription" translate="yes">
+      <notes>
+      <note id="context">Informative text to indicate more information about the Overdue section of the table.</note>
+    </notes>
+      <segment >
+        <source>Overdue: Number of people for whom the content completion due date is in past</source>
+        <target>期日超過:コンテンツ完了期日がすでに到来した受講者の数</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:ManagerDashboard_tableTitleTooltipDueIn2WeeksDescription" translate="yes">
+      <notes>
+      <note id="context">Informative text to indicate more information about the content that is due within the next 2 weeks section of the table.</note>
+    </notes>
+      <segment >
+        <source>Due In 2 weeks: Number of people for whom the content completion due date is in next two weeks</source>
+        <target>期日まであと 2 週間:次の 2 週間以内にコンテンツ完了期日が到来する受講者の数</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:ManagerDashboard_tableTitleTooltipNotStartedDescription" translate="yes">
+      <notes>
+      <note id="context">Informative text to indicate more information about the Not Started section of the table.</note>
+    </notes>
+      <segment >
+        <source>Not Started: Number of people who have not started consuming the content</source>
+        <target>未開始:コンテンツの消費が未開始の受講者の数</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:ManagerDashboard_tableTitleTooltipAssignedToDescription" translate="yes">
+      <notes>
+      <note id="context">Informative text to indicate more information about the Assigned To section of the table.</note>
+    </notes>
+      <segment >
+        <source>Assigned to: Number of people the content is assigned to</source>
+        <target>割当先:コンテンツが割当てられている受講者の数</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:ManagerDashboard_tableTitleTooltipDescription" translate="yes">
+      <notes>
+      <note id="context">Informative text to indicate more information about the info table.</note>
+    </notes>
+      <segment >
+        <source>Shows all content assigned to your team</source>
+        <target>チームに割り当てられているすべてのコンテンツを表示します</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:ManagerDashboard_allCompleted" translate="yes">
+      <notes>
+      <note id="context">Informative text to indicate that all content has been completed.</note>
+    </notes>
+      <segment >
+        <source>All Completed</source>
+        <target>すべて完了しました</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:ManagerDashboard_lastSent" translate="yes">
+      <notes>
+      <note id="context">Informative text to indicate when reminder was sent.</note>
+    </notes>
+      <segment >
+        <source>Last Sent</source>
+        <target>最終送信日</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:ManagerDashboard_dueDateRange" translate="yes">
+      <notes>
+      <note id="context">Informative text to indicate a date picker filter to choose a date range.</note>
+    </notes>
+      <segment >
+        <source>Due Date Range</source>
+        <target>期日の日付範囲</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:ManagerDashboard_searchContent" translate="yes">
+      <notes>
+      <note id="context">Placeholder label for text input field to search for content.</note>
+    </notes>
+      <segment >
+        <source>Search Content</source>
+        <target>コンテンツを検索</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:ManagerDashboard_allTime" translate="no">
       <notes>
       <note id="context">Label indicating data for the entire duration.</note>
     </notes>
@@ -10224,7 +10323,7 @@
         <target>全時間帯</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ManagerDashboard_thisWeek" translate="yes">
+    <unit id="teams.teams:ManagerDashboard_thisWeek" translate="no">
       <notes>
       <note id="context">Label indicating data for the current week.</note>
     </notes>
@@ -10233,7 +10332,7 @@
         <target>今週</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ManagerDashboard_last30Days" translate="yes">
+    <unit id="teams.teams:ManagerDashboard_last30Days" translate="no">
       <notes>
       <note id="context">Label indicating data for the past 30 days.</note>
     </notes>
@@ -10242,7 +10341,7 @@
         <target>過去30日間</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ManagerDashboard_last3Months" translate="yes">
+    <unit id="teams.teams:ManagerDashboard_last3Months" translate="no">
       <notes>
       <note id="context">Label indicating data for the past 3 months.</note>
     </notes>
@@ -10251,7 +10350,7 @@
         <target>過去3か月間</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ManagerDashboard_last1Year" translate="yes">
+    <unit id="teams.teams:ManagerDashboard_last1Year" translate="no">
       <notes>
       <note id="context">Label indicating data for the past year.</note>
     </notes>
@@ -10260,7 +10359,7 @@
         <target>最後の 1 年</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ManagerDashboard_showHoursFor" translate="yes">
+    <unit id="teams.teams:ManagerDashboard_showHoursFor" translate="no">
       <notes>
       <note id="context">Label prompting selection of hours to display.</note>
     </notes>
@@ -10269,7 +10368,7 @@
         <target>時間を表示</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ManagerDashboard_sortBy" translate="yes">
+    <unit id="teams.teams:ManagerDashboard_sortBy" translate="no">
       <notes>
       <note id="context">Label for sorting options.</note>
     </notes>
@@ -10278,7 +10377,7 @@
         <target>で並び替え</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ManagerDashboard_lowestFirst" translate="yes">
+    <unit id="teams.teams:ManagerDashboard_lowestFirst" translate="no">
       <notes>
       <note id="context">Sorting option for displaying the lowest values first.</note>
     </notes>
@@ -10287,7 +10386,7 @@
         <target>低い順</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ManagerDashboard_highestFirst" translate="yes">
+    <unit id="teams.teams:ManagerDashboard_highestFirst" translate="no">
       <notes>
       <note id="context">Sorting option for displaying the highest values first.</note>
     </notes>
@@ -10296,7 +10395,7 @@
         <target>高い順</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ManagerDashboard_aToZ" translate="yes">
+    <unit id="teams.teams:ManagerDashboard_aToZ" translate="no">
       <notes>
       <note id="context">Sorting option for alphabetical order from A to Z.</note>
     </notes>
@@ -10305,7 +10404,7 @@
         <target>昇順</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ManagerDashboard_zToA" translate="yes">
+    <unit id="teams.teams:ManagerDashboard_zToA" translate="no">
       <notes>
       <note id="context">Sorting option for reverse alphabetical order from Z to A.</note>
     </notes>
@@ -10314,7 +10413,7 @@
         <target>降順</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ManagerDashboard_individualGraphSwitchTooltip" translate="yes">
+    <unit id="teams.teams:ManagerDashboard_individualGraphSwitchTooltip" translate="no">
       <notes>
       <note id="context">Tooltip explaining individual learning hours analysis graph.</note>
     </notes>
@@ -10323,7 +10422,7 @@
         <target>グラフは、チームメンバー個人とその学習時間、つまり各メンバーの学習時間数の分析を示しています。</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ManagerDashboard_teamGraphSwitchTooltip" translate="yes">
+    <unit id="teams.teams:ManagerDashboard_teamGraphSwitchTooltip" translate="no">
       <notes>
       <note id="context">Tooltip explaining team learning hours distribution graph.</note>
     </notes>
@@ -10332,7 +10431,7 @@
         <target>グラフには、チームメンバーの人数と学習時間を対比させた分析（所定の範囲内に学習時間を記録した受講者の数など）が表示されています。</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ManagerDashboard_totalAssignmentTooltip" translate="yes">
+    <unit id="teams.teams:ManagerDashboard_totalAssignmentTooltip" translate="no">
       <notes>
       <note id="context">Tooltip describing total assignments given to the team.</note>
     </notes>
@@ -10341,7 +10440,7 @@
         <target>期間中にチームに割り当てられたコンテンツの合計数</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ManagerDashboard_dueIn2WeeksTooltip" translate="yes">
+    <unit id="teams.teams:ManagerDashboard_dueIn2WeeksTooltip" translate="no">
       <notes>
       <note id="context">Tooltip describing assignments due in the next two weeks.</note>
     </notes>
@@ -10350,7 +10449,7 @@
         <target>今日から次の 2 週間以内に期日が到来する割当の合計数</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ManagerDashboard_overdueTooltip" translate="yes">
+    <unit id="teams.teams:ManagerDashboard_overdueTooltip" translate="no">
       <notes>
       <note id="context">Tooltip describing assignments that are overdue.</note>
     </notes>
@@ -10359,7 +10458,7 @@
         <target>すでに期日が到来した割当の合計数</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ManagerDashboard_noData" translate="yes">
+    <unit id="teams.teams:ManagerDashboard_noData" translate="no">
       <notes>
       <note id="context">Notification indicating absence of data.</note>
     </notes>
@@ -10602,7 +10701,7 @@
         <target>スキル</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ManagerDashboard_teamMember" translate="yes">
+    <unit id="teams.teams:ManagerDashboard_teamMember" translate="no">
       <notes>
       <note id="context">Label for an individual team member.</note>
     </notes>
@@ -10977,7 +11076,7 @@
     </notes>
       <segment >
         <source>pathway</source>
-        <target>パスウェイ</target>
+        <target>Pathway</target>
       </segment>
     </unit>
     <unit id="teams.teams:MiniCard_miniPollCardLabels_pollCardVoteLabel" translate="no">
@@ -11220,7 +11319,7 @@
     </notes>
       <segment >
         <source>Skills that you have acquired during your learning journey</source>
-        <target>学習ジャーニーで習得したスキル</target>
+        <target>学習Journeyで習得したスキル</target>
       </segment>
     </unit>
     <unit id="teams.teams:SkillPasportTab_assessments" translate="no">
@@ -11292,7 +11391,7 @@
     </notes>
       <segment >
         <source>All Smart Cards</source>
-        <target>すべてのスマートカード</target>
+        <target>すべてのSmartCard</target>
       </segment>
     </unit>
     <unit id="teams.teams:SortFilterOptions_none" translate="no">
@@ -11340,7 +11439,7 @@
         <target>割当日：最新</target>
       </segment>
     </unit>
-    <unit id="teams.teams:QuickSearchErrors_UnknownSearchField" translate="yes">
+    <unit id="teams.teams:QuickSearchErrors_UnknownSearchField" translate="no">
       <notes>
       <note id="context">Error message indicating the search field was not found.</note>
     </notes>
@@ -11349,7 +11448,7 @@
         <target>クイック検索に指定されたフィールド名が見つかりませんでした。Salesforce 管理者にお問い合わせください。</target>
       </segment>
     </unit>
-    <unit id="teams.teams:QuickSearchErrors_TooManySearchFields" translate="yes">
+    <unit id="teams.teams:QuickSearchErrors_TooManySearchFields" translate="no">
       <notes>
       <note id="context">Error message indicating there are too many search fields.</note>
     </notes>
@@ -11358,7 +11457,7 @@
         <target>検索フィールドが多すぎるエラー</target>
       </segment>
     </unit>
-    <unit id="teams.teams:QuickSearchErrors_BlankSearchData" translate="yes">
+    <unit id="teams.teams:QuickSearchErrors_BlankSearchData" translate="no">
       <notes>
       <note id="context">Error message indicating missing field data for the search object.</note>
     </notes>
@@ -11367,7 +11466,7 @@
         <target>このオブジェクトに指定されたフィールド データは存在しません。クイック検索を実行できませんでした。</target>
       </segment>
     </unit>
-    <!-- File::widgets:: NewWords: 330, NewStrings: 50 -->
+    <!-- File::widgets:: NewWords: 143, NewStrings: 13 -->
   </file>
-  <!-- XLIFF::widgets_ja-JP.xlf:: TotalNewWords: 424, TotalNewStrings: 113 -->
+  <!-- XLIFF::widgets_ja-JP.xlf:: TotalNewWords: 160, TotalNewStrings: 16 -->
 </xliff>
