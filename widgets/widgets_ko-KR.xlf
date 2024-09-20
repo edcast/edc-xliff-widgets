@@ -10094,8 +10094,8 @@
       <note id="context">Title or label indicating a leaderboard showcasing top performers.</note>
     </notes>
       <segment >
-        <source>Leaderboard </source>
-        <target>Leaderboard </target>
+        <source>Leaderboard</source>
+        <target>리더보드</target>
       </segment>
     </unit>
     <unit id="teams.teams:LeaderBoard_openLeaderboardText" translate="no">
