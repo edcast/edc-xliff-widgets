@@ -4992,7 +4992,7 @@
     </notes>
       <segment >
         <source>You can not create a SmartCard with the above-mentioned URL as the following content already exist:</source>
-        <target>您无法使用上述 URL 创建智能卡，因为以下内容已存在:</target>
+        <target>您无法使用上述 URL 创建 SmartCard，因为以下内容已存在:</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_deleteCommentToast" translate="no">

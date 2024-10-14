@@ -5028,7 +5028,7 @@
     </notes>
       <segment >
         <source>Add to pathway(s)</source>
-        <target>Zu Pathways hinzufügen</target>
+        <target>Zu Pathway(s) hinzufügen</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_assignCardSuccessMessage" translate="no">
@@ -8538,7 +8538,7 @@
     </notes>
       <segment >
         <source>Waiting for journey to load...</source>
-        <target>Warten auf das Laden von Journeys...</target>
+        <target>Warten auf das Laden der Journey...</target>
       </segment>
     </unit>
     <unit id="teams.teams:Search_findingMoreCards" translate="no">
@@ -8871,7 +8871,7 @@
     </notes>
       <segment >
         <source>Pathway deleted. It will never show again.</source>
-        <target>Pathway gelöscht. Sie wird niemals erneut angezeigt werden.</target>
+        <target>Pathway gelöscht. Er wird niemals erneut angezeigt werden.</target>
       </segment>
     </unit>
     <unit id="teams.teams:Modal_journeyDeleted" translate="yes">
@@ -10653,7 +10653,7 @@
     </notes>
       <segment >
         <source>Skill Passport</source>
-        <target>Skill Passport</target>
+        <target>Skills Passport</target>
       </segment>
     </unit>
     <unit id="teams.teams:ManagerDashboard_noSkillFound" translate="yes">

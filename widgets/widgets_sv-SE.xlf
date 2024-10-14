@@ -11391,7 +11391,7 @@
     </notes>
       <segment >
         <source>All Smart Cards</source>
-        <target>Alla smartkort</target>
+        <target>Alla SmartCards</target>
       </segment>
     </unit>
     <unit id="teams.teams:SortFilterOptions_none" translate="no">

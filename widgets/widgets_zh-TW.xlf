@@ -834,7 +834,7 @@
     </notes>
       <segment >
         <source>Viewing this SmartCard is restricted to users who you have shared it. Sharing a SmartCard can be done directly, or indirectly, via a Group, or Channel, that the users belong to.</source>
-        <target>僅限您已分享的使用者可檢視此智慧卡。分享智慧卡可以透過使用者所屬的群組或頻道直接或間接完成。</target>
+        <target>僅限您已分享的使用者可檢視此 SmartCard。分享 SmartCard 可以透過使用者所屬的群組或頻道直接或間接完成。</target>
       </segment>
     </unit>
     <unit id="br-ext.br-ext:CreateCard_publicInfoText" translate="no">
@@ -4992,7 +4992,7 @@
     </notes>
       <segment >
         <source>You can not create a SmartCard with the above-mentioned URL as the following content already exist:</source>
-        <target>您無法使用上述 URL 建立智慧卡，因為以下內容已存在：</target>
+        <target>您無法使用上述 URL 建立 SmartCard，因為以下內容已存在：</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_deleteCommentToast" translate="no">
@@ -5028,7 +5028,7 @@
     </notes>
       <segment >
         <source>Add to pathway(s)</source>
-        <target>新增至路徑</target>
+        <target>新增至 Pathway</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_assignCardSuccessMessage" translate="no">
@@ -6081,7 +6081,7 @@
     </notes>
       <segment >
         <source>Viewing this SmartCard is restricted to users who you have shared it. Sharing a SmartCard can be done directly, or indirectly, via a Group, or Channel, that the users belong to.</source>
-        <target>僅限您已分享的使用者可檢視此智慧卡。分享智慧卡可以透過使用者所屬的群組或頻道直接或間接完成。</target>
+        <target>僅限您已分享的使用者可檢視此 SmartCard。分享 SmartCard 可以透過使用者所屬的群組或頻道直接或間接完成。</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_publicInfoText" translate="no">

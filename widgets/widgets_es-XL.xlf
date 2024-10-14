@@ -1851,7 +1851,7 @@
     </notes>
       <segment >
         <source>Select the pathway(s) you want to add this content into. Content will be added at the end of the selected pathway(s).</source>
-        <target>Seleccione una o varias pathways a las que desea agregar este contenido. El contenido se agregará al final de las pathways seleccionadas.</target>
+        <target>Seleccione una o varias Pathways a las que desea agregar este contenido. El contenido se agregará al final de las Pathways seleccionadas.</target>
       </segment>
     </unit>
     <unit id="br-ext.br-ext:AddToPathwayModal_addToPathway" translate="no">
@@ -1869,7 +1869,7 @@
     </notes>
       <segment >
         <source>Select the journey(s) you want to add this content into. For each journey selected, indicate the sections you want the content to be displayed. Content will be added at the end of each section.</source>
-        <target>Seleccione uno o varios journeys a los que desea agregar este contenido. Para cada journey seleccionado, indique las secciones en las que desea que se muestre el contenido. El contenido se agregará al final de cada sección.</target>
+        <target>Seleccione uno o varios Journeys a los que desea agregar este contenido. Para cada Journey seleccionado, indique las secciones en las que desea que se muestre el contenido. El contenido se agregará al final de cada sección.</target>
       </segment>
     </unit>
     <unit id="br-ext.br-ext:AddToJourneyModal_searchPlacehoderText" translate="no">
@@ -1887,7 +1887,7 @@
     </notes>
       <segment >
         <source>Journey title</source>
-        <target>Título del viaje</target>
+        <target>Título del Journey</target>
       </segment>
     </unit>
     <unit id="br-ext.br-ext:AddToJourneyModal_sectionsLabelText" translate="no">
@@ -2595,7 +2595,7 @@
     </notes>
       <segment >
         <source>This is a locked content. Please complete the associated content in the pathway to unlock this card.</source>
-        <target>Este es un contenido bloqueado. Complete el contenido asociado en la pathway para desbloquear esta tarjeta.</target>
+        <target>Este es un contenido bloqueado. Complete el contenido asociado en la Pathway para desbloquear esta tarjeta.</target>
       </segment>
     </unit>
     <unit id="br-ext.common:userPassedLabel" translate="no">
@@ -3420,7 +3420,7 @@
     </notes>
       <segment >
         <source>This is a locked content. Please complete the associated content in the pathway to unlock this card.</source>
-        <target>Este es un contenido bloqueado. Complete el contenido asociado en la pathway para desbloquear esta tarjeta.</target>
+        <target>Este es un contenido bloqueado. Complete el contenido asociado en la Pathway para desbloquear esta tarjeta.</target>
       </segment>
     </unit>
     <unit id="teams.common:paymentAlert" translate="no">
@@ -5964,7 +5964,7 @@
     </notes>
       <segment >
         <source>This name will be displayed in the smartcard instead of yours</source>
-        <target>Este nombre se mostrará en la tarjeta inteligente en lugar del suyo.</target>
+        <target>Este nombre se mostrará en la Smartcard en lugar del suyo.</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_providerLogo" translate="no">
@@ -5982,7 +5982,7 @@
     </notes>
       <segment >
         <source>This logo will be displayed in the smartcard instead of your profile picture</source>
-        <target>Este logotipo se mostrará en la tarjeta inteligente en lugar de su foto de perfil.</target>
+        <target>Este logotipo se mostrará en la Smartcard en lugar de su foto de perfil.</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_providerPlaceholder" translate="no">
@@ -6252,7 +6252,7 @@
     </notes>
       <segment >
         <source>Select the pathway(s) you want to add this content into. Content will be added at the end of the selected pathway(s).</source>
-        <target>Seleccione una o varias pathways a las que desea agregar este contenido. El contenido se agregará al final de las pathways seleccionadas.</target>
+        <target>Seleccione una o varias Pathways a las que desea agregar este contenido. El contenido se agregará al final de las Pathways seleccionadas.</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_pleaseWait" translate="no">
@@ -6684,7 +6684,7 @@
     </notes>
       <segment >
         <source>Pathway Title</source>
-        <target>Título de la ruta</target>
+        <target>Título de la Pathway</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_appliedFilter" translate="no">
@@ -6711,7 +6711,7 @@
     </notes>
       <segment >
         <source>Select the journey(s) you want to add this content into. For each journey selected, indicate the sections you want the content to be displayed. Content will be added at the end of each section.</source>
-        <target>Seleccione uno o varios journeys a los que desea agregar este contenido. Para cada journey seleccionado, indique las secciones en las que desea que se muestre el contenido. El contenido se agregará al final de cada sección.</target>
+        <target>Seleccione uno o varios Journeys a los que desea agregar este contenido. Para cada Journey seleccionado, indique las secciones en las que desea que se muestre el contenido. El contenido se agregará al final de cada sección.</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_searchJourney" translate="no">
@@ -6729,7 +6729,7 @@
     </notes>
       <segment >
         <source>Journey title</source>
-        <target>Título del viaje</target>
+        <target>Título del Journey</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_sections" translate="no">
@@ -8538,7 +8538,7 @@
     </notes>
       <segment >
         <source>Waiting for journey to load...</source>
-        <target>Esperando que se cargue el viaje...</target>
+        <target>Esperando que se cargue el Journey...</target>
       </segment>
     </unit>
     <unit id="teams.teams:Search_findingMoreCards" translate="no">
@@ -8853,7 +8853,7 @@
     </notes>
       <segment >
         <source>Delete SmartCard</source>
-        <target>Eliminar tarjeta inteligente</target>
+        <target>Eliminar SmartCard</target>
       </segment>
     </unit>
     <unit id="teams.teams:Modal_smartcardDeleted" translate="no">
@@ -8862,7 +8862,7 @@
     </notes>
       <segment >
         <source>SmartCard deleted. It will never show again.</source>
-        <target>Tarjeta inteligente eliminada. Nunca volverá a aparecer.</target>
+        <target>SmartCard eliminada. Nunca volverá a aparecer.</target>
       </segment>
     </unit>
     <unit id="teams.teams:Modal_pathwayDeleted" translate="no">
@@ -8952,7 +8952,7 @@
     </notes>
       <segment >
         <source>Start your learning journey by finding content to consume</source>
-        <target>Comience su viaje de aprendizaje encontrando contenido para consumir</target>
+        <target>Comience su Journey de aprendizaje encontrando contenido para consumir</target>
       </segment>
     </unit>
     <unit id="teams.teams:MyActivity_openLearningPlan" translate="no">
@@ -9969,7 +9969,7 @@
     </notes>
       <segment >
         <source>You have marked this Journey as incomplete.</source>
-        <target>Marcó este journey como incompleto.</target>
+        <target>Marcó este Journey como incompleto.</target>
       </segment>
     </unit>
     <unit id="teams.teams:Channels_pathwayInCompleteSuccess" translate="no">
@@ -9978,7 +9978,7 @@
     </notes>
       <segment >
         <source>You have marked this Pathway as incomplete.</source>
-        <target>Marcó esta pathway como incompleta.</target>
+        <target>Marcó esta Pathway como incompleta.</target>
       </segment>
     </unit>
     <unit id="teams.teams:Channels_previousCardLabel" translate="no">
@@ -11319,7 +11319,7 @@
     </notes>
       <segment >
         <source>Skills that you have acquired during your learning journey</source>
-        <target>Habilidades que ha adquirido durante su viaje de aprendizaje.</target>
+        <target>Habilidades que ha adquirido durante su Journey de aprendizaje.</target>
       </segment>
     </unit>
     <unit id="teams.teams:SkillPasportTab_assessments" translate="no">
@@ -11391,7 +11391,7 @@
     </notes>
       <segment >
         <source>All Smart Cards</source>
-        <target>Todas las tarjetas inteligentes</target>
+        <target>Todas las SmartCards</target>
       </segment>
     </unit>
     <unit id="teams.teams:SortFilterOptions_none" translate="no">

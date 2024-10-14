@@ -825,7 +825,7 @@
     </notes>
       <segment >
         <source>Please specify the level of access for this SmartCard.</source>
-        <target>해당 스마트카드의 접근 레벨을 지정해 주십시오.</target>
+        <target>해당 SmartCard의 접근 레벨을 지정해 주십시오.</target>
       </segment>
     </unit>
     <unit id="br-ext.br-ext:CreateCard_privateInfoText" translate="no">
@@ -1635,7 +1635,7 @@
     </notes>
       <segment >
         <source>Add to Journey(s)</source>
-        <target>여정에 추가</target>
+        <target>Journey에 추가</target>
       </segment>
     </unit>
     <unit id="br-ext.br-ext:Cards_noJourneyFoundString" translate="no">
@@ -1644,7 +1644,7 @@
     </notes>
       <segment >
         <source>No Journey found!</source>
-        <target>여정을 찾을 수 없습니다!</target>
+        <target>Journey를 찾을 수 없습니다!</target>
       </segment>
     </unit>
     <unit id="br-ext.br-ext:Cards_addedToJourney" translate="no">
@@ -1653,7 +1653,7 @@
     </notes>
       <segment >
         <source>Card successfully added to Journey(s)</source>
-        <target>카드가 여정에 성공적으로 추가되었습니다.</target>
+        <target>카드가 Journey에 성공적으로 추가되었습니다.</target>
       </segment>
     </unit>
     <unit id="br-ext.br-ext:Cards_cardSharedSuccessfully" translate="no">
@@ -2094,7 +2094,7 @@
     </notes>
       <segment >
         <source>Add to Pathway</source>
-        <target>경로에 추가</target>
+        <target>Pathway에 추가</target>
       </segment>
     </unit>
     <unit id="br-ext.br-ext:ContextMenu_addToJourney" translate="no">
@@ -2103,7 +2103,7 @@
     </notes>
       <segment >
         <source>Add to Journey</source>
-        <target>여정에 추가</target>
+        <target>Journey에 추가</target>
       </segment>
     </unit>
     <unit id="br-ext.br-ext:ContextMenu_postToChannel" translate="no">
@@ -2622,7 +2622,7 @@
     </notes>
       <segment >
         <source>SmartCard</source>
-        <target>스마트카드</target>
+        <target>SmartCard</target>
       </segment>
     </unit>
     <unit id="br-ext.common:settings" translate="no">
@@ -2721,7 +2721,7 @@
     </notes>
       <segment >
         <source>SmartCards</source>
-        <target>스마트카드</target>
+        <target>SmartCard</target>
       </segment>
     </unit>
     <unit id="br-ext.common:userResultLabel" translate="no">
@@ -3447,7 +3447,7 @@
     </notes>
       <segment >
         <source>Add to Pathway</source>
-        <target>경로에 추가</target>
+        <target>Pathway에 추가</target>
       </segment>
     </unit>
     <unit id="teams.common:assign" translate="no">
@@ -3933,7 +3933,7 @@
     </notes>
       <segment >
         <source>SmartCards</source>
-        <target>스마트카드</target>
+        <target>SmartCard</target>
       </segment>
     </unit>
     <unit id="teams.common:about" translate="no">
@@ -4509,7 +4509,7 @@
     </notes>
       <segment >
         <source>SmartCard</source>
-        <target>스마트카드</target>
+        <target>SmartCard</target>
       </segment>
     </unit>
     <unit id="teams.common:featured" translate="no">
@@ -6072,7 +6072,7 @@
     </notes>
       <segment >
         <source>Please specify the level of access for this SmartCard.</source>
-        <target>해당 스마트카드의 접근 레벨을 지정해 주십시오.</target>
+        <target>해당 SmartCard의 접근 레벨을 지정해 주십시오.</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_privateInfoText" translate="no">
@@ -6288,7 +6288,7 @@
     </notes>
       <segment >
         <source>Card successfully added to Journey(s)</source>
-        <target>카드가 여정에 성공적으로 추가되었습니다.</target>
+        <target>카드가 Journey에 성공적으로 추가되었습니다.</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_addToJourney" translate="no">
@@ -6297,7 +6297,7 @@
     </notes>
       <segment >
         <source>Add to Journey(s)</source>
-        <target>여정에 추가</target>
+        <target>Journey에 추가</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_noJourneyFoundString" translate="no">
@@ -6306,7 +6306,7 @@
     </notes>
       <segment >
         <source>No Journey found!</source>
-        <target>여정을 찾을 수 없습니다!</target>
+        <target>Journey를 찾을 수 없습니다!</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_assignContentTo" translate="no">
@@ -6504,7 +6504,7 @@
     </notes>
       <segment >
         <source>This Pathway has been removed from your Bookmarks.</source>
-        <target>이 경로는 책갈피에서 제거되었습니다.</target>
+        <target>이 Pathway는 책갈피에서 제거되었습니다.</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_journeyBookmarkMessage" translate="no">
@@ -6522,7 +6522,7 @@
     </notes>
       <segment >
         <source>This Journey has been removed from your Bookmarks.</source>
-        <target>이 여정은 책갈피에서 제거되었습니다.</target>
+        <target>이 Journey는 책갈피에서 제거되었습니다.</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_cardError" translate="no">
@@ -6729,7 +6729,7 @@
     </notes>
       <segment >
         <source>Journey title</source>
-        <target>여정 제목</target>
+        <target>Journey 제목</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_sections" translate="no">
@@ -7125,7 +7125,7 @@
     </notes>
       <segment >
         <source>All the SmartCards needs to be completed first</source>
-        <target>모든 스마트카드를 먼저 완료해야 함</target>
+        <target>모든 SmartCard를 먼저 완료해야 함</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_unspecifiedLabel" translate="no">
@@ -8439,7 +8439,7 @@
     </notes>
       <segment >
         <source>Add to Journey</source>
-        <target>여정에 추가</target>
+        <target>Journey에 추가</target>
       </segment>
     </unit>
     <unit id="teams.teams:ContextMenu_postToChannel" translate="no">
@@ -10094,7 +10094,7 @@
       <note id="context">Title or label indicating a leaderboard showcasing top performers.</note>
     </notes>
       <segment >
-        <source>Leaderboard</source>
+        <source>Leaderboard </source>
         <target>리더보드</target>
       </segment>
     </unit>

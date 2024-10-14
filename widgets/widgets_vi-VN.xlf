@@ -314,7 +314,7 @@
       <notes>
       <note id="context">Action/Button text for Sharing the smartcard with users, groups or channels</note>
     </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Share this SmartCard</source>
         <target>Chia sẻ SmartCard này</target>
       </segment>
@@ -323,7 +323,7 @@
       <notes>
       <note id="context">Help text for sharing the smartcard while creating it</note>
     </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Select Channels, Groups, and/or Individuals you would like to share this SmartCard with upon creation</source>
         <target>Chọn Kênh, Nhóm và/hoặc Cá nhân mà bạn muốn chia sẻ SmartCard này khi tạo</target>
       </segment>
@@ -422,7 +422,7 @@
       <notes>
       <note id="context">Error text to show if already the smartcard with the same content exists</note>
     </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>You can not create a SmartCard with this URL as the following content already exists</source>
         <target>Bạn không thể tạo SmartCard bằng URL này vì nội dung sau đã tồn tại</target>
       </segment>
@@ -584,7 +584,7 @@
       <notes>
       <note id="context">Validation text for empty smartcard description</note>
     </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Please, provide a description for your SmartCard.</source>
         <target>Vui lòng cung cấp mô tả cho SmartCard của bạn.</target>
       </segment>
@@ -818,7 +818,7 @@
       <notes>
       <note id="context">Hint text for the level of access</note>
     </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Please specify the level of access for this SmartCard.</source>
         <target>Vui lòng chỉ định cấp truy cập cho SmartCard này.</target>
       </segment>
@@ -827,7 +827,7 @@
       <notes>
       <note id="context">Hint text about sharing the smartcard</note>
     </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Viewing this SmartCard is restricted to users who you have shared it. Sharing a SmartCard can be done directly, or indirectly, via a Group, or Channel, that the users belong to.</source>
         <target>Chỉ những người dùng mà bạn đã chia sẻ SmartCard này mới có quyền xem. Việc chia sẻ SmartCard có thể được thực hiện trực tiếp hoặc gián tiếp thông qua Nhóm hoặc Kênh mà người dùng thuộc về.</target>
       </segment>
@@ -836,7 +836,7 @@
       <notes>
       <note id="context">Hint text about the visibility of the smart card</note>
     </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Anyone can view this SmartCard.</source>
         <target>Bất cứ ai cũng có thể xem SmartCard này.</target>
       </segment>
@@ -1664,7 +1664,7 @@
       <notes>
       <note id="context">This text is used as content for private share modal.</note>
     </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>You are about to share a private SmartCard, only users that have already been granted access to this card will be able to access it.</source>
         <target>Bạn sắp chia sẻ một SmartCard riêng tư, chỉ những người dùng đã được cấp quyền truy cập vào thẻ này mới có thể truy cập được.</target>
       </segment>
@@ -1808,7 +1808,7 @@
       <notes>
       <note id="context">This text is used as a placeholder for search in the add to pathway modal.</note>
     </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Search Pathway</source>
         <target>Tìm kiếm Pathway</target>
       </segment>
@@ -2006,7 +2006,7 @@
       <notes>
       <note id="context">Info text for assigning private card to the assignee</note>
     </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>This content is private and therefore won't be visible to the assignee. You can change this in your smartcard settings.</source>
         <target>Nội dung này thuộc diện riêng tư và do đó sẽ không hiển thị với người được chuyển nhượng. Bạn có thể thay đổi điều này trong phần cài đặt SmartCard.</target>
       </segment>
@@ -2615,7 +2615,7 @@
       <notes>
       <note id="context">Label text to denote the smartcard</note>
     </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>SmartCard</source>
         <target>SmartCard</target>
       </segment>
@@ -2714,9 +2714,9 @@
       <notes>
       <note id="context">Label text to denote the smartcard (plural) to be shown as banner text in journey mini card  thumbnail</note>
     </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>SmartCards</source>
-        <target>SmartCard</target>
+        <target>SmartCards</target>
       </segment>
     </unit>
     <unit id="br-ext.common:userResultLabel" translate="no">
@@ -2945,7 +2945,7 @@
       <notes>
       <note id="context">Info text to be shown when unbookmark action is a success</note>
     </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>This SmartCard has been removed from your Bookmarks.</source>
         <target>SmartCard này đã được xóa khỏi Dấu trang của bạn.</target>
       </segment>
@@ -2954,7 +2954,7 @@
       <notes>
       <note id="context">Text for the success message when a smartcard is completed</note>
     </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>You have successfully completed the SmartCard.</source>
         <target>Bạn đã hoàn thành SmartCard này.</target>
       </segment>
@@ -3152,7 +3152,7 @@
       <notes>
       <note id="context">Info text to denote that the content is private</note>
     </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>This content is private and therefore won't be visible to the assignee. You can change this in your smartcard settings.</source>
         <target>Nội dung này thuộc diện riêng tư và do đó sẽ không hiển thị với người được chuyển nhượng. Bạn có thể thay đổi điều này trong phần cài đặt SmartCard.</target>
       </segment>
@@ -3251,7 +3251,7 @@
       <notes>
       <note id="context">Warning text to be shown when the card is private and wants to be shared</note>
     </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>You are about to share a private SmartCard. Only users to whom this card has been shared will have access to it.</source>
         <target>Bạn sắp chia sẻ một SmartCard riêng tư. Chỉ người dùng được chia sẻ thẻ này mới có quyền truy cập.</target>
       </segment>
@@ -3926,9 +3926,9 @@
       <notes>
       <note id="context">Label text denoting the SmartCards</note>
     </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>SmartCards</source>
-        <target>SmartCard</target>
+        <target>SmartCards</target>
       </segment>
     </unit>
     <unit id="teams.common:about" translate="no">
@@ -4502,7 +4502,7 @@
       <notes>
       <note id="context">Represents the label for a single smart card.</note>
     </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>SmartCard</source>
         <target>SmartCard</target>
       </segment>
@@ -4985,9 +4985,9 @@
       <notes>
       <note id="context">Error message indicating a duplicate SmartCard URL.</note>
     </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>You can not create a SmartCard with the above-mentioned URL as the following content already exist:</source>
-        <target>Bạn không thể tạo SmartCard bằng URL nêu trên vì nội dung sau đã tồn tại:</target>
+        <target>Bạn không thể tạo SmartCard bằng URL nêu trên vì nội dung sau đây đã tồn tại:</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_deleteCommentToast" translate="no">
@@ -5111,7 +5111,7 @@
       <notes>
       <note id="context">This label is used as a header string in createcardmodal</note>
     </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Create a SmartCard</source>
         <target>Tạo SmartCard</target>
       </segment>
@@ -5120,7 +5120,7 @@
       <notes>
       <note id="context">This label is used as a header string in create-card-modal while updating a card.</note>
     </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Update a SmartCard</source>
         <target>Cập nhật SmartCard</target>
       </segment>
@@ -5228,7 +5228,7 @@
       <notes>
       <note id="context">This label is used as a placeholder for the title text in Create Card.</note>
     </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Enter SmartCard title here</source>
         <target>Nhập tiêu đề SmartCard tại đây</target>
       </segment>
@@ -5498,7 +5498,7 @@
       <notes>
       <note id="context">This text is used as subheading text for description in quiz smart card.</note>
     </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>The following will be the full description of your SmartCard</source>
         <target>Sau đây sẽ là mô tả đầy đủ về SmartCard của bạn</target>
       </segment>
@@ -5507,9 +5507,9 @@
       <notes>
       <note id="context">This text is used as a placeholder for description in the quiz smart card.</note>
     </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Enter SmartCard description here</source>
-        <target>Nhập mô tả SmartCard vào đây</target>
+        <target>Nhập mô tả SmartCard tại đây</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_liveEventInputTitle" translate="no">
@@ -5957,9 +5957,9 @@
       <notes>
       <note id="context">This text is used as a subtitle for provider name input.</note>
     </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>This name will be displayed in the smartcard instead of yours</source>
-        <target>Tên này sẽ được hiển thị trong smartcard thay vì tên của bạn</target>
+        <target>Tên này sẽ được hiển thị trong SmartCard thay vì tên của bạn</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_providerLogo" translate="no">
@@ -5975,9 +5975,9 @@
       <notes>
       <note id="context">This text is used as a sub-title for provider logo input.</note>
     </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>This logo will be displayed in the smartcard instead of your profile picture</source>
-        <target>Logo này sẽ hiển thị trong smartcard thay vì ảnh hồ sơ của bạn</target>
+        <target>Logo này sẽ hiển thị trong SmartCard thay vì ảnh hồ sơ của bạn</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_providerPlaceholder" translate="no">
@@ -6065,7 +6065,7 @@
       <notes>
       <note id="context">This text is used as a subtitle for privacy input.</note>
     </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Please specify the level of access for this SmartCard.</source>
         <target>Vui lòng chỉ định cấp truy cập cho SmartCard này.</target>
       </segment>
@@ -6074,7 +6074,7 @@
       <notes>
       <note id="context">This text is used as a description for the private info icon.</note>
     </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Viewing this SmartCard is restricted to users who you have shared it. Sharing a SmartCard can be done directly, or indirectly, via a Group, or Channel, that the users belong to.</source>
         <target>Chỉ những người dùng mà bạn đã chia sẻ SmartCard này mới có quyền xem. Việc chia sẻ SmartCard có thể được thực hiện trực tiếp hoặc gián tiếp thông qua Nhóm hoặc Kênh mà người dùng thuộc về.</target>
       </segment>
@@ -6083,7 +6083,7 @@
       <notes>
       <note id="context">This text is used as a description for the public info icon.</note>
     </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Anyone can view this SmartCard.</source>
         <target>Bất cứ ai cũng có thể xem SmartCard này.</target>
       </segment>
@@ -6263,9 +6263,9 @@
       <notes>
       <note id="context">This text is used to display "No Pathways Found" in smartcards.</note>
     </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>No Pathways Found</source>
-        <target>Không tìm thấy Pathway nào</target>
+        <target>Không tìm thấy Pathways nào</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_addedToPathway" translate="no">
@@ -6407,7 +6407,7 @@
       <notes>
       <note id="context">This text is used as a toast message after uncompleting the smartcard.</note>
     </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>You have successfully Uncompleted the SmartCard.</source>
         <target>Bạn đã hủy thành công trạng thái hoàn thành của SmartCard này.</target>
       </segment>
@@ -6416,7 +6416,7 @@
       <notes>
       <note id="context">This text is used as a toast message after creating a bookmark.</note>
     </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Done! This SmartCard has been Bookmarked and now be found in your bookmarked content</source>
         <target>Đã xong! SmartCard này đã được đánh dấu và hiện có thể tìm thấy trong nội dung được đánh dấu của bạn</target>
       </segment>
@@ -6479,7 +6479,7 @@
       <notes>
       <note id="context">This text is used as a toast message after bookmarking a smart card.</note>
     </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Done! This SmartCard has been Bookmarked and can now be found in your bookmarked content.</source>
         <target>Đã xong! SmartCard này đã được đánh dấu và hiện có thể được tìm thấy trong mục các nội dung đã được đánh dấu trang của bạn.</target>
       </segment>
@@ -6605,7 +6605,7 @@
       <notes>
       <note id="context">The Success message to be displayed after marking a smartcard as incomplete.</note>
     </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>You have marked this SmartCard as incomplete.</source>
         <target>Bạn đã đánh dấu SmartCard này là chưa hoàn thành.</target>
       </segment>
@@ -6695,7 +6695,7 @@
       <notes>
       <note id="context">This text is used as a placeholder for search in the Add to Pathway modal.</note>
     </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Search Pathway</source>
         <target>Tìm kiếm Pathway</target>
       </segment>
@@ -7118,9 +7118,9 @@
       <notes>
       <note id="context">Help Text to complete the journey/pathway</note>
     </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>All the SmartCards needs to be completed first</source>
-        <target>Cần phải hoàn thành tất cả các SmartCard trước tiên</target>
+        <target>Trước tiên, cần phải hoàn thành tất cả các SmartCards</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_unspecifiedLabel" translate="no">
@@ -7640,7 +7640,7 @@
       <notes>
       <note id="context">Alert Text to be shown when the user is deleting a card</note>
     </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>You are about to delete the SmartCard</source>
         <target>Bạn sắp xóa SmartCard</target>
       </segment>
@@ -8063,7 +8063,7 @@
       <notes>
       <note id="context">Help text for the smartcard completion</note>
     </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Marking the SmartCard as incomplete will not change the Continuous Learning hour or the score associated with it.</source>
         <target>Đánh dấu SmartCard là chưa hoàn thành sẽ không thay đổi giờ Học tập liên tục hoặc điểm số có liên quan.</target>
       </segment>
@@ -8846,7 +8846,7 @@
       <notes>
       <note id="context">Button text for delete smartcard action</note>
     </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Delete SmartCard</source>
         <target>Xóa SmartCard</target>
       </segment>
@@ -8855,7 +8855,7 @@
       <notes>
       <note id="context">Success message for Smartcard deletion</note>
     </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>SmartCard deleted. It will never show again.</source>
         <target>SmartCard đã bị xóa. Thông tin này sẽ không hiển thị lại.</target>
       </segment>
@@ -9746,9 +9746,9 @@
       <notes>
       <note id="context">Label for a button or action that directs the user to the home page of pathways.</note>
     </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>To Pathway Home</source>
-        <target>Tới trang chủ Pathway</target>
+        <target>Tới Nhà Pathway</target>
       </segment>
     </unit>
     <unit id="teams.teams:Channels_toJourneyHome" translate="no">
@@ -11060,18 +11060,18 @@
       <notes>
       <note id="context">Represents the label for multiple pathways.</note>
     </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>pathways</source>
-        <target>pathway</target>
+        <target>Pathways</target>
       </segment>
     </unit>
     <unit id="teams.teams:MiniCard_pathwaySingularLabel" translate="no">
       <notes>
       <note id="context">Represents the label for a single pathway.</note>
     </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>pathway</source>
-        <target>pathway</target>
+        <target>Pathway</target>
       </segment>
     </unit>
     <unit id="teams.teams:MiniCard_miniPollCardLabels_pollCardVoteLabel" translate="no">

@@ -4509,7 +4509,7 @@
     </notes>
       <segment >
         <source>SmartCard</source>
-        <target>Carte intelligente</target>
+        <target>SmartCard</target>
       </segment>
     </unit>
     <unit id="teams.common:featured" translate="no">
@@ -4992,7 +4992,7 @@
     </notes>
       <segment >
         <source>You can not create a SmartCard with the above-mentioned URL as the following content already exist:</source>
-        <target>Vous ne pouvez pas créer de carte intelligente avec l&apos;URL mentionnée ci-dessus, car le contenu suivant existe déjà :</target>
+        <target>Vous ne pouvez pas créer de SmartCard avec l&apos;URL mentionnée ci-dessus, car le contenu suivant existe déjà :</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_deleteCommentToast" translate="no">
