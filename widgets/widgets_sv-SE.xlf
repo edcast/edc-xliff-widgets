@@ -2022,7 +2022,7 @@
     </notes>
       <segment >
         <source>{{selected}} out of {{total}} groups selected</source>
-        <target>{{selected} av {{total} grupper har valts</target>
+        <target>{{selected}} av {{total} grupper har valts</target>
       </segment>
     </unit>
     <unit id="br-ext.br-ext:ShareCardModal_checkBoxHeadingText" translate="no">
@@ -2532,7 +2532,7 @@
     </notes>
       <segment >
         <source>{{selected}} out of {{total}} individuals selected</source>
-        <target>{{selected} av {{total} personer har valts</target>
+        <target>{{selected}} av {{total} personer har valts</target>
       </segment>
     </unit>
     <unit id="br-ext.common:inputBoxTitleHeading" translate="no">
@@ -3168,7 +3168,7 @@
     </notes>
       <segment >
         <source>{{selected}} out of {{total}} individuals selected</source>
-        <target>{{selected} av {{total} personer har valts</target>
+        <target>{{selected}} av {{total} personer har valts</target>
       </segment>
     </unit>
     <unit id="teams.common:likes" translate="no">
@@ -7548,7 +7548,7 @@
     </notes>
       <segment >
         <source>{{selected}} out of {{total}} groups selected</source>
-        <target>{{selected} av {{total} grupper har valts</target>
+        <target>{{selected}} av {{total} grupper har valts</target>
       </segment>
     </unit>
     <unit id="teams.teams:CardInsight_cardsStatsModalHeader" translate="no">
@@ -7746,7 +7746,7 @@
     </notes>
       <segment >
         <source>You&apos;re about to approve {{selected}} member requests. Are you sure you want to approve them?</source>
-        <target>Du godkänner nu {{selected} medlemsförfrågningar. Vill du godkänna dem?</target>
+        <target>Du godkänner nu {{selected}} medlemsförfrågningar. Vill du godkänna dem?</target>
       </segment>
     </unit>
     <unit id="teams.teams:SmartCardDetailView_liveTabDeclineModalLabel" translate="no">
@@ -7755,7 +7755,7 @@
     </notes>
       <segment >
         <source>You&apos;re about to decline {{selected}} member requests. Are you sure you want to decline them?</source>
-        <target>Du avvisar nu {{selected} medlemsförfrågningar. Vill du tacka nej till dem?</target>
+        <target>Du avvisar nu {{selected}} medlemsförfrågningar. Vill du tacka nej till dem?</target>
       </segment>
     </unit>
     <unit id="teams.teams:SmartCardDetailView_liveTabMarkAsCompleteModalLabel" translate="no">
@@ -7764,7 +7764,7 @@
     </notes>
       <segment >
         <source>You&apos;re about to mark as complete {{selected}} member requests. Are you sure you want to mark them as complete?</source>
-        <target>Du markerar nu {{selected} medlemsförfrågningar som slutförda. Vill du markera dem som slutförda?</target>
+        <target>Du markerar nu {{selected}} medlemsförfrågningar som slutförda. Vill du markera dem som slutförda?</target>
       </segment>
     </unit>
     <unit id="teams.teams:SmartCardDetailView_liveTabMarkAsCompleteLabel" translate="no">
