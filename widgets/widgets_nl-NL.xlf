@@ -1041,7 +1041,7 @@
     </notes>
       <segment >
         <source>Journey</source>
-        <target>Reis</target>
+        <target>Journey</target>
       </segment>
     </unit>
     <unit id="br-ext.br-ext:Cards_readableCardType_article" translate="no">
@@ -1635,7 +1635,7 @@
     </notes>
       <segment >
         <source>Add to Journey(s)</source>
-        <target>Toevoegen aan trajecten</target>
+        <target>Toevoegen aan Journey(s)</target>
       </segment>
     </unit>
     <unit id="br-ext.br-ext:Cards_noJourneyFoundString" translate="no">
@@ -1644,7 +1644,7 @@
     </notes>
       <segment >
         <source>No Journey found!</source>
-        <target>Geen reis gevonden.</target>
+        <target>Geen Journey gevonden.</target>
       </segment>
     </unit>
     <unit id="br-ext.br-ext:Cards_addedToJourney" translate="no">
@@ -1653,7 +1653,7 @@
     </notes>
       <segment >
         <source>Card successfully added to Journey(s)</source>
-        <target>Kaart is toegevoegd aan journey(s)</target>
+        <target>Kaart is toegevoegd aan Journey(s)</target>
       </segment>
     </unit>
     <unit id="br-ext.br-ext:Cards_cardSharedSuccessfully" translate="no">
@@ -1833,7 +1833,7 @@
     </notes>
       <segment >
         <source>Pathway Title</source>
-        <target>Titel van traject</target>
+        <target>Titel van Pathway</target>
       </segment>
     </unit>
     <unit id="br-ext.br-ext:AddToPathwayModal_noPathwayFound" translate="no">
@@ -1860,7 +1860,7 @@
     </notes>
       <segment >
         <source>Add to Pathway(s)</source>
-        <target>Toevoegen aan trajecten</target>
+        <target>Toevoegen aan Pathway(s)</target>
       </segment>
     </unit>
     <unit id="br-ext.br-ext:AddToJourneyModal_infoText" translate="no">
@@ -2094,7 +2094,7 @@
     </notes>
       <segment >
         <source>Add to Pathway</source>
-        <target>Toevoegen aan pathway</target>
+        <target>Toevoegen aan Pathway</target>
       </segment>
     </unit>
     <unit id="br-ext.br-ext:ContextMenu_addToJourney" translate="no">
@@ -2103,7 +2103,7 @@
     </notes>
       <segment >
         <source>Add to Journey</source>
-        <target>Toevoegen aan journey</target>
+        <target>Toevoegen aan Journey</target>
       </segment>
     </unit>
     <unit id="br-ext.br-ext:ContextMenu_postToChannel" translate="no">
@@ -2703,7 +2703,7 @@
     </notes>
       <segment >
         <source>Pathway</source>
-        <target>Traject</target>
+        <target>Pathway</target>
       </segment>
     </unit>
     <unit id="br-ext.common:badgeTextLabel" translate="no">
@@ -3447,7 +3447,7 @@
     </notes>
       <segment >
         <source>Add to Pathway</source>
-        <target>Toevoegen aan pathway</target>
+        <target>Toevoegen aan Pathway</target>
       </segment>
     </unit>
     <unit id="teams.common:assign" translate="no">
@@ -5028,7 +5028,7 @@
     </notes>
       <segment >
         <source>Add to pathway(s)</source>
-        <target>Toevoegen aan trajecten</target>
+        <target>Toevoegen aan Pathway(s)</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_assignCardSuccessMessage" translate="no">
@@ -6297,7 +6297,7 @@
     </notes>
       <segment >
         <source>Add to Journey(s)</source>
-        <target>Toevoegen aan trajecten</target>
+        <target>Toevoegen aan Journey(s)</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_noJourneyFoundString" translate="no">
@@ -6306,7 +6306,7 @@
     </notes>
       <segment >
         <source>No Journey found!</source>
-        <target>Geen reis gevonden.</target>
+        <target>Geen Journey gevonden.</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_assignContentTo" translate="no">
@@ -6684,7 +6684,7 @@
     </notes>
       <segment >
         <source>Pathway Title</source>
-        <target>Titel van traject</target>
+        <target>Titel van Pathway</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_appliedFilter" translate="no">
@@ -8439,7 +8439,7 @@
     </notes>
       <segment >
         <source>Add to Journey</source>
-        <target>Toevoegen aan journey</target>
+        <target>Toevoegen aan Journey</target>
       </segment>
     </unit>
     <unit id="teams.teams:ContextMenu_postToChannel" translate="no">
@@ -11067,7 +11067,7 @@
     </notes>
       <segment >
         <source>pathways</source>
-        <target>Trajecten</target>
+        <target>pathways</target>
       </segment>
     </unit>
     <unit id="teams.teams:MiniCard_pathwaySingularLabel" translate="no">
