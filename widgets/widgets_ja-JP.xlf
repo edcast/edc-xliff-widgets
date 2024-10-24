@@ -3258,7 +3258,7 @@
     </notes>
       <segment >
         <source>You are about to share a private SmartCard. Only users to whom this card has been shared will have access to it.</source>
-        <target>プライベート スマート カードを共有しようとしています。このカードを共有されたユーザーのみアクセスできます。</target>
+        <target>プライベート SmartCardを共有しようとしています。このカードを共有されたユーザーのみアクセスできます。</target>
       </segment>
     </unit>
     <unit id="teams.common:skipNotifyingUsers" translate="no">
@@ -4992,7 +4992,7 @@
     </notes>
       <segment >
         <source>You can not create a SmartCard with the above-mentioned URL as the following content already exist:</source>
-        <target>次のコンテンツが既に存在するため、上記の URL でスマート カードを作成することはできません。</target>
+        <target>次のコンテンツが既に存在するため、上記の URL でSmartCardを作成することはできません。</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_deleteCommentToast" translate="no">
