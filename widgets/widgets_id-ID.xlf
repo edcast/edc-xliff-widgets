@@ -9,6 +9,24 @@
     <notes>
       <note id="n1">Edcast Translation file for widgets</note>
     </notes>
+    <unit id="br-ext.br-ext:ChooseWorkspace_enterYourTeamseUrl" translate="yes">
+      <notes>
+      <note id="context">Instruction for entering the team’s learning experience URL</note>
+    </notes>
+      <segment >
+        <source>Enter your team&apos;s {{companyName}} URL</source>
+        <target>Masukkan URL {{companyName}} tim Anda</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:ChooseWorkspace_signInToYourTeam" translate="yes">
+      <notes>
+      <note id="context">Button text for signing into the team</note>
+    </notes>
+      <segment >
+        <source>Sign in to your Team</source>
+        <target>Masuk ke tim Anda</target>
+      </segment>
+    </unit>
     <unit id="br-ext.br-ext:ChooseWorkspace_label" translate="no">
       <notes>
       <note id="context">Text that denotes the Label of input fields</note>
@@ -90,6 +108,15 @@
         <target>Tidak dapat menemukan ruang kerja</target>
       </segment>
     </unit>
+    <unit id="br-ext.br-ext:Login_orLoginInWith" translate="yes">
+      <notes>
+      <note id="context">Text offering alternative login options</note>
+    </notes>
+      <segment >
+        <source>or login in with</source>
+        <target>atau login dengan</target>
+      </segment>
+    </unit>
     <unit id="br-ext.br-ext:Login_password" translate="no">
       <notes>
       <note id="context">Label text for the user&apos;s password</note>
@@ -169,6 +196,42 @@
       <segment >
         <source>Continue with {{ssoLabel}}</source>
         <target>Lanjutkan dengan {{ssoLabel}}</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:CreateCard_noResultFoundLabel" translate="yes">
+      <notes>
+      <note id="context">A label or message displayed when a search or query returns no results</note>
+    </notes>
+      <segment >
+        <source>No result found</source>
+        <target>Tidak ditemukan hasil</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:CreateCard_linkSubTitle" translate="yes">
+      <notes>
+      <note id="context">Instruction for pasting a link</note>
+    </notes>
+      <segment >
+        <source>Paste your article link here</source>
+        <target>Tempel tautan artikel Anda di sini</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:CreateCard_linkPlaceHolder" translate="yes">
+      <notes>
+      <note id="context">Placeholder for link address input</note>
+    </notes>
+      <segment >
+        <source>Enter link address here</source>
+        <target>Masukkan alamat tautan di sini</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:CreateCard_createArticle" translate="yes">
+      <notes>
+      <note id="context">Button text to create a SmartCard using a web URL</note>
+    </notes>
+      <segment >
+        <source>Create Web URL SmartCard</source>
+        <target>Buat URL Web SmartCard</target>
       </segment>
     </unit>
     <unit id="br-ext.br-ext:CreateCard_title" translate="no">
@@ -295,15 +358,6 @@
       <segment >
         <source>Duration minutes cannot be greater than 59</source>
         <target>Durasi menit tidak boleh lebih dari 59</target>
-      </segment>
-    </unit>
-    <unit id="br-ext.br-ext:CreateCard_channels" translate="no">
-      <notes>
-      <note id="context">Label for the denoting the Channels the smartcard will be in.</note>
-    </notes>
-      <segment >
-        <source>Channels</source>
-        <target>Kanal</target>
       </segment>
     </unit>
     <unit id="br-ext.br-ext:CreateCard_create" translate="no">
@@ -1035,6 +1089,33 @@
         <target>Tampilkan ringkas</target>
       </segment>
     </unit>
+    <unit id="br-ext.br-ext:Cards_contentNotAvailable" translate="yes">
+      <notes>
+      <note id="context">A message indicating that the requested content is not available</note>
+    </notes>
+      <segment >
+        <source>Content not available</source>
+        <target>Konten tidak tersedia</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardTypeQ&A" translate="yes">
+      <notes>
+      <note id="context">Label for a Q&amp;A type of card</note>
+    </notes>
+      <segment >
+        <source>Q&amp;A</source>
+        <target>Q&amp;A</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_loadMoreTextSingular" translate="yes">
+      <notes>
+      <note id="context">A button or link text indicating that one more comment can be displayed</note>
+    </notes>
+      <segment >
+        <source>Show 1 more comment</source>
+        <target>Tampilkan 1 komentar lagi</target>
+      </segment>
+    </unit>
     <unit id="br-ext.br-ext:Cards_readableCardType_journey" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a journey.</note>
@@ -1483,15 +1564,6 @@
       <segment >
         <source>Resource</source>
         <target>Sumber Daya</target>
-      </segment>
-    </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_link" translate="no">
-      <notes>
-      <note id="context">Label indicating the content type is a link.</note>
-    </notes>
-      <segment >
-        <source>Link</source>
-        <target>Tautan</target>
       </segment>
     </unit>
     <unit id="br-ext.br-ext:Cards_deleteCommentToast" translate="no">
@@ -2187,6 +2259,15 @@
         <target>Abaikan dari Penugasan</target>
       </segment>
     </unit>
+    <unit id="br-ext.br-ext:MiniCard_insertLinkLabel" translate="yes">
+      <notes>
+      <note id="context">Button text to insert a link in a mini card</note>
+    </notes>
+      <segment >
+        <source>Insert Link</source>
+        <target>Sisipkan Link</target>
+      </segment>
+    </unit>
     <unit id="br-ext.br-ext:MiniCard_buyCardMiniLabel" translate="no">
       <notes>
       <note id="context">Text to be shown if the cards need to be bought by the user to use it.</note>
@@ -2238,7 +2319,7 @@
     </notes>
       <segment >
         <source>Result by &lt;span className=&quot;edx-ext-instance-name&quot;&gt;{{orgName}}&lt;/span&gt; </source>
-        <target>Hasil oleh &lt;span className=&quot;edx-ext-instance-name&quot;>{{orgName}}&lt;/span> </target>
+        <target>Hasil berdasarkan &lt;span className=&quot;edx-ext-instance-name&quot;&gt;{{orgName}}&lt;/span&gt; </target>
       </segment>
     </unit>
     <unit id="br-ext.br-ext:SearchPanel_loginNow" translate="no">
@@ -2256,7 +2337,7 @@
     </notes>
       <segment >
         <source>Login to your &lt;b&gt;{{orgName}}&lt;/b&gt; account to get the relevant content from &lt;b&gt;{{orgName}}&lt;/b&gt;</source>
-        <target>Login ke akun &lt;b&gt;{{orgName}}&lt;/b&gt; Anda untuk mendapatkan konten yang relevan dari &lt;b&gt;{{orgName}}&lt;/b&gt;</target>
+        <target>Login ke akun &lt;b&gt;{{orgName}&lt;/b&gt; Anda untuk mendapatkan konten yang relevan dari &lt;b&gt;{{orgName}}&lt;/b&gt;</target>
       </segment>
     </unit>
     <unit id="br-ext.br-ext:SearchPanel_loggedInLabel" translate="no">
@@ -2439,7 +2520,7 @@
         <target>Ketentuan Layanan</target>
       </segment>
     </unit>
-    <!-- File::widgets:: NewWords: 16, NewStrings: 2 -->
+    <!-- File::widgets:: NewWords: 56, NewStrings: 13 -->
   </file>
   <file id="widgets:br-ext.common" original="packages/widgets/br-ext/labels/common.yaml" translate="yes">
     <notes>
@@ -2796,13 +2877,13 @@
         <target>Live</target>
       </segment>
     </unit>
-    <unit id="br-ext.common:liveStreamEndContentLabel" translate="no">
+    <unit id="br-ext.common:liveStreamEndContentLabel" translate="yes">
       <notes>
-      <note id="context">Help text to be shown for LiveStream Ended Cards</note>
+      <note id="context">A message indicating that the live stream has ended and the replay will soon be available on the company&apos;s platform</note>
     </notes>
       <segment >
-        <source>The replay of this video will be available on EdCast shortly</source>
-        <target>Pemutaran ulang video ini akan segera tersedia di EdCast</target>
+        <source>The replay of this video will be available on {{companyName}} shortly</source>
+        <target>Tayangan ulang video ini akan tersedia di {{companyName}} segera</target>
       </segment>
     </unit>
     <unit id="br-ext.common:liveStreamEndVideoLabel" translate="no">
@@ -2823,19 +2904,46 @@
         <target>Streaming Langsung Berakhir</target>
       </segment>
     </unit>
-    <!-- File::widgets:: NewWords: 0, NewStrings: 0 -->
+    <unit id="br-ext.common:loadMoreTextPlural" translate="yes">
+      <notes>
+      <note id="context">A button or link text indicating that multiple additional comments can be displayed</note>
+    </notes>
+      <segment >
+        <source>Show {{remainingComments}} more comments</source>
+        <target>Tampilkan {{remainingComments}} komentar lainnya</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.common:linkTitle" translate="yes">
+      <notes>
+      <note id="context">Label indicating the content type is a link.</note>
+    </notes>
+      <segment >
+        <source>Link</source>
+        <target>Link</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.common:channelsTitle" translate="yes">
+      <notes>
+      <note id="context">Label for channels in the top bar</note>
+    </notes>
+      <segment >
+        <source>Channels</source>
+        <target>Kanal</target>
+      </segment>
+    </unit>
+    <!-- File::widgets:: NewWords: 17, NewStrings: 4 -->
   </file>
   <file id="widgets:teams.common" original="packages/widgets/teams/labels/common.yaml" translate="yes">
     <notes>
       <note id="n1">Edcast Translation file for widgets</note>
     </notes>
-    <unit id="teams.common:tryEdcastNow" translate="no">
+    <unit id="teams.common:tryEdcastNow" translate="yes">
       <notes>
       <note id="context">Text for the button to register on edcast</note>
     </notes>
       <segment >
-        <source>Try EdCast Now</source>
-        <target>Coba EdCast Sekarang</target>
+        <source>Try {{companyName}} Now</source>
+        <target>Coba {{companyName}} Sekarang</target>
       </segment>
     </unit>
     <unit id="teams.common:dontHaveAccount" translate="no">
@@ -4251,13 +4359,13 @@
         <target>Streaming Langsung Berakhir</target>
       </segment>
     </unit>
-    <unit id="teams.common:videoReplay" translate="no">
+    <unit id="teams.common:videoReplay" translate="yes">
       <notes>
       <note id="context">Help text to be shown for LiveStream Ended Cards</note>
     </notes>
       <segment >
-        <source>The replay of this video will be available on EdCast shortly</source>
-        <target>Pemutaran ulang video ini akan segera tersedia di EdCast</target>
+        <source>The replay of this video will be available on {{companyName}} shortly</source>
+        <target>Tayangan ulang video ini akan tersedia di {{companyName}} segera</target>
       </segment>
     </unit>
     <unit id="teams.common:ended" translate="no">
@@ -4575,7 +4683,25 @@
         <target>Kurang</target>
       </segment>
     </unit>
-    <!-- File::widgets:: NewWords: 0, NewStrings: 0 -->
+    <unit id="teams.common:goTo" translate="yes">
+      <notes>
+      <note id="context">Describes a label or action that instructs users to navigate to another location.</note>
+    </notes>
+      <segment >
+        <source>Go to</source>
+        <target>Buka</target>
+      </segment>
+    </unit>
+    <unit id="teams.common:author" translate="yes">
+      <notes>
+      <note id="context">The Label text for the Author field in the filter in the search page</note>
+    </notes>
+      <segment >
+        <source>Author</source>
+        <target>Penulis</target>
+      </segment>
+    </unit>
+    <!-- File::widgets:: NewWords: 17, NewStrings: 4 -->
   </file>
   <file id="widgets:teams.teams" original="packages/widgets/teams/labels/teams.yaml" translate="yes">
     <notes>
@@ -4653,13 +4779,13 @@
         <target>tahun</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ChooseWorkspace_sparkByEdcast" translate="no">
+    <unit id="teams.teams:ChooseWorkspace_sparkByEdcast" translate="yes">
       <notes>
-      <note id="context">This label is used to show Spark by EdCast name in the choose workspace screen.</note>
+      <note id="context">A branding label indicating that the platform service is powered by the company</note>
     </notes>
       <segment >
-        <source>Spark by EdCast</source>
-        <target>Spark by EdCast</target>
+        <source>Spark by {{companyName}}</source>
+        <target>Spark oleh {{companyName}}</target>
       </segment>
     </unit>
     <unit id="teams.teams:ChooseWorkspace_futureOfWork" translate="no">
@@ -4707,13 +4833,13 @@
         <target>Masuk ke instans perusahaan Anda</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ChooseWorkspace_doesCompanyUseEdcast" translate="no">
+    <unit id="teams.teams:ChooseWorkspace_doesCompanyUseEdcast" translate="yes">
       <notes>
       <note id="context">Sectional heading text to get team name while logging in</note>
     </notes>
       <segment >
-        <source>Does your company use EdCast?</source>
-        <target>Apakah perusahaan Anda menggunakan EdCast?</target>
+        <source>Does your company use {{companyName}}?</source>
+        <target>Apakah perusahaan Anda menggunakan  {{companyName}}?</target>
       </segment>
     </unit>
     <unit id="teams.teams:ChooseWorkspace_next" translate="no">
@@ -4966,6 +5092,60 @@
       <segment >
         <source>Please tick the checkbox if you want to proceed</source>
         <target>Silakan centang kotak tersebut jika Anda ingin melanjutkan</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_carouselAdministrationLabel" translate="yes">
+      <notes>
+      <note id="context">A message indicating that the user lacks permissions to manage carousels</note>
+    </notes>
+      <segment >
+        <source>You currently don&apos;t have access to manage any carousels. Please contact your administrator for assistance.</source>
+        <target>Saat ini Anda tidak memiliki akses untuk mengelola karosel apa pun. Silakan hubungi administrator Anda untuk bantuan.</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_byYouLabel" translate="yes">
+      <notes>
+      <note id="context">Label indicating that the content was created by the current user</note>
+    </notes>
+      <segment >
+        <source>By you</source>
+        <target>Oleh Anda</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_noCarouselsAvailableLabel" translate="yes">
+      <notes>
+      <note id="context">A message indicating that there are no carousels available for display or management</note>
+    </notes>
+      <segment >
+        <source>No Carousels Available</source>
+        <target>Tidak Ada Karosel yang Tersedia</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_uploadSmartCardThumbnail" translate="yes">
+      <notes>
+      <note id="context">A label for uploading a SmartCard thumbnail image</note>
+    </notes>
+      <segment >
+        <source>Upload SmartCard image</source>
+        <target>Unggah gambar SmartCard</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_readableCardTypeQ&A" translate="yes">
+      <notes>
+      <note id="context">Label for a Q&amp;A type of card</note>
+    </notes>
+      <segment >
+        <source>Q&amp;A</source>
+        <target>Q&amp;A</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_liveCardUploadThumbnail" translate="yes">
+      <notes>
+      <note id="context">A label for uploading an image for an event card</note>
+    </notes>
+      <segment >
+        <source>Event Image</source>
+        <target>Gambar Acara</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_star" translate="no">
@@ -5308,15 +5488,6 @@
       <segment >
         <source>Enter Question for the Poll</source>
         <target>Masukkan Pertanyaan untuk Jajak Pendapat</target>
-      </segment>
-    </unit>
-    <unit id="teams.teams:Cards_uploadThumbnail" translate="no">
-      <notes>
-      <note id="context">This text is used as a label for the upload thumbnail button.</note>
-    </notes>
-      <segment >
-        <source>Upload Thumbnail</source>
-        <target>Unggah Thumbnail</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_addPollOptions" translate="no">
@@ -6786,12 +6957,12 @@
         <target>Berhenti Mengikuti Kanal</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Cards_scoreLabel" translate="no">
+    <unit id="teams.teams:Cards_scoreLabel" translate="yes">
       <notes>
       <note id="context">This text is used as skill score text in the Skill card</note>
     </notes>
       <segment >
-        <source>Score :</source>
+        <source>Score:</source>
         <target>Skor:</target>
       </segment>
     </unit>
@@ -8611,15 +8782,6 @@
       <segment >
         <source>All Groups Filters</source>
         <target>Filter Semua Grup</target>
-      </segment>
-    </unit>
-    <unit id="teams.teams:Search_author" translate="no">
-      <notes>
-      <note id="context">The Label text for the Author field in the filter in the search page</note>
-    </notes>
-      <segment >
-        <source>Author</source>
-        <target>Penulis</target>
       </segment>
     </unit>
     <unit id="teams.teams:Search_contentSource" translate="no">
@@ -10764,15 +10926,6 @@
         <target>Rekomendasikan Peningkatan Keterampilan</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ManagerDashboard_goTo" translate="no">
-      <notes>
-      <note id="context">Describes a label or action that instructs users to navigate to another location.</note>
-    </notes>
-      <segment >
-        <source>Go to</source>
-        <target>Buka</target>
-      </segment>
-    </unit>
     <unit id="teams.teams:ManagerDashboard_contentItems" translate="no">
       <notes>
       <note id="context">Represents a label for a collection or list of content items.</note>
@@ -11106,6 +11259,195 @@
         <target>Anda akan membagikan {{cardType}} pribadi. Hanya pengguna yang telah dibagikan kartu ini yang akan memiliki akses ke kartu tersebut.</target>
       </segment>
     </unit>
+    <unit id="teams.teams:SmartCardDetailView_inReview" translate="yes">
+      <notes>
+      <note id="context">A label that indicates status is in review</note>
+    </notes>
+      <segment >
+        <source>In Review</source>
+        <target>Dalam Penilaian</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:SmartCardDetailView_score" translate="yes">
+      <notes>
+      <note id="context">A label that indicates score range</note>
+    </notes>
+      <segment >
+        <source>Score {{number}}</source>
+        <target>Skor {{number}}</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:SmartCardDetailView_gradeAToF" translate="yes">
+      <notes>
+      <note id="context">A label that indicates grade scoring range A-F</note>
+    </notes>
+      <segment >
+        <source>Grade (A-F)</source>
+        <target>Nilai (A-F)</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:SmartCardDetailView_gradeAToG" translate="yes">
+      <notes>
+      <note id="context">A label that indicates grade scoring range A-G</note>
+    </notes>
+      <segment >
+        <source>Grade (A-G)</source>
+        <target>Nilai (A-G)</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:SmartCardDetailView_manager" translate="yes">
+      <notes>
+      <note id="context">A label that indicates manager role</note>
+    </notes>
+      <segment >
+        <source>Manager</source>
+        <target>Manajer</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:SmartCardDetailView_notApplicable" translate="yes">
+      <notes>
+      <note id="context">A label that indicates not applicable</note>
+    </notes>
+      <segment >
+        <source>n/a</source>
+        <target>tidak tersedia</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:SmartCardDetailView_unlimited" translate="yes">
+      <notes>
+      <note id="context">A label that indicates no limit on attempts or resources</note>
+    </notes>
+      <segment >
+        <source>Unlimited</source>
+        <target>Tak terbatas</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:SmartCardDetailView_maximumReattempts" translate="yes">
+      <notes>
+      <note id="context">A label that indicates the maximum number of times a user can attempt a task or quiz</note>
+    </notes>
+      <segment >
+        <source>Maximum Reattempts</source>
+        <target>Maksimum Percobaan Ulang</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:SmartCardDetailView_passingGrade" translate="yes">
+      <notes>
+      <note id="context">A label that indicates the minimum grade required to pass a course or task</note>
+    </notes>
+      <segment >
+        <source>Passing Grade</source>
+        <target>Nilai Kelulusan</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:SmartCardDetailView_assignor" translate="yes">
+      <notes>
+      <note id="context">A label that indicates the person or entity who assigned a task or project</note>
+    </notes>
+      <segment >
+        <source>Assignor</source>
+        <target>Pemberi tugas</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:SmartCardDetailView_unapprovedWordError" translate="yes">
+      <notes>
+      <note id="context">An error message displayed when a user attempts to submit a URL that is not allowed</note>
+    </notes>
+      <segment >
+        <source>Sorry, the URL you are trying to submit is from an unapproved website or contains unapproved words</source>
+        <target>Maaf, URL yang Anda coba kirimkan berasal dari situs web yang tidak disetujui atau berisi kata-kata yang tidak disetujui</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:SmartCardDetailView_addRemarks" translate="yes">
+      <notes>
+      <note id="context">A button or link text that allows the user to add new remarks</note>
+    </notes>
+      <segment >
+        <source>Add Remarks</source>
+        <target>Tambahkan Komentar</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:SmartCardDetailView_editRemarks" translate="yes">
+      <notes>
+      <note id="context">A button or link text that allows the user to edit existing remarks</note>
+    </notes>
+      <segment >
+        <source>Edit Remarks</source>
+        <target>Edit Komentar</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:SmartCardDetailView_addComment" translate="yes">
+      <notes>
+      <note id="context">A button or link text that allows the user to add a new comment</note>
+    </notes>
+      <segment >
+        <source>Add Comment</source>
+        <target>Tambahkan Komentar</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:SmartCardDetailView_editComment" translate="yes">
+      <notes>
+      <note id="context">A button or link text that allows the user to edit an existing comment</note>
+    </notes>
+      <segment >
+        <source>Edit Comment</source>
+        <target>Edit Komentar</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:SmartCardDetailView_noSubmissionsYet" translate="yes">
+      <notes>
+      <note id="context">A message indicating that no submissions have been made so far</note>
+    </notes>
+      <segment >
+        <source>No one has added submissions yet</source>
+        <target>Belum ada yang menambahkan kiriman</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:SmartCardDetailView_addYourRemarksBelow" translate="yes">
+      <notes>
+      <note id="context">Instructional text prompting the user to enter remarks in a text area</note>
+    </notes>
+      <segment >
+        <source>Add your remarks below</source>
+        <target>Tambahkan komentar Anda di bawah</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:SmartCardDetailView_download" translate="yes">
+      <notes>
+      <note id="context">A button or link text that allows the user to download a file or content</note>
+    </notes>
+      <segment >
+        <source>Download</source>
+        <target>Unduh</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:SmartCardDetailView_assignedDate" translate="yes">
+      <notes>
+      <note id="context">A label that indicates the date when a task or project was assigned</note>
+    </notes>
+      <segment >
+        <source>Assigned Date</source>
+        <target>Tanggal Penugasan</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:SmartCardDetailView_submittedOn" translate="yes">
+      <notes>
+      <note id="context">A label that denotes when the project was submitted</note>
+    </notes>
+      <segment >
+        <source>Submitted On</source>
+        <target>Dikirim Pada</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:SmartCardDetailView_submissions" translate="yes">
+      <notes>
+      <note id="context">A label that describes the page or window</note>
+    </notes>
+      <segment >
+        <source>Submissions</source>
+        <target>Pengajuan</target>
+      </segment>
+    </unit>
     <unit id="teams.teams:SmartCard_percentageIndicator" translate="no">
       <notes>
       <note id="context">Represents the percentage indicator.</note>
@@ -11403,6 +11745,24 @@
         <target>Tidak ada</target>
       </segment>
     </unit>
+    <unit id="teams.teams:SortFilterOptions_bookMarkDateMostRecent" translate="yes">
+      <notes>
+      <note id="context">Sorting option for displaying the most recent bookmarked items</note>
+    </notes>
+      <segment >
+        <source>Bookmarked Date: Most Recent</source>
+        <target>Tanggal yang Dimarkahi: Terkini</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:SortFilterOptions_dueDateEarliest" translate="yes">
+      <notes>
+      <note id="context">Sorting option for displaying items with the earliest due dates</note>
+    </notes>
+      <segment >
+        <source>Due Date: Earliest</source>
+        <target>Tenggat: Paling Cepat</target>
+      </segment>
+    </unit>
     <unit id="teams.teams:SortFilterOptions_durationHighToLow" translate="no">
       <notes>
       <note id="context">Represents the label for sorting content by duration from high to low.</note>
@@ -11466,7 +11826,7 @@
         <target>Data Bidang Tertentu tidak ada untuk Objek ini. Pencarian Cepat tidak dapat dilakukan.</target>
       </segment>
     </unit>
-    <!-- File::widgets:: NewWords: 32, NewStrings: 1 -->
+    <!-- File::widgets:: NewWords: 131, NewStrings: 33 -->
   </file>
-  <!-- XLIFF::widgets_id-ID.xlf:: TotalNewWords: 48, TotalNewStrings: 3 -->
+  <!-- XLIFF::widgets_id-ID.xlf:: TotalNewWords: 221, TotalNewStrings: 54 -->
 </xliff>

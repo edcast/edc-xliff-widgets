@@ -9,6 +9,24 @@
     <notes>
       <note id="n1">Edcast Translation file for widgets</note>
     </notes>
+    <unit id="br-ext.br-ext:ChooseWorkspace_enterYourTeamseUrl" translate="yes">
+      <notes>
+      <note id="context">Instruction for entering the team’s learning experience URL</note>
+    </notes>
+      <segment >
+        <source>Enter your team&apos;s {{companyName}} URL</source>
+        <target>あなたのチームの {{companyName}} URL を入力してください</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:ChooseWorkspace_signInToYourTeam" translate="yes">
+      <notes>
+      <note id="context">Button text for signing into the team</note>
+    </notes>
+      <segment >
+        <source>Sign in to your Team</source>
+        <target>あなたのチームにサインイン</target>
+      </segment>
+    </unit>
     <unit id="br-ext.br-ext:ChooseWorkspace_label" translate="no">
       <notes>
       <note id="context">Text that denotes the Label of input fields</note>
@@ -90,6 +108,15 @@
         <target>ワークスペースが見つかりません</target>
       </segment>
     </unit>
+    <unit id="br-ext.br-ext:Login_orLoginInWith" translate="yes">
+      <notes>
+      <note id="context">Text offering alternative login options</note>
+    </notes>
+      <segment >
+        <source>or login in with</source>
+        <target>するかログインします</target>
+      </segment>
+    </unit>
     <unit id="br-ext.br-ext:Login_password" translate="no">
       <notes>
       <note id="context">Label text for the user&apos;s password</note>
@@ -169,6 +196,42 @@
       <segment >
         <source>Continue with {{ssoLabel}}</source>
         <target>{{ssoLabel}}を続行</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:CreateCard_noResultFoundLabel" translate="yes">
+      <notes>
+      <note id="context">A label or message displayed when a search or query returns no results</note>
+    </notes>
+      <segment >
+        <source>No result found</source>
+        <target>結果が見つかりませんでした</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:CreateCard_linkSubTitle" translate="yes">
+      <notes>
+      <note id="context">Instruction for pasting a link</note>
+    </notes>
+      <segment >
+        <source>Paste your article link here</source>
+        <target>あなたの記事のリンクをここに貼り付けてください</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:CreateCard_linkPlaceHolder" translate="yes">
+      <notes>
+      <note id="context">Placeholder for link address input</note>
+    </notes>
+      <segment >
+        <source>Enter link address here</source>
+        <target>リンクのアドレスをここに入力してください</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:CreateCard_createArticle" translate="yes">
+      <notes>
+      <note id="context">Button text to create a SmartCard using a web URL</note>
+    </notes>
+      <segment >
+        <source>Create Web URL SmartCard</source>
+        <target>ウェブ URL SmartCardの作成</target>
       </segment>
     </unit>
     <unit id="br-ext.br-ext:CreateCard_title" translate="no">
@@ -295,15 +358,6 @@
       <segment >
         <source>Duration minutes cannot be greater than 59</source>
         <target>期間（分）は 59 を超えることはできません</target>
-      </segment>
-    </unit>
-    <unit id="br-ext.br-ext:CreateCard_channels" translate="no">
-      <notes>
-      <note id="context">Label for the denoting the Channels the smartcard will be in.</note>
-    </notes>
-      <segment >
-        <source>Channels</source>
-        <target>チャンネル</target>
       </segment>
     </unit>
     <unit id="br-ext.br-ext:CreateCard_create" translate="no">
@@ -1035,6 +1089,33 @@
         <target>表示を減らす</target>
       </segment>
     </unit>
+    <unit id="br-ext.br-ext:Cards_contentNotAvailable" translate="yes">
+      <notes>
+      <note id="context">A message indicating that the requested content is not available</note>
+    </notes>
+      <segment >
+        <source>Content not available</source>
+        <target>コンテンツは利用できません</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardTypeQ&A" translate="yes">
+      <notes>
+      <note id="context">Label for a Q&amp;A type of card</note>
+    </notes>
+      <segment >
+        <source>Q&amp;A</source>
+        <target>Q&amp;A</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_loadMoreTextSingular" translate="yes">
+      <notes>
+      <note id="context">A button or link text indicating that one more comment can be displayed</note>
+    </notes>
+      <segment >
+        <source>Show 1 more comment</source>
+        <target>コメントをもう1つ表示</target>
+      </segment>
+    </unit>
     <unit id="br-ext.br-ext:Cards_readableCardType_journey" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a journey.</note>
@@ -1483,15 +1564,6 @@
       <segment >
         <source>Resource</source>
         <target>リソース</target>
-      </segment>
-    </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardType_link" translate="no">
-      <notes>
-      <note id="context">Label indicating the content type is a link.</note>
-    </notes>
-      <segment >
-        <source>Link</source>
-        <target>リンク</target>
       </segment>
     </unit>
     <unit id="br-ext.br-ext:Cards_deleteCommentToast" translate="no">
@@ -2187,6 +2259,15 @@
         <target>割当を却下</target>
       </segment>
     </unit>
+    <unit id="br-ext.br-ext:MiniCard_insertLinkLabel" translate="yes">
+      <notes>
+      <note id="context">Button text to insert a link in a mini card</note>
+    </notes>
+      <segment >
+        <source>Insert Link</source>
+        <target>リンクを挿入</target>
+      </segment>
+    </unit>
     <unit id="br-ext.br-ext:MiniCard_buyCardMiniLabel" translate="no">
       <notes>
       <note id="context">Text to be shown if the cards need to be bought by the user to use it.</note>
@@ -2238,7 +2319,7 @@
     </notes>
       <segment >
         <source>Result by &lt;span className=&quot;edx-ext-instance-name&quot;&gt;{{orgName}}&lt;/span&gt; </source>
-        <target>結果 &lt;span className=&quot;edx-ext-instance-name&quot;&gt;{{orgName}}&lt;/span&gt;</target>
+        <target>&lt;span className=&quot;edx-ext-instance-name&quot;&gt;{{orgName}}&lt;/span&gt; による結果</target>
       </segment>
     </unit>
     <unit id="br-ext.br-ext:SearchPanel_loginNow" translate="no">
@@ -2256,7 +2337,7 @@
     </notes>
       <segment >
         <source>Login to your &lt;b&gt;{{orgName}}&lt;/b&gt; account to get the relevant content from &lt;b&gt;{{orgName}}&lt;/b&gt;</source>
-        <target>あなたの &lt;b&gt;{{orgName}}&lt;/b&gt; アカウントにアクセスして、&lt;b&gt;{{orgName}}&lt;/b&gt; から関連するコンテンツを取得します</target>
+        <target>あなたの&lt;b&gt;{{orgName}}&lt;/b&gt; アカウントにログインして、&lt;b&gt;{{orgName}}&lt;/b&gt;から関連するコンテンツを取得します</target>
       </segment>
     </unit>
     <unit id="br-ext.br-ext:SearchPanel_loggedInLabel" translate="no">
@@ -2439,7 +2520,7 @@
         <target>サービスの条件</target>
       </segment>
     </unit>
-    <!-- File::widgets:: NewWords: 16, NewStrings: 2 -->
+    <!-- File::widgets:: NewWords: 56, NewStrings: 13 -->
   </file>
   <file id="widgets:br-ext.common" original="packages/widgets/br-ext/labels/common.yaml" translate="yes">
     <notes>
@@ -2796,13 +2877,13 @@
         <target>ライブ</target>
       </segment>
     </unit>
-    <unit id="br-ext.common:liveStreamEndContentLabel" translate="no">
+    <unit id="br-ext.common:liveStreamEndContentLabel" translate="yes">
       <notes>
-      <note id="context">Help text to be shown for LiveStream Ended Cards</note>
+      <note id="context">A message indicating that the live stream has ended and the replay will soon be available on the company&apos;s platform</note>
     </notes>
       <segment >
-        <source>The replay of this video will be available on EdCast shortly</source>
-        <target>この動画のリプレイは、まもなくEdCastで利用できるようになります</target>
+        <source>The replay of this video will be available on {{companyName}} shortly</source>
+        <target>このビデオのリプレイは、まもなく {{companyName}}で利用可能になります</target>
       </segment>
     </unit>
     <unit id="br-ext.common:liveStreamEndVideoLabel" translate="no">
@@ -2823,19 +2904,46 @@
         <target>ライブ配信終了</target>
       </segment>
     </unit>
-    <!-- File::widgets:: NewWords: 0, NewStrings: 0 -->
+    <unit id="br-ext.common:loadMoreTextPlural" translate="yes">
+      <notes>
+      <note id="context">A button or link text indicating that multiple additional comments can be displayed</note>
+    </notes>
+      <segment >
+        <source>Show {{remainingComments}} more comments</source>
+        <target>{{remainingComments}} 件のコメントを表示</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.common:linkTitle" translate="yes">
+      <notes>
+      <note id="context">Label indicating the content type is a link.</note>
+    </notes>
+      <segment >
+        <source>Link</source>
+        <target>リンク</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.common:channelsTitle" translate="yes">
+      <notes>
+      <note id="context">Label for channels in the top bar</note>
+    </notes>
+      <segment >
+        <source>Channels</source>
+        <target>チャンネル</target>
+      </segment>
+    </unit>
+    <!-- File::widgets:: NewWords: 17, NewStrings: 4 -->
   </file>
   <file id="widgets:teams.common" original="packages/widgets/teams/labels/common.yaml" translate="yes">
     <notes>
       <note id="n1">Edcast Translation file for widgets</note>
     </notes>
-    <unit id="teams.common:tryEdcastNow" translate="no">
+    <unit id="teams.common:tryEdcastNow" translate="yes">
       <notes>
       <note id="context">Text for the button to register on edcast</note>
     </notes>
       <segment >
-        <source>Try EdCast Now</source>
-        <target>今すぐエドキャストをお試しください</target>
+        <source>Try {{companyName}} Now</source>
+        <target>今すぐ {{companyName}} を試しましょう</target>
       </segment>
     </unit>
     <unit id="teams.common:dontHaveAccount" translate="no">
@@ -4251,13 +4359,13 @@
         <target>ライブ配信終了</target>
       </segment>
     </unit>
-    <unit id="teams.common:videoReplay" translate="no">
+    <unit id="teams.common:videoReplay" translate="yes">
       <notes>
       <note id="context">Help text to be shown for LiveStream Ended Cards</note>
     </notes>
       <segment >
-        <source>The replay of this video will be available on EdCast shortly</source>
-        <target>この動画のリプレイは、まもなくEdCastで利用できるようになります</target>
+        <source>The replay of this video will be available on {{companyName}} shortly</source>
+        <target>このビデオのリプレイは、まもなく {{companyName}}で利用可能になります</target>
       </segment>
     </unit>
     <unit id="teams.common:ended" translate="no">
@@ -4566,7 +4674,7 @@
         <target>出席者の表示</target>
       </segment>
     </unit>
-    <unit id="teams.common:less" translate="yes">
+    <unit id="teams.common:less" translate="no">
       <notes>
       <note id="context">The Label text for Minimising More options tab</note>
     </notes>
@@ -4575,7 +4683,25 @@
         <target>次より少ない</target>
       </segment>
     </unit>
-    <!-- File::widgets:: NewWords: 1, NewStrings: 1 -->
+    <unit id="teams.common:goTo" translate="yes">
+      <notes>
+      <note id="context">Describes a label or action that instructs users to navigate to another location.</note>
+    </notes>
+      <segment >
+        <source>Go to</source>
+        <target>へ移動する</target>
+      </segment>
+    </unit>
+    <unit id="teams.common:author" translate="yes">
+      <notes>
+      <note id="context">The Label text for the Author field in the filter in the search page</note>
+    </notes>
+      <segment >
+        <source>Author</source>
+        <target>作成者</target>
+      </segment>
+    </unit>
+    <!-- File::widgets:: NewWords: 17, NewStrings: 4 -->
   </file>
   <file id="widgets:teams.teams" original="packages/widgets/teams/labels/teams.yaml" translate="yes">
     <notes>
@@ -4653,13 +4779,13 @@
         <target>年</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ChooseWorkspace_sparkByEdcast" translate="no">
+    <unit id="teams.teams:ChooseWorkspace_sparkByEdcast" translate="yes">
       <notes>
-      <note id="context">This label is used to show Spark by EdCast name in the choose workspace screen.</note>
+      <note id="context">A branding label indicating that the platform service is powered by the company</note>
     </notes>
       <segment >
-        <source>Spark by EdCast</source>
-        <target>Spark by EdCast</target>
+        <source>Spark by {{companyName}}</source>
+        <target>Spark by {{companyName}}</target>
       </segment>
     </unit>
     <unit id="teams.teams:ChooseWorkspace_futureOfWork" translate="no">
@@ -4707,13 +4833,13 @@
         <target>あなたの会社のインスタンスにログインしてください</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ChooseWorkspace_doesCompanyUseEdcast" translate="no">
+    <unit id="teams.teams:ChooseWorkspace_doesCompanyUseEdcast" translate="yes">
       <notes>
       <note id="context">Sectional heading text to get team name while logging in</note>
     </notes>
       <segment >
-        <source>Does your company use EdCast?</source>
-        <target>あなたの会社はEdCastを使用していますか?</target>
+        <source>Does your company use {{companyName}}?</source>
+        <target>あなたの会社は {{companyName}}を使用していますか?</target>
       </segment>
     </unit>
     <unit id="teams.teams:ChooseWorkspace_next" translate="no">
@@ -4966,6 +5092,60 @@
       <segment >
         <source>Please tick the checkbox if you want to proceed</source>
         <target>続行する場合は、チェックボックスにチェックを入れてください</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_carouselAdministrationLabel" translate="yes">
+      <notes>
+      <note id="context">A message indicating that the user lacks permissions to manage carousels</note>
+    </notes>
+      <segment >
+        <source>You currently don&apos;t have access to manage any carousels. Please contact your administrator for assistance.</source>
+        <target>あなたは現在カルーセルを管理するためのアクセス権がありません。支援については管理者にお問い合わせください。</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_byYouLabel" translate="yes">
+      <notes>
+      <note id="context">Label indicating that the content was created by the current user</note>
+    </notes>
+      <segment >
+        <source>By you</source>
+        <target>あなたによる</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_noCarouselsAvailableLabel" translate="yes">
+      <notes>
+      <note id="context">A message indicating that there are no carousels available for display or management</note>
+    </notes>
+      <segment >
+        <source>No Carousels Available</source>
+        <target>利用可能なカルーセルがありません</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_uploadSmartCardThumbnail" translate="yes">
+      <notes>
+      <note id="context">A label for uploading a SmartCard thumbnail image</note>
+    </notes>
+      <segment >
+        <source>Upload SmartCard image</source>
+        <target>SmartCard画像のアップロード</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_readableCardTypeQ&A" translate="yes">
+      <notes>
+      <note id="context">Label for a Q&amp;A type of card</note>
+    </notes>
+      <segment >
+        <source>Q&amp;A</source>
+        <target>Q&amp;A</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_liveCardUploadThumbnail" translate="yes">
+      <notes>
+      <note id="context">A label for uploading an image for an event card</note>
+    </notes>
+      <segment >
+        <source>Event Image</source>
+        <target>イベント画像</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_star" translate="no">
@@ -5308,15 +5488,6 @@
       <segment >
         <source>Enter Question for the Poll</source>
         <target>投票の質問を入力してください</target>
-      </segment>
-    </unit>
-    <unit id="teams.teams:Cards_uploadThumbnail" translate="no">
-      <notes>
-      <note id="context">This text is used as a label for the upload thumbnail button.</note>
-    </notes>
-      <segment >
-        <source>Upload Thumbnail</source>
-        <target>サムネイルのアップロード</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_addPollOptions" translate="no">
@@ -6786,12 +6957,12 @@
         <target>チャンネルのフォローを解除</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Cards_scoreLabel" translate="no">
+    <unit id="teams.teams:Cards_scoreLabel" translate="yes">
       <notes>
       <note id="context">This text is used as skill score text in the Skill card</note>
     </notes>
       <segment >
-        <source>Score :</source>
+        <source>Score:</source>
         <target>スコア：</target>
       </segment>
     </unit>
@@ -7875,7 +8046,7 @@
         <target>アクセスは否認されました</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_pendingApproval" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_pendingApproval" translate="no">
       <notes>
       <note id="context">Approval is yet to be approved by the approver</note>
     </notes>
@@ -8151,7 +8322,7 @@
     </notes>
       <segment >
         <source>You are about to delete the {{readable_card_type}} &lt;i&gt;{{card_title}}&lt;/i&gt;. Please be aware that doing so will remove all associated statistics and comments. This action cannot be undone. How would you like to proceed?</source>
-        <target>{{readable_card_type}} の&lt;i&gt;{{card_title}}&lt;/i&gt;を削除しようとしていまます。これを行うと、関連付けられているすべての統計とコメントが削除されることに注意してください。このアクションは元に戻せません。どのように進めますか。</target>
+        <target>{{readable_card_type}} &lt;i&gt;{{card_title}}&lt;/i&gt;を削除しようとしています。これを行うと、関連付けられているすべての統計とコメントが削除されることに注意してください。このアクションは元に戻せません。どのように進めますか。</target>
       </segment>
     </unit>
     <unit id="teams.teams:SmartCardDetailView_progressText" translate="no">
@@ -8611,15 +8782,6 @@
       <segment >
         <source>All Groups Filters</source>
         <target>すべてのグループ用フィルター</target>
-      </segment>
-    </unit>
-    <unit id="teams.teams:Search_author" translate="no">
-      <notes>
-      <note id="context">The Label text for the Author field in the filter in the search page</note>
-    </notes>
-      <segment >
-        <source>Author</source>
-        <target>作成者</target>
       </segment>
     </unit>
     <unit id="teams.teams:Search_contentSource" translate="no">
@@ -10215,7 +10377,7 @@
         <target>選択：スキル名</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ManagerDashboard_teamSkillsTableTitleTooltip" translate="yes">
+    <unit id="teams.teams:ManagerDashboard_teamSkillsTableTitleTooltip" translate="no">
       <notes>
       <note id="context">Informative text to indicate more information about the Skills section of the table.</note>
     </notes>
@@ -10224,7 +10386,7 @@
         <target>チームが持っているすべてのskillsと各skillsのレベルのリスト。レベルを引き上げるなどのスキルアップを推奨することもできます</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ManagerDashboard_tableTitleTooltipCompletedDescription" translate="yes">
+    <unit id="teams.teams:ManagerDashboard_tableTitleTooltipCompletedDescription" translate="no">
       <notes>
       <note id="context">Informative text to indicate more information about the count of people who completed that specific content item.</note>
     </notes>
@@ -10233,7 +10395,7 @@
         <target>完了済み:コンテンツを完了したユーザーの数</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ManagerDashboard_tableTitleTooltipOverdueDescription" translate="yes">
+    <unit id="teams.teams:ManagerDashboard_tableTitleTooltipOverdueDescription" translate="no">
       <notes>
       <note id="context">Informative text to indicate more information about the Overdue section of the table.</note>
     </notes>
@@ -10242,7 +10404,7 @@
         <target>期日超過:コンテンツ完了期日がすでに到来した受講者の数</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ManagerDashboard_tableTitleTooltipDueIn2WeeksDescription" translate="yes">
+    <unit id="teams.teams:ManagerDashboard_tableTitleTooltipDueIn2WeeksDescription" translate="no">
       <notes>
       <note id="context">Informative text to indicate more information about the content that is due within the next 2 weeks section of the table.</note>
     </notes>
@@ -10251,7 +10413,7 @@
         <target>期日まであと 2 週間:次の 2 週間以内にコンテンツ完了期日が到来する受講者の数</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ManagerDashboard_tableTitleTooltipNotStartedDescription" translate="yes">
+    <unit id="teams.teams:ManagerDashboard_tableTitleTooltipNotStartedDescription" translate="no">
       <notes>
       <note id="context">Informative text to indicate more information about the Not Started section of the table.</note>
     </notes>
@@ -10260,7 +10422,7 @@
         <target>未開始:コンテンツの消費が未開始の受講者の数</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ManagerDashboard_tableTitleTooltipAssignedToDescription" translate="yes">
+    <unit id="teams.teams:ManagerDashboard_tableTitleTooltipAssignedToDescription" translate="no">
       <notes>
       <note id="context">Informative text to indicate more information about the Assigned To section of the table.</note>
     </notes>
@@ -10269,7 +10431,7 @@
         <target>割当先:コンテンツが割当てられている受講者の数</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ManagerDashboard_tableTitleTooltipDescription" translate="yes">
+    <unit id="teams.teams:ManagerDashboard_tableTitleTooltipDescription" translate="no">
       <notes>
       <note id="context">Informative text to indicate more information about the info table.</note>
     </notes>
@@ -10278,7 +10440,7 @@
         <target>チームに割り当てられているすべてのコンテンツを表示します</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ManagerDashboard_allCompleted" translate="yes">
+    <unit id="teams.teams:ManagerDashboard_allCompleted" translate="no">
       <notes>
       <note id="context">Informative text to indicate that all content has been completed.</note>
     </notes>
@@ -10287,7 +10449,7 @@
         <target>すべて完了しました</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ManagerDashboard_lastSent" translate="yes">
+    <unit id="teams.teams:ManagerDashboard_lastSent" translate="no">
       <notes>
       <note id="context">Informative text to indicate when reminder was sent.</note>
     </notes>
@@ -10296,7 +10458,7 @@
         <target>最終送信日</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ManagerDashboard_dueDateRange" translate="yes">
+    <unit id="teams.teams:ManagerDashboard_dueDateRange" translate="no">
       <notes>
       <note id="context">Informative text to indicate a date picker filter to choose a date range.</note>
     </notes>
@@ -10305,7 +10467,7 @@
         <target>期日の日付範囲</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ManagerDashboard_searchContent" translate="yes">
+    <unit id="teams.teams:ManagerDashboard_searchContent" translate="no">
       <notes>
       <note id="context">Placeholder label for text input field to search for content.</note>
     </notes>
@@ -10764,15 +10926,6 @@
         <target>アップスキルへの推奨</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ManagerDashboard_goTo" translate="no">
-      <notes>
-      <note id="context">Describes a label or action that instructs users to navigate to another location.</note>
-    </notes>
-      <segment >
-        <source>Go to</source>
-        <target>移動先</target>
-      </segment>
-    </unit>
     <unit id="teams.teams:ManagerDashboard_contentItems" translate="no">
       <notes>
       <note id="context">Represents a label for a collection or list of content items.</note>
@@ -11106,6 +11259,195 @@
         <target>プライベート {{cardType}} を共有しようとしています。このカードを共有されたユーザーのみアクセスできます。</target>
       </segment>
     </unit>
+    <unit id="teams.teams:SmartCardDetailView_inReview" translate="yes">
+      <notes>
+      <note id="context">A label that indicates status is in review</note>
+    </notes>
+      <segment >
+        <source>In Review</source>
+        <target>レビュー中</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:SmartCardDetailView_score" translate="yes">
+      <notes>
+      <note id="context">A label that indicates score range</note>
+    </notes>
+      <segment >
+        <source>Score {{number}}</source>
+        <target>スコア {{number}}</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:SmartCardDetailView_gradeAToF" translate="yes">
+      <notes>
+      <note id="context">A label that indicates grade scoring range A-F</note>
+    </notes>
+      <segment >
+        <source>Grade (A-F)</source>
+        <target>グレード（A～F）</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:SmartCardDetailView_gradeAToG" translate="yes">
+      <notes>
+      <note id="context">A label that indicates grade scoring range A-G</note>
+    </notes>
+      <segment >
+        <source>Grade (A-G)</source>
+        <target>グレード（A～G）</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:SmartCardDetailView_manager" translate="yes">
+      <notes>
+      <note id="context">A label that indicates manager role</note>
+    </notes>
+      <segment >
+        <source>Manager</source>
+        <target>マネージャー</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:SmartCardDetailView_notApplicable" translate="yes">
+      <notes>
+      <note id="context">A label that indicates not applicable</note>
+    </notes>
+      <segment >
+        <source>n/a</source>
+        <target>n/a</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:SmartCardDetailView_unlimited" translate="yes">
+      <notes>
+      <note id="context">A label that indicates no limit on attempts or resources</note>
+    </notes>
+      <segment >
+        <source>Unlimited</source>
+        <target>無制限</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:SmartCardDetailView_maximumReattempts" translate="yes">
+      <notes>
+      <note id="context">A label that indicates the maximum number of times a user can attempt a task or quiz</note>
+    </notes>
+      <segment >
+        <source>Maximum Reattempts</source>
+        <target>最大再試行数</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:SmartCardDetailView_passingGrade" translate="yes">
+      <notes>
+      <note id="context">A label that indicates the minimum grade required to pass a course or task</note>
+    </notes>
+      <segment >
+        <source>Passing Grade</source>
+        <target>合格グレード</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:SmartCardDetailView_assignor" translate="yes">
+      <notes>
+      <note id="context">A label that indicates the person or entity who assigned a task or project</note>
+    </notes>
+      <segment >
+        <source>Assignor</source>
+        <target>割当者</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:SmartCardDetailView_unapprovedWordError" translate="yes">
+      <notes>
+      <note id="context">An error message displayed when a user attempts to submit a URL that is not allowed</note>
+    </notes>
+      <segment >
+        <source>Sorry, the URL you are trying to submit is from an unapproved website or contains unapproved words</source>
+        <target>申し訳ありません。送信しようとしている URL は未承認のウェブサイトからのものであるか、未承認の単語が含まれています</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:SmartCardDetailView_addRemarks" translate="yes">
+      <notes>
+      <note id="context">A button or link text that allows the user to add new remarks</note>
+    </notes>
+      <segment >
+        <source>Add Remarks</source>
+        <target>備考を追加</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:SmartCardDetailView_editRemarks" translate="yes">
+      <notes>
+      <note id="context">A button or link text that allows the user to edit existing remarks</note>
+    </notes>
+      <segment >
+        <source>Edit Remarks</source>
+        <target>備考を編集</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:SmartCardDetailView_addComment" translate="yes">
+      <notes>
+      <note id="context">A button or link text that allows the user to add a new comment</note>
+    </notes>
+      <segment >
+        <source>Add Comment</source>
+        <target>コメントを追加</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:SmartCardDetailView_editComment" translate="yes">
+      <notes>
+      <note id="context">A button or link text that allows the user to edit an existing comment</note>
+    </notes>
+      <segment >
+        <source>Edit Comment</source>
+        <target>コメントを編集</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:SmartCardDetailView_noSubmissionsYet" translate="yes">
+      <notes>
+      <note id="context">A message indicating that no submissions have been made so far</note>
+    </notes>
+      <segment >
+        <source>No one has added submissions yet</source>
+        <target>まだ誰も提出物を追加していません</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:SmartCardDetailView_addYourRemarksBelow" translate="yes">
+      <notes>
+      <note id="context">Instructional text prompting the user to enter remarks in a text area</note>
+    </notes>
+      <segment >
+        <source>Add your remarks below</source>
+        <target>あなたのリマークを下に追加してください</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:SmartCardDetailView_download" translate="yes">
+      <notes>
+      <note id="context">A button or link text that allows the user to download a file or content</note>
+    </notes>
+      <segment >
+        <source>Download</source>
+        <target>ダウンロード</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:SmartCardDetailView_assignedDate" translate="yes">
+      <notes>
+      <note id="context">A label that indicates the date when a task or project was assigned</note>
+    </notes>
+      <segment >
+        <source>Assigned Date</source>
+        <target>割当日</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:SmartCardDetailView_submittedOn" translate="yes">
+      <notes>
+      <note id="context">A label that denotes when the project was submitted</note>
+    </notes>
+      <segment >
+        <source>Submitted On</source>
+        <target>提出日</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:SmartCardDetailView_submissions" translate="yes">
+      <notes>
+      <note id="context">A label that describes the page or window</note>
+    </notes>
+      <segment >
+        <source>Submissions</source>
+        <target>提出物</target>
+      </segment>
+    </unit>
     <unit id="teams.teams:SmartCard_percentageIndicator" translate="no">
       <notes>
       <note id="context">Represents the percentage indicator.</note>
@@ -11403,6 +11745,24 @@
         <target>なし</target>
       </segment>
     </unit>
+    <unit id="teams.teams:SortFilterOptions_bookMarkDateMostRecent" translate="yes">
+      <notes>
+      <note id="context">Sorting option for displaying the most recent bookmarked items</note>
+    </notes>
+      <segment >
+        <source>Bookmarked Date: Most Recent</source>
+        <target>ブックマークした日：最も最近</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:SortFilterOptions_dueDateEarliest" translate="yes">
+      <notes>
+      <note id="context">Sorting option for displaying items with the earliest due dates</note>
+    </notes>
+      <segment >
+        <source>Due Date: Earliest</source>
+        <target>期日：最も早い</target>
+      </segment>
+    </unit>
     <unit id="teams.teams:SortFilterOptions_durationHighToLow" translate="no">
       <notes>
       <note id="context">Represents the label for sorting content by duration from high to low.</note>
@@ -11466,7 +11826,7 @@
         <target>このオブジェクトに指定されたフィールド データは存在しません。クイック検索を実行できませんでした。</target>
       </segment>
     </unit>
-    <!-- File::widgets:: NewWords: 143, NewStrings: 13 -->
+    <!-- File::widgets:: NewWords: 131, NewStrings: 33 -->
   </file>
-  <!-- XLIFF::widgets_ja-JP.xlf:: TotalNewWords: 160, TotalNewStrings: 16 -->
+  <!-- XLIFF::widgets_ja-JP.xlf:: TotalNewWords: 221, TotalNewStrings: 54 -->
 </xliff>
