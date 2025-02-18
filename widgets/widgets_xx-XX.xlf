@@ -198,15 +198,6 @@
         <target>言Continue with {{ssoLabel}}語</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:CreateCard_noResultFoundLabel" translate="no">
-      <notes>
-      <note id="context">A label or message displayed when a search or query returns no results</note>
-    </notes>
-      <segment >
-        <source>No result found</source>
-        <target>言No result found語</target>
-      </segment>
-    </unit>
     <unit id="br-ext.br-ext:CreateCard_linkSubTitle" translate="no">
       <notes>
       <note id="context">Instruction for pasting a link</note>
@@ -844,15 +835,6 @@
       <segment >
         <source>From List</source>
         <target>言From List語</target>
-      </segment>
-    </unit>
-    <unit id="br-ext.br-ext:CreateCard_channel" translate="no">
-      <notes>
-      <note id="context">Label text for the channel tab name for sharing on smartcard creation</note>
-    </notes>
-      <segment >
-        <source>Channel</source>
-        <target>言Channel語</target>
       </segment>
     </unit>
     <unit id="br-ext.br-ext:CreateCard_user" translate="no">
@@ -1656,15 +1638,6 @@
         <target>言Assign Content to...語</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_selectAll" translate="no">
-      <notes>
-      <note id="context">This text is used to display &quot;Select All&quot;.</note>
-    </notes>
-      <segment >
-        <source>Select All</source>
-        <target>言Select All語</target>
-      </segment>
-    </unit>
     <unit id="br-ext.br-ext:Cards_noUserFound" translate="no">
       <notes>
       <note id="context">This text is used to display &quot;No User Found&quot;</note>
@@ -2295,24 +2268,6 @@
         <target>言You no longer have the permission to view this content.語</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:MiniCard_miniPollCardLabels_vote" translate="no">
-      <notes>
-      <note id="context">Label text to be used as suffix for poll card vote count</note>
-    </notes>
-      <segment >
-        <source>vote</source>
-        <target>言vote語</target>
-      </segment>
-    </unit>
-    <unit id="br-ext.br-ext:MiniCard_miniPollCardLabels_votes" translate="no">
-      <notes>
-      <note id="context">Label text to be used as suffix for poll card vote count</note>
-    </notes>
-      <segment >
-        <source>votes</source>
-        <target>言votes語</target>
-      </segment>
-    </unit>
     <unit id="br-ext.br-ext:SearchPanel_resultBy" translate="no">
       <notes>
       <note id="context">Heading text to be shown on the search engine page for the results based on the searched keyword</note>
@@ -2518,6 +2473,258 @@
       <segment >
         <source>Terms of Service</source>
         <target>言Terms of Service語</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:CreateCard_linkErrorString" translate="no">
+      <notes>
+      <note id="context">Error message for an invalid URL entry</note>
+    </notes>
+      <segment >
+        <source>Enter a valid URL</source>
+        <target>言Enter a valid URL語</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Channels_noChannelContent" translate="no">
+      <notes>
+      <note id="context">Message indicating the channel has no content.</note>
+    </notes>
+      <segment >
+        <source>Your channel has no content yet.</source>
+        <target>言Your channel has no content yet.語</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Channels_selectChannel" translate="no">
+      <notes>
+      <note id="context">Label prompting the user to select a channel.</note>
+    </notes>
+      <segment >
+        <source>Select Channel</source>
+        <target>言Select Channel語</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardType_Attestation" translate="no">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Attestation card.</note>
+    </notes>
+      <segment >
+        <source>Attestation</source>
+        <target>言Attestation語</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardType_CaseStudy" translate="no">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Case Study card.</note>
+    </notes>
+      <segment >
+        <source>Case Study</source>
+        <target>言Case Study語</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardType_Certification" translate="no">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Certification card.</note>
+    </notes>
+      <segment >
+        <source>Certification</source>
+        <target>言Certification語</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardType_CohortProgram" translate="no">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Cohort Program card.</note>
+    </notes>
+      <segment >
+        <source>Cohort Program</source>
+        <target>言Cohort Program語</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardType_Collection" translate="no">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Collection card.</note>
+    </notes>
+      <segment >
+        <source>Collection</source>
+        <target>言Collection語</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardType_Companionship" translate="no">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Companionship card.</note>
+    </notes>
+      <segment >
+        <source>Companionship</source>
+        <target>言Companionship語</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardType_CompetencyDiagnostic" translate="no">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Competency Diagnostic card.</note>
+    </notes>
+      <segment >
+        <source>Competency Diagnostic</source>
+        <target>言Competency Diagnostic語</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardType_Diagram" translate="no">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Diagram card.</note>
+    </notes>
+      <segment >
+        <source>Diagram</source>
+        <target>言Diagram語</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardType_DirectedActivity" translate="no">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Directed activity card.</note>
+    </notes>
+      <segment >
+        <source>Directed activity</source>
+        <target>言Directed activity語</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardType_DirectedReading" translate="no">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Directed reading card.</note>
+    </notes>
+      <segment >
+        <source>Directed reading</source>
+        <target>言Directed reading語</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardType_Exposure" translate="no">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Exposure card.</note>
+    </notes>
+      <segment >
+        <source>Exposure</source>
+        <target>言Exposure語</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardType_Form" translate="no">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Form card.</note>
+    </notes>
+      <segment >
+        <source>Form</source>
+        <target>言Form語</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardType_Forum" translate="no">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Forum card.</note>
+    </notes>
+      <segment >
+        <source>Forum</source>
+        <target>言Forum語</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardType_Guidelines" translate="no">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Guidelines card.</note>
+    </notes>
+      <segment >
+        <source>Guidelines</source>
+        <target>言Guidelines語</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardType_Hybrid" translate="no">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Hybrid card.</note>
+    </notes>
+      <segment >
+        <source>Hybrid</source>
+        <target>言Hybrid語</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardType_Knowledge_Check" translate="no">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Knowledge Check card.</note>
+    </notes>
+      <segment >
+        <source>Knowledge Check</source>
+        <target>言Knowledge Check語</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardType_Manuals" translate="no">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Manuals card.</note>
+    </notes>
+      <segment >
+        <source>Manuals</source>
+        <target>言Manuals語</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardType_Module" translate="no">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Module card.</note>
+    </notes>
+      <segment >
+        <source>Module</source>
+        <target>言Module語</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardType_Playlist" translate="no">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Playlist card.</note>
+    </notes>
+      <segment >
+        <source>Playlist</source>
+        <target>言Playlist語</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardType_Procedure" translate="no">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Procedure card.</note>
+    </notes>
+      <segment >
+        <source>Procedure</source>
+        <target>言Procedure語</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardType_Quick_Reference_Guide" translate="no">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Quick Reference Guide card.</note>
+    </notes>
+      <segment >
+        <source>Quick Reference Guide</source>
+        <target>言Quick Reference Guide語</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardType_Reflection" translate="no">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Reflection card.</note>
+    </notes>
+      <segment >
+        <source>Reflection</source>
+        <target>言Reflection語</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardType_SelfAssessment" translate="no">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Self-Assessment card.</note>
+    </notes>
+      <segment >
+        <source>Self-Assessment</source>
+        <target>言Self-Assessment語</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardType_SelfStudy" translate="no">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Self-study card.</note>
+    </notes>
+      <segment >
+        <source>Self-study</source>
+        <target>言Self-study語</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardType_Activity" translate="no">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Activity card.</note>
+    </notes>
+      <segment >
+        <source>Activity</source>
+        <target>言Activity語</target>
       </segment>
     </unit>
     <!-- File::widgets:: NewWords: 0, NewStrings: 0 -->
@@ -2929,6 +3136,78 @@
       <segment >
         <source>Channels</source>
         <target>言Channels語</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.common:voteTextSingular" translate="no">
+      <notes>
+      <note id="context">Label text to be used as suffix for single vote count</note>
+    </notes>
+      <segment >
+        <source>vote</source>
+        <target>言vote語</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.common:voteTextPlural" translate="no">
+      <notes>
+      <note id="context">Label text to be used as suffix for multiple votes count</note>
+    </notes>
+      <segment >
+        <source>votes</source>
+        <target>言votes語</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.common:openPoll" translate="no">
+      <notes>
+      <note id="context">Label to open a poll in the mini / smart card poll card.</note>
+    </notes>
+      <segment >
+        <source>Open Poll</source>
+        <target>言Open Poll語</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.common:waitLabel" translate="no">
+      <notes>
+      <note id="context">Label to indicate the user should wait.</note>
+    </notes>
+      <segment >
+        <source>Please wait for a few seconds...</source>
+        <target>言Please wait for a few seconds...語</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.common:selectAll" translate="no">
+      <notes>
+      <note id="context">This text is used to display &quot;Select All&quot;.</note>
+    </notes>
+      <segment >
+        <source>Select All</source>
+        <target>言Select All語</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.common:resultsFor" translate="no">
+      <notes>
+      <note id="context">Label to display results for a particular search.</note>
+    </notes>
+      <segment >
+        <source>results for</source>
+        <target>言results for語</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.common:noResultFoundLabel" translate="no">
+      <notes>
+      <note id="context">A label or message displayed when a search or query returns no results</note>
+    </notes>
+      <segment >
+        <source>No result found</source>
+        <target>言No result found語</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.common:channel" translate="no">
+      <notes>
+      <note id="context">Label text for the channel tab name for sharing on smartcard creation</note>
+    </notes>
+      <segment >
+        <source>Channel</source>
+        <target>言Channel語</target>
       </segment>
     </unit>
     <!-- File::widgets:: NewWords: 0, NewStrings: 0 -->
@@ -4699,6 +4978,24 @@
       <segment >
         <source>Author</source>
         <target>言Author語</target>
+      </segment>
+    </unit>
+    <unit id="teams.common:openPoll" translate="no">
+      <notes>
+      <note id="context">Label to open a poll in the SmartCard.</note>
+    </notes>
+      <segment >
+        <source>Open Poll</source>
+        <target>言Open Poll語</target>
+      </segment>
+    </unit>
+    <unit id="teams.common:myLearningPlan" translate="no">
+      <notes>
+      <note id="context">Label indicating a section or feature related to the user&apos;s learning plan.</note>
+    </notes>
+      <segment >
+        <source>My Learning Plan</source>
+        <target>言My Learning Plan語</target>
       </segment>
     </unit>
     <!-- File::widgets:: NewWords: 0, NewStrings: 0 -->
@@ -9432,15 +9729,6 @@
         <target>言Leaderboard語</target>
       </segment>
     </unit>
-    <unit id="teams.teams:TopNav_myLearningPlan" translate="no">
-      <notes>
-      <note id="context">Label indicating a section or feature related to the user&apos;s learning plan.</note>
-    </notes>
-      <segment >
-        <source>My Learning Plan</source>
-        <target>言My Learning Plan語</target>
-      </segment>
-    </unit>
     <unit id="teams.teams:TopNav_gotoLabel" translate="no">
       <notes>
       <note id="context">Dynamic label with a placeholder for organization name, possibly used in a navigation context.</note>
@@ -10049,8 +10337,8 @@
       <note id="context">Message displayed when a user&apos;s channel does not have any content.</note>
     </notes>
       <segment >
-        <source>Your channel has no content yet!</source>
-        <target>言Your channel has no content yet!語</target>
+        <source>Your channel has no content yet.</source>
+        <target>言Your channel has no content yet.語</target>
       </segment>
     </unit>
     <unit id="teams.teams:Channels_noCustomTabContent" translate="no">
@@ -11106,6 +11394,33 @@
         <target>言Last Year語</target>
       </segment>
     </unit>
+    <unit id="teams.teams:userProfile_quarter" translate="no">
+      <notes>
+      <note id="context">This is to display label for Quarter in calendar year</note>
+    </notes>
+      <segment >
+        <source>Quarter {{number}}</source>
+        <target>言Quarter {{number}}語</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:userProfile_myProfileNavItem" translate="no">
+      <notes>
+      <note id="context">This is a nav item within the user profile for viewing users profile</note>
+    </notes>
+      <segment >
+        <source>My Profile</source>
+        <target>言My Profile語</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:userProfile_myContentNavItem" translate="no">
+      <notes>
+      <note id="context">This is a nav item within the user profile for users content</note>
+    </notes>
+      <segment >
+        <source>My Content</source>
+        <target>言My Content語</target>
+      </segment>
+    </unit>
     <unit id="teams.teams:userProfile_profilePrivateMessage" translate="no">
       <notes>
       <note id="context">Indicates a message informing users that a profile is private.</note>
@@ -11824,6 +12139,267 @@
       <segment >
         <source>Specified Field data does not exist for this Object. QuickSearch could not be performed.</source>
         <target>言Specified Field data does not exist for this Object. QuickSearch could not be performed.語</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_readableCardType_Attestation" translate="no">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Attestation card.</note>
+    </notes>
+      <segment >
+        <source>Attestation</source>
+        <target>言Attestation語</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_readableCardType_CaseStudy" translate="no">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Case Study card.</note>
+    </notes>
+      <segment >
+        <source>Case Study</source>
+        <target>言Case Study語</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_readableCardType_Certification" translate="no">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Certification card.</note>
+    </notes>
+      <segment >
+        <source>Certification</source>
+        <target>言Certification語</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_readableCardType_CohortProgram" translate="no">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Cohort Program card.</note>
+    </notes>
+      <segment >
+        <source>Cohort Program</source>
+        <target>言Cohort Program語</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_readableCardType_Collection" translate="no">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Collection card.</note>
+    </notes>
+      <segment >
+        <source>Collection</source>
+        <target>言Collection語</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_readableCardType_Companionship" translate="no">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Companionship card.</note>
+    </notes>
+      <segment >
+        <source>Companionship</source>
+        <target>言Companionship語</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_readableCardType_CompetencyDiagnostic" translate="no">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Competency Diagnostic card.</note>
+    </notes>
+      <segment >
+        <source>Competency Diagnostic</source>
+        <target>言Competency Diagnostic語</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_readableCardType_Diagram" translate="no">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Diagram card.</note>
+    </notes>
+      <segment >
+        <source>Diagram</source>
+        <target>言Diagram語</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_readableCardType_DirectedActivity" translate="no">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Directed activity card.</note>
+    </notes>
+      <segment >
+        <source>Directed activity</source>
+        <target>言Directed activity語</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_readableCardType_DirectedReading" translate="no">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Directed reading card.</note>
+    </notes>
+      <segment >
+        <source>Directed reading</source>
+        <target>言Directed reading語</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_readableCardType_Exposure" translate="no">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Exposure card.</note>
+    </notes>
+      <segment >
+        <source>Exposure</source>
+        <target>言Exposure語</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_readableCardType_Form" translate="no">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Form card.</note>
+    </notes>
+      <segment >
+        <source>Form</source>
+        <target>言Form語</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_readableCardType_Forum" translate="no">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Forum card.</note>
+    </notes>
+      <segment >
+        <source>Forum</source>
+        <target>言Forum語</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_readableCardType_Guidelines" translate="no">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Guidelines card.</note>
+    </notes>
+      <segment >
+        <source>Guidelines</source>
+        <target>言Guidelines語</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_readableCardType_Hybrid" translate="no">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Hybrid card.</note>
+    </notes>
+      <segment >
+        <source>Hybrid</source>
+        <target>言Hybrid語</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_readableCardType_Knowledge_Check" translate="no">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Knowledge Check card.</note>
+    </notes>
+      <segment >
+        <source>Knowledge Check</source>
+        <target>言Knowledge Check語</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_readableCardType_Manuals" translate="no">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Manuals card.</note>
+    </notes>
+      <segment >
+        <source>Manuals</source>
+        <target>言Manuals語</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_readableCardType_Module" translate="no">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Module card.</note>
+    </notes>
+      <segment >
+        <source>Module</source>
+        <target>言Module語</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_readableCardType_Playlist" translate="no">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Playlist card.</note>
+    </notes>
+      <segment >
+        <source>Playlist</source>
+        <target>言Playlist語</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_readableCardType_Procedure" translate="no">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Procedure card.</note>
+    </notes>
+      <segment >
+        <source>Procedure</source>
+        <target>言Procedure語</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_readableCardType_Quick_Reference_Guide" translate="no">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Quick Reference Guide card.</note>
+    </notes>
+      <segment >
+        <source>Quick Reference Guide</source>
+        <target>言Quick Reference Guide語</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_readableCardType_Reflection" translate="no">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Reflection card.</note>
+    </notes>
+      <segment >
+        <source>Reflection</source>
+        <target>言Reflection語</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_readableCardType_SelfAssessment" translate="no">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Self-Assessment card.</note>
+    </notes>
+      <segment >
+        <source>Self-Assessment</source>
+        <target>言Self-Assessment語</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_readableCardType_SelfStudy" translate="no">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Self-study card.</note>
+    </notes>
+      <segment >
+        <source>Self-study</source>
+        <target>言Self-study語</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_maxLimitString" translate="no">
+      <notes>
+      <note id="context">This text is used as max limit for questions</note>
+    </notes>
+      <segment >
+        <source>Maximum {{limit}} questions per card</source>
+        <target>言Maximum {{limit}} questions per card語</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_maxLimitOptionsPerQuestion" translate="no">
+      <notes>
+      <note id="context">This text is used as max limit options per questions</note>
+    </notes>
+      <segment >
+        <source>Maximum {{limit}} options per question</source>
+        <target>言Maximum {{limit}} options per question語</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_addOptions" translate="no">
+      <notes>
+      <note id="context">This text is used as a label for the add options button.\</note>
+    </notes>
+      <segment >
+        <source>Add Options</source>
+        <target>言Add Options語</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:ManagerDashboard_noAnnouncements" translate="no">
+      <notes>
+      <note id="context">Text to be displayed when there are no announcements in the user&apos;s queue.</note>
+    </notes>
+      <segment >
+        <source>Nothing in your queue yet. Your Announcements will appear here.</source>
+        <target>言Nothing in your queue yet. Your Announcements will appear here.語</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:ManagerDashboard_announcements" translate="no">
+      <notes>
+      <note id="context">This label is used for announcements</note>
+    </notes>
+      <segment >
+        <source>Announcements</source>
+        <target>言Announcements語</target>
       </segment>
     </unit>
     <!-- File::widgets:: NewWords: 0, NewStrings: 0 -->

@@ -9,16 +9,16 @@
     <notes>
       <note id="n1">Edcast Translation file for widgets</note>
     </notes>
-    <unit id="br-ext.br-ext:ChooseWorkspace_enterYourTeamseUrl" translate="yes">
+    <unit id="br-ext.br-ext:ChooseWorkspace_enterYourTeamseUrl" translate="no">
       <notes>
       <note id="context">Instruction for entering the team’s learning experience URL</note>
     </notes>
       <segment >
         <source>Enter your team&apos;s {{companyName}} URL</source>
-        <target>Entrez l'URL de votre équipe {{companyName}}</target>
+        <target>Entrez l&apos;URL de votre équipe {{companyName}}</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:ChooseWorkspace_signInToYourTeam" translate="yes">
+    <unit id="br-ext.br-ext:ChooseWorkspace_signInToYourTeam" translate="no">
       <notes>
       <note id="context">Button text for signing into the team</note>
     </notes>
@@ -108,7 +108,7 @@
         <target>Impossible de trouver de l’espace de travail</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Login_orLoginInWith" translate="yes">
+    <unit id="br-ext.br-ext:Login_orLoginInWith" translate="no">
       <notes>
       <note id="context">Text offering alternative login options</note>
     </notes>
@@ -198,16 +198,7 @@
         <target>Continuer avec {{ssoLabel}}</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:CreateCard_noResultFoundLabel" translate="yes">
-      <notes>
-      <note id="context">A label or message displayed when a search or query returns no results</note>
-    </notes>
-      <segment >
-        <source>No result found</source>
-        <target>Aucun résultat trouvé</target>
-      </segment>
-    </unit>
-    <unit id="br-ext.br-ext:CreateCard_linkSubTitle" translate="yes">
+    <unit id="br-ext.br-ext:CreateCard_linkSubTitle" translate="no">
       <notes>
       <note id="context">Instruction for pasting a link</note>
     </notes>
@@ -216,7 +207,7 @@
         <target>Collez le lien de votre article ici</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:CreateCard_linkPlaceHolder" translate="yes">
+    <unit id="br-ext.br-ext:CreateCard_linkPlaceHolder" translate="no">
       <notes>
       <note id="context">Placeholder for link address input</note>
     </notes>
@@ -225,13 +216,13 @@
         <target>Entrez l’adresse du lien ici</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:CreateCard_createArticle" translate="yes">
+    <unit id="br-ext.br-ext:CreateCard_createArticle" translate="no">
       <notes>
       <note id="context">Button text to create a SmartCard using a web URL</note>
     </notes>
       <segment >
         <source>Create Web URL SmartCard</source>
-        <target>Créer une SmartCard d'URL Web</target>
+        <target>Créer une SmartCard d&apos;URL Web</target>
       </segment>
     </unit>
     <unit id="br-ext.br-ext:CreateCard_title" translate="no">
@@ -846,15 +837,6 @@
         <target>Depuis la liste</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:CreateCard_channel" translate="no">
-      <notes>
-      <note id="context">Label text for the channel tab name for sharing on smartcard creation</note>
-    </notes>
-      <segment >
-        <source>Channel</source>
-        <target>Canal</target>
-      </segment>
-    </unit>
     <unit id="br-ext.br-ext:CreateCard_user" translate="no">
       <notes>
       <note id="context">Label text for the usrs tab name for share on smartcard creation</note>
@@ -1089,7 +1071,7 @@
         <target>Afficher moins</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_contentNotAvailable" translate="yes">
+    <unit id="br-ext.br-ext:Cards_contentNotAvailable" translate="no">
       <notes>
       <note id="context">A message indicating that the requested content is not available</note>
     </notes>
@@ -1098,7 +1080,7 @@
         <target>Contenu non disponible</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardTypeQ&A" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardTypeQ&A" translate="no">
       <notes>
       <note id="context">Label for a Q&amp;A type of card</note>
     </notes>
@@ -1107,7 +1089,7 @@
         <target>Q&amp;R</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_loadMoreTextSingular" translate="yes">
+    <unit id="br-ext.br-ext:Cards_loadMoreTextSingular" translate="no">
       <notes>
       <note id="context">A button or link text indicating that one more comment can be displayed</note>
     </notes>
@@ -1654,15 +1636,6 @@
       <segment >
         <source>Assign Content to...</source>
         <target>Attribuer le contenu à...</target>
-      </segment>
-    </unit>
-    <unit id="br-ext.br-ext:Cards_selectAll" translate="no">
-      <notes>
-      <note id="context">This text is used to display &quot;Select All&quot;.</note>
-    </notes>
-      <segment >
-        <source>Select All</source>
-        <target>Sélectionner tout</target>
       </segment>
     </unit>
     <unit id="br-ext.br-ext:Cards_noUserFound" translate="no">
@@ -2259,7 +2232,7 @@
         <target>Retirer des affectations</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:MiniCard_insertLinkLabel" translate="yes">
+    <unit id="br-ext.br-ext:MiniCard_insertLinkLabel" translate="no">
       <notes>
       <note id="context">Button text to insert a link in a mini card</note>
     </notes>
@@ -2293,24 +2266,6 @@
       <segment >
         <source>You no longer have the permission to view this content.</source>
         <target>Vous n’avez plus l’autorisation de visualiser ce contenu.</target>
-      </segment>
-    </unit>
-    <unit id="br-ext.br-ext:MiniCard_miniPollCardLabels_vote" translate="no">
-      <notes>
-      <note id="context">Label text to be used as suffix for poll card vote count</note>
-    </notes>
-      <segment >
-        <source>vote</source>
-        <target>voter</target>
-      </segment>
-    </unit>
-    <unit id="br-ext.br-ext:MiniCard_miniPollCardLabels_votes" translate="no">
-      <notes>
-      <note id="context">Label text to be used as suffix for poll card vote count</note>
-    </notes>
-      <segment >
-        <source>votes</source>
-        <target>votes</target>
       </segment>
     </unit>
     <unit id="br-ext.br-ext:SearchPanel_resultBy" translate="yes">
@@ -2520,7 +2475,259 @@
         <target>Conditions d&apos;utilisation</target>
       </segment>
     </unit>
-    <!-- File::widgets:: NewWords: 56, NewStrings: 13 -->
+    <unit id="br-ext.br-ext:CreateCard_linkErrorString" translate="yes">
+      <notes>
+      <note id="context">Error message for an invalid URL entry</note>
+    </notes>
+      <segment >
+        <source>Enter a valid URL</source>
+        <target>Entrez une URL valide</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Channels_noChannelContent" translate="yes">
+      <notes>
+      <note id="context">Message indicating the channel has no content.</note>
+    </notes>
+      <segment >
+        <source>Your channel has no content yet.</source>
+        <target>Votre chaîne n'a pas encore de contenu.</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Channels_selectChannel" translate="yes">
+      <notes>
+      <note id="context">Label prompting the user to select a channel.</note>
+    </notes>
+      <segment >
+        <source>Select Channel</source>
+        <target>Sélectionner la chaîne</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardType_Attestation" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Attestation card.</note>
+    </notes>
+      <segment >
+        <source>Attestation</source>
+        <target>Attestation</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardType_CaseStudy" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Case Study card.</note>
+    </notes>
+      <segment >
+        <source>Case Study</source>
+        <target>Étude de cas</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardType_Certification" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Certification card.</note>
+    </notes>
+      <segment >
+        <source>Certification</source>
+        <target>Certification</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardType_CohortProgram" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Cohort Program card.</note>
+    </notes>
+      <segment >
+        <source>Cohort Program</source>
+        <target>Programme de cohorte</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardType_Collection" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Collection card.</note>
+    </notes>
+      <segment >
+        <source>Collection</source>
+        <target>Collection</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardType_Companionship" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Companionship card.</note>
+    </notes>
+      <segment >
+        <source>Companionship</source>
+        <target>Compagnonnage</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardType_CompetencyDiagnostic" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Competency Diagnostic card.</note>
+    </notes>
+      <segment >
+        <source>Competency Diagnostic</source>
+        <target>Diagnostic des compétences</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardType_Diagram" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Diagram card.</note>
+    </notes>
+      <segment >
+        <source>Diagram</source>
+        <target>Diagramme</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardType_DirectedActivity" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Directed activity card.</note>
+    </notes>
+      <segment >
+        <source>Directed activity</source>
+        <target>Activité dirigée</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardType_DirectedReading" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Directed reading card.</note>
+    </notes>
+      <segment >
+        <source>Directed reading</source>
+        <target>Lecture dirigée</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardType_Exposure" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Exposure card.</note>
+    </notes>
+      <segment >
+        <source>Exposure</source>
+        <target>Exposition</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardType_Form" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Form card.</note>
+    </notes>
+      <segment >
+        <source>Form</source>
+        <target>Formulaire</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardType_Forum" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Forum card.</note>
+    </notes>
+      <segment >
+        <source>Forum</source>
+        <target>Forum</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardType_Guidelines" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Guidelines card.</note>
+    </notes>
+      <segment >
+        <source>Guidelines</source>
+        <target>Directives</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardType_Hybrid" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Hybrid card.</note>
+    </notes>
+      <segment >
+        <source>Hybrid</source>
+        <target>Hybride</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardType_Knowledge_Check" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Knowledge Check card.</note>
+    </notes>
+      <segment >
+        <source>Knowledge Check</source>
+        <target>Vérification des connaissances</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardType_Manuals" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Manuals card.</note>
+    </notes>
+      <segment >
+        <source>Manuals</source>
+        <target>Manuels</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardType_Module" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Module card.</note>
+    </notes>
+      <segment >
+        <source>Module</source>
+        <target>Module</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardType_Playlist" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Playlist card.</note>
+    </notes>
+      <segment >
+        <source>Playlist</source>
+        <target>Liste de lecture</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardType_Procedure" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Procedure card.</note>
+    </notes>
+      <segment >
+        <source>Procedure</source>
+        <target>Procédure</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardType_Quick_Reference_Guide" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Quick Reference Guide card.</note>
+    </notes>
+      <segment >
+        <source>Quick Reference Guide</source>
+        <target>Guide de référence rapide</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardType_Reflection" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Reflection card.</note>
+    </notes>
+      <segment >
+        <source>Reflection</source>
+        <target>Réflexion</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardType_SelfAssessment" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Self-Assessment card.</note>
+    </notes>
+      <segment >
+        <source>Self-Assessment</source>
+        <target>Auto-évaluation</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardType_SelfStudy" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Self-study card.</note>
+    </notes>
+      <segment >
+        <source>Self-study</source>
+        <target>Auto-apprentissage</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardType_Activity" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Activity card.</note>
+    </notes>
+      <segment >
+        <source>Activity</source>
+        <target>Activité</target>
+      </segment>
+    </unit>
+    <!-- File::widgets:: NewWords: 61, NewStrings: 30 -->
   </file>
   <file id="widgets:br-ext.common" original="packages/widgets/br-ext/labels/common.yaml" translate="yes">
     <notes>
@@ -2877,7 +3084,7 @@
         <target>En direct</target>
       </segment>
     </unit>
-    <unit id="br-ext.common:liveStreamEndContentLabel" translate="yes">
+    <unit id="br-ext.common:liveStreamEndContentLabel" translate="no">
       <notes>
       <note id="context">A message indicating that the live stream has ended and the replay will soon be available on the company&apos;s platform</note>
     </notes>
@@ -2904,7 +3111,7 @@
         <target>Diffusion en direct terminée</target>
       </segment>
     </unit>
-    <unit id="br-ext.common:loadMoreTextPlural" translate="yes">
+    <unit id="br-ext.common:loadMoreTextPlural" translate="no">
       <notes>
       <note id="context">A button or link text indicating that multiple additional comments can be displayed</note>
     </notes>
@@ -2913,7 +3120,7 @@
         <target>Afficher {{remainingComments}} plus de commentaires</target>
       </segment>
     </unit>
-    <unit id="br-ext.common:linkTitle" translate="yes">
+    <unit id="br-ext.common:linkTitle" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a link.</note>
     </notes>
@@ -2922,7 +3129,7 @@
         <target>Lier</target>
       </segment>
     </unit>
-    <unit id="br-ext.common:channelsTitle" translate="yes">
+    <unit id="br-ext.common:channelsTitle" translate="no">
       <notes>
       <note id="context">Label for channels in the top bar</note>
     </notes>
@@ -2931,13 +3138,85 @@
         <target>Chaînes</target>
       </segment>
     </unit>
-    <!-- File::widgets:: NewWords: 17, NewStrings: 4 -->
+    <unit id="br-ext.common:voteTextSingular" translate="yes">
+      <notes>
+      <note id="context">Label text to be used as suffix for single vote count</note>
+    </notes>
+      <segment >
+        <source>vote</source>
+        <target>voter</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.common:voteTextPlural" translate="yes">
+      <notes>
+      <note id="context">Label text to be used as suffix for multiple votes count</note>
+    </notes>
+      <segment >
+        <source>votes</source>
+        <target>votes</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.common:openPoll" translate="yes">
+      <notes>
+      <note id="context">Label to open a poll in the mini / smart card poll card.</note>
+    </notes>
+      <segment >
+        <source>Open Poll</source>
+        <target>Ouvrir le sondage</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.common:waitLabel" translate="yes">
+      <notes>
+      <note id="context">Label to indicate the user should wait.</note>
+    </notes>
+      <segment >
+        <source>Please wait for a few seconds...</source>
+        <target>Veuillez patienter quelques secondes...</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.common:selectAll" translate="yes">
+      <notes>
+      <note id="context">This text is used to display &quot;Select All&quot;.</note>
+    </notes>
+      <segment >
+        <source>Select All</source>
+        <target>Sélectionner tout</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.common:resultsFor" translate="yes">
+      <notes>
+      <note id="context">Label to display results for a particular search.</note>
+    </notes>
+      <segment >
+        <source>results for</source>
+        <target>résultats pour</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.common:noResultFoundLabel" translate="yes">
+      <notes>
+      <note id="context">A label or message displayed when a search or query returns no results</note>
+    </notes>
+      <segment >
+        <source>No result found</source>
+        <target>Aucun résultat trouvé</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.common:channel" translate="yes">
+      <notes>
+      <note id="context">Label text for the channel tab name for sharing on smartcard creation</note>
+    </notes>
+      <segment >
+        <source>Channel</source>
+        <target>Chaîne</target>
+      </segment>
+    </unit>
+    <!-- File::widgets:: NewWords: 18, NewStrings: 8 -->
   </file>
   <file id="widgets:teams.common" original="packages/widgets/teams/labels/common.yaml" translate="yes">
     <notes>
       <note id="n1">Edcast Translation file for widgets</note>
     </notes>
-    <unit id="teams.common:tryEdcastNow" translate="yes">
+    <unit id="teams.common:tryEdcastNow" translate="no">
       <notes>
       <note id="context">Text for the button to register on edcast</note>
     </notes>
@@ -4359,7 +4638,7 @@
         <target>Diffusion en direct terminée</target>
       </segment>
     </unit>
-    <unit id="teams.common:videoReplay" translate="yes">
+    <unit id="teams.common:videoReplay" translate="no">
       <notes>
       <note id="context">Help text to be shown for LiveStream Ended Cards</note>
     </notes>
@@ -4683,7 +4962,7 @@
         <target>Moins</target>
       </segment>
     </unit>
-    <unit id="teams.common:goTo" translate="yes">
+    <unit id="teams.common:goTo" translate="no">
       <notes>
       <note id="context">Describes a label or action that instructs users to navigate to another location.</note>
     </notes>
@@ -4692,7 +4971,7 @@
         <target>Aller à</target>
       </segment>
     </unit>
-    <unit id="teams.common:author" translate="yes">
+    <unit id="teams.common:author" translate="no">
       <notes>
       <note id="context">The Label text for the Author field in the filter in the search page</note>
     </notes>
@@ -4701,7 +4980,25 @@
         <target>Auteur</target>
       </segment>
     </unit>
-    <!-- File::widgets:: NewWords: 17, NewStrings: 4 -->
+    <unit id="teams.common:openPoll" translate="yes">
+      <notes>
+      <note id="context">Label to open a poll in the SmartCard.</note>
+    </notes>
+      <segment >
+        <source>Open Poll</source>
+        <target>Sondage ouvert</target>
+      </segment>
+    </unit>
+    <unit id="teams.common:myLearningPlan" translate="yes">
+      <notes>
+      <note id="context">Label indicating a section or feature related to the user&apos;s learning plan.</note>
+    </notes>
+      <segment >
+        <source>My Learning Plan</source>
+        <target>Mon plan de formation</target>
+      </segment>
+    </unit>
+    <!-- File::widgets:: NewWords: 5, NewStrings: 2 -->
   </file>
   <file id="widgets:teams.teams" original="packages/widgets/teams/labels/teams.yaml" translate="yes">
     <notes>
@@ -4779,7 +5076,7 @@
         <target>années</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ChooseWorkspace_sparkByEdcast" translate="yes">
+    <unit id="teams.teams:ChooseWorkspace_sparkByEdcast" translate="no">
       <notes>
       <note id="context">A branding label indicating that the platform service is powered by the company</note>
     </notes>
@@ -4833,7 +5130,7 @@
         <target>Se connecter à l’instance de votre entreprise</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ChooseWorkspace_doesCompanyUseEdcast" translate="yes">
+    <unit id="teams.teams:ChooseWorkspace_doesCompanyUseEdcast" translate="no">
       <notes>
       <note id="context">Sectional heading text to get team name while logging in</note>
     </notes>
@@ -5094,16 +5391,16 @@
         <target>Sélectionnez cette case si vous voulez continuer</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Cards_carouselAdministrationLabel" translate="yes">
+    <unit id="teams.teams:Cards_carouselAdministrationLabel" translate="no">
       <notes>
       <note id="context">A message indicating that the user lacks permissions to manage carousels</note>
     </notes>
       <segment >
         <source>You currently don&apos;t have access to manage any carousels. Please contact your administrator for assistance.</source>
-        <target>Vous n'avez actuellement pas accès à la gestion des carrousels. Veuillez contacter votre administrateur pour obtenir de l'aide.</target>
+        <target>Vous n&apos;avez actuellement pas accès à la gestion des carrousels. Veuillez contacter votre administrateur pour obtenir de l&apos;aide.</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Cards_byYouLabel" translate="yes">
+    <unit id="teams.teams:Cards_byYouLabel" translate="no">
       <notes>
       <note id="context">Label indicating that the content was created by the current user</note>
     </notes>
@@ -5112,7 +5409,7 @@
         <target>Par vous</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Cards_noCarouselsAvailableLabel" translate="yes">
+    <unit id="teams.teams:Cards_noCarouselsAvailableLabel" translate="no">
       <notes>
       <note id="context">A message indicating that there are no carousels available for display or management</note>
     </notes>
@@ -5121,7 +5418,7 @@
         <target>Aucun carrousel disponible</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Cards_uploadSmartCardThumbnail" translate="yes">
+    <unit id="teams.teams:Cards_uploadSmartCardThumbnail" translate="no">
       <notes>
       <note id="context">A label for uploading a SmartCard thumbnail image</note>
     </notes>
@@ -5130,7 +5427,7 @@
         <target>Télécharger image de SmartCard</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Cards_readableCardTypeQ&A" translate="yes">
+    <unit id="teams.teams:Cards_readableCardTypeQ&A" translate="no">
       <notes>
       <note id="context">Label for a Q&amp;A type of card</note>
     </notes>
@@ -5139,13 +5436,13 @@
         <target>Q&amp;R</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Cards_liveCardUploadThumbnail" translate="yes">
+    <unit id="teams.teams:Cards_liveCardUploadThumbnail" translate="no">
       <notes>
       <note id="context">A label for uploading an image for an event card</note>
     </notes>
       <segment >
         <source>Event Image</source>
-        <target>Image de l'événement</target>
+        <target>Image de l&apos;événement</target>
       </segment>
     </unit>
     <unit id="teams.teams:Cards_star" translate="no">
@@ -6957,7 +7254,7 @@
         <target>Ne plus suivre le canal</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Cards_scoreLabel" translate="yes">
+    <unit id="teams.teams:Cards_scoreLabel" translate="no">
       <notes>
       <note id="context">This text is used as skill score text in the Skill card</note>
     </notes>
@@ -9432,15 +9729,6 @@
         <target>Leaderboard</target>
       </segment>
     </unit>
-    <unit id="teams.teams:TopNav_myLearningPlan" translate="no">
-      <notes>
-      <note id="context">Label indicating a section or feature related to the user&apos;s learning plan.</note>
-    </notes>
-      <segment >
-        <source>My Learning Plan</source>
-        <target>Mon plan de formation</target>
-      </segment>
-    </unit>
     <unit id="teams.teams:TopNav_gotoLabel" translate="no">
       <notes>
       <note id="context">Dynamic label with a placeholder for organization name, possibly used in a navigation context.</note>
@@ -10044,13 +10332,13 @@
         <target>éléments</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Channels_noChannelContent" translate="no">
+    <unit id="teams.teams:Channels_noChannelContent" translate="yes">
       <notes>
       <note id="context">Message displayed when a user&apos;s channel does not have any content.</note>
     </notes>
       <segment >
-        <source>Your channel has no content yet!</source>
-        <target>Votre canal n’a pas encore de contenu !</target>
+        <source>Your channel has no content yet.</source>
+        <target>Votre chaîne n'a pas encore de contenu.</target>
       </segment>
     </unit>
     <unit id="teams.teams:Channels_noCustomTabContent" translate="no">
@@ -11106,6 +11394,33 @@
         <target>L’année dernière</target>
       </segment>
     </unit>
+    <unit id="teams.teams:userProfile_quarter" translate="yes">
+      <notes>
+      <note id="context">This is to display label for Quarter in calendar year</note>
+    </notes>
+      <segment >
+        <source>Quarter {{number}}</source>
+        <target>Trimestre {{number}}</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:userProfile_myProfileNavItem" translate="yes">
+      <notes>
+      <note id="context">This is a nav item within the user profile for viewing users profile</note>
+    </notes>
+      <segment >
+        <source>My Profile</source>
+        <target>Mon profil</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:userProfile_myContentNavItem" translate="yes">
+      <notes>
+      <note id="context">This is a nav item within the user profile for users content</note>
+    </notes>
+      <segment >
+        <source>My Content</source>
+        <target>Mon contenu</target>
+      </segment>
+    </unit>
     <unit id="teams.teams:userProfile_profilePrivateMessage" translate="no">
       <notes>
       <note id="context">Indicates a message informing users that a profile is private.</note>
@@ -11259,7 +11574,7 @@
         <target>Vous êtes sur le point de partager une {{cardType}} privée. Seuls les utilisateurs avec qui cette carte a été partagée pourront y avoir accès.</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_inReview" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_inReview" translate="no">
       <notes>
       <note id="context">A label that indicates status is in review</note>
     </notes>
@@ -11268,7 +11583,7 @@
         <target>En cours de vérification</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_score" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_score" translate="no">
       <notes>
       <note id="context">A label that indicates score range</note>
     </notes>
@@ -11277,7 +11592,7 @@
         <target>Note {{number}}</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_gradeAToF" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_gradeAToF" translate="no">
       <notes>
       <note id="context">A label that indicates grade scoring range A-F</note>
     </notes>
@@ -11286,7 +11601,7 @@
         <target>Note (A-F)</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_gradeAToG" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_gradeAToG" translate="no">
       <notes>
       <note id="context">A label that indicates grade scoring range A-G</note>
     </notes>
@@ -11295,7 +11610,7 @@
         <target>Note (A-G)</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_manager" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_manager" translate="no">
       <notes>
       <note id="context">A label that indicates manager role</note>
     </notes>
@@ -11304,7 +11619,7 @@
         <target>Responsable</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_notApplicable" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_notApplicable" translate="no">
       <notes>
       <note id="context">A label that indicates not applicable</note>
     </notes>
@@ -11313,7 +11628,7 @@
         <target>s/o</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_unlimited" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_unlimited" translate="no">
       <notes>
       <note id="context">A label that indicates no limit on attempts or resources</note>
     </notes>
@@ -11322,7 +11637,7 @@
         <target>Illimité</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_maximumReattempts" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_maximumReattempts" translate="no">
       <notes>
       <note id="context">A label that indicates the maximum number of times a user can attempt a task or quiz</note>
     </notes>
@@ -11331,7 +11646,7 @@
         <target>Nombre maximal de tentatives</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_passingGrade" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_passingGrade" translate="no">
       <notes>
       <note id="context">A label that indicates the minimum grade required to pass a course or task</note>
     </notes>
@@ -11340,7 +11655,7 @@
         <target>Note de passage</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_assignor" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_assignor" translate="no">
       <notes>
       <note id="context">A label that indicates the person or entity who assigned a task or project</note>
     </notes>
@@ -11349,16 +11664,16 @@
         <target>Donneur d’affectations</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_unapprovedWordError" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_unapprovedWordError" translate="no">
       <notes>
       <note id="context">An error message displayed when a user attempts to submit a URL that is not allowed</note>
     </notes>
       <segment >
         <source>Sorry, the URL you are trying to submit is from an unapproved website or contains unapproved words</source>
-        <target>Désolé, l'URL que vous essayez de soumettre provient d'un site Web non approuvé ou contient des mots non approuvés</target>
+        <target>Désolé, l&apos;URL que vous essayez de soumettre provient d&apos;un site Web non approuvé ou contient des mots non approuvés</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_addRemarks" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_addRemarks" translate="no">
       <notes>
       <note id="context">A button or link text that allows the user to add new remarks</note>
     </notes>
@@ -11367,7 +11682,7 @@
         <target>Ajouter des remarques</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_editRemarks" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_editRemarks" translate="no">
       <notes>
       <note id="context">A button or link text that allows the user to edit existing remarks</note>
     </notes>
@@ -11376,7 +11691,7 @@
         <target>Modifier les remarques</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_addComment" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_addComment" translate="no">
       <notes>
       <note id="context">A button or link text that allows the user to add a new comment</note>
     </notes>
@@ -11385,7 +11700,7 @@
         <target>Ajouter un commentaire</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_editComment" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_editComment" translate="no">
       <notes>
       <note id="context">A button or link text that allows the user to edit an existing comment</note>
     </notes>
@@ -11394,16 +11709,16 @@
         <target>Modifier le commentaire</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_noSubmissionsYet" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_noSubmissionsYet" translate="no">
       <notes>
       <note id="context">A message indicating that no submissions have been made so far</note>
     </notes>
       <segment >
         <source>No one has added submissions yet</source>
-        <target>Personne n'a encore ajouté de soumissions</target>
+        <target>Personne n&apos;a encore ajouté de soumissions</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_addYourRemarksBelow" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_addYourRemarksBelow" translate="no">
       <notes>
       <note id="context">Instructional text prompting the user to enter remarks in a text area</note>
     </notes>
@@ -11412,7 +11727,7 @@
         <target>Ajouter vos remarques ci-dessous</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_download" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_download" translate="no">
       <notes>
       <note id="context">A button or link text that allows the user to download a file or content</note>
     </notes>
@@ -11421,7 +11736,7 @@
         <target>Télécharger</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_assignedDate" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_assignedDate" translate="no">
       <notes>
       <note id="context">A label that indicates the date when a task or project was assigned</note>
     </notes>
@@ -11430,7 +11745,7 @@
         <target>Assignée le</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_submittedOn" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_submittedOn" translate="no">
       <notes>
       <note id="context">A label that denotes when the project was submitted</note>
     </notes>
@@ -11439,7 +11754,7 @@
         <target>Soumis le</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_submissions" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_submissions" translate="no">
       <notes>
       <note id="context">A label that describes the page or window</note>
     </notes>
@@ -11745,7 +12060,7 @@
         <target>Aucune</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SortFilterOptions_bookMarkDateMostRecent" translate="yes">
+    <unit id="teams.teams:SortFilterOptions_bookMarkDateMostRecent" translate="no">
       <notes>
       <note id="context">Sorting option for displaying the most recent bookmarked items</note>
     </notes>
@@ -11754,7 +12069,7 @@
         <target>Date de mise en favori : La plus récente</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SortFilterOptions_dueDateEarliest" translate="yes">
+    <unit id="teams.teams:SortFilterOptions_dueDateEarliest" translate="no">
       <notes>
       <note id="context">Sorting option for displaying items with the earliest due dates</note>
     </notes>
@@ -11826,7 +12141,268 @@
         <target>Les données du champ spécifié n&apos;existent pas pour cet objet. La recherche rapide n&apos;a pas pu être effectuée.</target>
       </segment>
     </unit>
-    <!-- File::widgets:: NewWords: 131, NewStrings: 33 -->
+    <unit id="teams.teams:Cards_readableCardType_Attestation" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Attestation card.</note>
+    </notes>
+      <segment >
+        <source>Attestation</source>
+        <target>Attestation</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_readableCardType_CaseStudy" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Case Study card.</note>
+    </notes>
+      <segment >
+        <source>Case Study</source>
+        <target>Étude de cas</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_readableCardType_Certification" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Certification card.</note>
+    </notes>
+      <segment >
+        <source>Certification</source>
+        <target>Certification</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_readableCardType_CohortProgram" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Cohort Program card.</note>
+    </notes>
+      <segment >
+        <source>Cohort Program</source>
+        <target>Programme de cohorte</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_readableCardType_Collection" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Collection card.</note>
+    </notes>
+      <segment >
+        <source>Collection</source>
+        <target>Collection</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_readableCardType_Companionship" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Companionship card.</note>
+    </notes>
+      <segment >
+        <source>Companionship</source>
+        <target>Compagnonnage</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_readableCardType_CompetencyDiagnostic" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Competency Diagnostic card.</note>
+    </notes>
+      <segment >
+        <source>Competency Diagnostic</source>
+        <target>Diagnostic des compétences</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_readableCardType_Diagram" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Diagram card.</note>
+    </notes>
+      <segment >
+        <source>Diagram</source>
+        <target>Diagramme</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_readableCardType_DirectedActivity" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Directed activity card.</note>
+    </notes>
+      <segment >
+        <source>Directed activity</source>
+        <target>Activité dirigée</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_readableCardType_DirectedReading" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Directed reading card.</note>
+    </notes>
+      <segment >
+        <source>Directed reading</source>
+        <target>Lecture dirigée</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_readableCardType_Exposure" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Exposure card.</note>
+    </notes>
+      <segment >
+        <source>Exposure</source>
+        <target>Exposition</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_readableCardType_Form" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Form card.</note>
+    </notes>
+      <segment >
+        <source>Form</source>
+        <target>Formulaire</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_readableCardType_Forum" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Forum card.</note>
+    </notes>
+      <segment >
+        <source>Forum</source>
+        <target>Forum</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_readableCardType_Guidelines" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Guidelines card.</note>
+    </notes>
+      <segment >
+        <source>Guidelines</source>
+        <target>Directives</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_readableCardType_Hybrid" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Hybrid card.</note>
+    </notes>
+      <segment >
+        <source>Hybrid</source>
+        <target>Hybride</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_readableCardType_Knowledge_Check" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Knowledge Check card.</note>
+    </notes>
+      <segment >
+        <source>Knowledge Check</source>
+        <target>Vérification des connaissances</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_readableCardType_Manuals" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Manuals card.</note>
+    </notes>
+      <segment >
+        <source>Manuals</source>
+        <target>Manuels</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_readableCardType_Module" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Module card.</note>
+    </notes>
+      <segment >
+        <source>Module</source>
+        <target>Module</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_readableCardType_Playlist" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Playlist card.</note>
+    </notes>
+      <segment >
+        <source>Playlist</source>
+        <target>Liste de lecture</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_readableCardType_Procedure" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Procedure card.</note>
+    </notes>
+      <segment >
+        <source>Procedure</source>
+        <target>Procédure</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_readableCardType_Quick_Reference_Guide" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Quick Reference Guide card.</note>
+    </notes>
+      <segment >
+        <source>Quick Reference Guide</source>
+        <target>Guide de référence rapide</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_readableCardType_Reflection" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Reflection card.</note>
+    </notes>
+      <segment >
+        <source>Reflection</source>
+        <target>Réflexion</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_readableCardType_SelfAssessment" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Self-Assessment card.</note>
+    </notes>
+      <segment >
+        <source>Self-Assessment</source>
+        <target>Auto-évaluation</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_readableCardType_SelfStudy" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Self-study card.</note>
+    </notes>
+      <segment >
+        <source>Self-study</source>
+        <target>Auto-apprentissage</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_maxLimitString" translate="yes">
+      <notes>
+      <note id="context">This text is used as max limit for questions</note>
+    </notes>
+      <segment >
+        <source>Maximum {{limit}} questions per card</source>
+        <target>{{limit}} questions maximum par carte</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_maxLimitOptionsPerQuestion" translate="yes">
+      <notes>
+      <note id="context">This text is used as max limit options per questions</note>
+    </notes>
+      <segment >
+        <source>Maximum {{limit}} options per question</source>
+        <target>{{limit}} options maximum par question</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_addOptions" translate="yes">
+      <notes>
+      <note id="context">This text is used as a label for the add options button.\</note>
+    </notes>
+      <segment >
+        <source>Add Options</source>
+        <target>Ajouter des options</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:ManagerDashboard_noAnnouncements" translate="yes">
+      <notes>
+      <note id="context">Text to be displayed when there are no announcements in the user&apos;s queue.</note>
+    </notes>
+      <segment >
+        <source>Nothing in your queue yet. Your Announcements will appear here.</source>
+        <target>Il n'y a encore rien dans votre file d'attente. Vos annonces apparaîtront ici.</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:ManagerDashboard_announcements" translate="yes">
+      <notes>
+      <note id="context">This label is used for announcements</note>
+    </notes>
+      <segment >
+        <source>Announcements</source>
+        <target>Communiqués</target>
+      </segment>
+    </unit>
+    <!-- File::widgets:: NewWords: 99, NewStrings: 34 -->
   </file>
-  <!-- XLIFF::widgets_fr-FR.xlf:: TotalNewWords: 221, TotalNewStrings: 54 -->
+  <!-- XLIFF::widgets_fr-FR.xlf:: TotalNewWords: 183, TotalNewStrings: 74 -->
 </xliff>

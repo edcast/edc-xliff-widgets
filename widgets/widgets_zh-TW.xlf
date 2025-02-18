@@ -9,7 +9,7 @@
     <notes>
       <note id="n1">Edcast Translation file for widgets</note>
     </notes>
-    <unit id="br-ext.br-ext:ChooseWorkspace_enterYourTeamseUrl" translate="yes">
+    <unit id="br-ext.br-ext:ChooseWorkspace_enterYourTeamseUrl" translate="no">
       <notes>
       <note id="context">Instruction for entering the team’s learning experience URL</note>
     </notes>
@@ -18,7 +18,7 @@
         <target>輸入您團隊的 {{companyName}} URL</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:ChooseWorkspace_signInToYourTeam" translate="yes">
+    <unit id="br-ext.br-ext:ChooseWorkspace_signInToYourTeam" translate="no">
       <notes>
       <note id="context">Button text for signing into the team</note>
     </notes>
@@ -108,7 +108,7 @@
         <target>無法找到工作區</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Login_orLoginInWith" translate="yes">
+    <unit id="br-ext.br-ext:Login_orLoginInWith" translate="no">
       <notes>
       <note id="context">Text offering alternative login options</note>
     </notes>
@@ -198,16 +198,7 @@
         <target>以 {{ssoLabel}} 繼續</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:CreateCard_noResultFoundLabel" translate="yes">
-      <notes>
-      <note id="context">A label or message displayed when a search or query returns no results</note>
-    </notes>
-      <segment >
-        <source>No result found</source>
-        <target>找不到結果</target>
-      </segment>
-    </unit>
-    <unit id="br-ext.br-ext:CreateCard_linkSubTitle" translate="yes">
+    <unit id="br-ext.br-ext:CreateCard_linkSubTitle" translate="no">
       <notes>
       <note id="context">Instruction for pasting a link</note>
     </notes>
@@ -216,7 +207,7 @@
         <target>將您的文章連結貼上到這裡</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:CreateCard_linkPlaceHolder" translate="yes">
+    <unit id="br-ext.br-ext:CreateCard_linkPlaceHolder" translate="no">
       <notes>
       <note id="context">Placeholder for link address input</note>
     </notes>
@@ -225,7 +216,7 @@
         <target>在這裡輸入連結地址</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:CreateCard_createArticle" translate="yes">
+    <unit id="br-ext.br-ext:CreateCard_createArticle" translate="no">
       <notes>
       <note id="context">Button text to create a SmartCard using a web URL</note>
     </notes>
@@ -846,15 +837,6 @@
         <target>來自清單</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:CreateCard_channel" translate="no">
-      <notes>
-      <note id="context">Label text for the channel tab name for sharing on smartcard creation</note>
-    </notes>
-      <segment >
-        <source>Channel</source>
-        <target>頻道</target>
-      </segment>
-    </unit>
     <unit id="br-ext.br-ext:CreateCard_user" translate="no">
       <notes>
       <note id="context">Label text for the usrs tab name for share on smartcard creation</note>
@@ -1089,7 +1071,7 @@
         <target>顯示較少</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_contentNotAvailable" translate="yes">
+    <unit id="br-ext.br-ext:Cards_contentNotAvailable" translate="no">
       <notes>
       <note id="context">A message indicating that the requested content is not available</note>
     </notes>
@@ -1098,7 +1080,7 @@
         <target>內容不可用</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_readableCardTypeQ&A" translate="yes">
+    <unit id="br-ext.br-ext:Cards_readableCardTypeQ&A" translate="no">
       <notes>
       <note id="context">Label for a Q&amp;A type of card</note>
     </notes>
@@ -1107,7 +1089,7 @@
         <target>問與答</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:Cards_loadMoreTextSingular" translate="yes">
+    <unit id="br-ext.br-ext:Cards_loadMoreTextSingular" translate="no">
       <notes>
       <note id="context">A button or link text indicating that one more comment can be displayed</note>
     </notes>
@@ -1654,15 +1636,6 @@
       <segment >
         <source>Assign Content to...</source>
         <target>指定內容給…</target>
-      </segment>
-    </unit>
-    <unit id="br-ext.br-ext:Cards_selectAll" translate="no">
-      <notes>
-      <note id="context">This text is used to display &quot;Select All&quot;.</note>
-    </notes>
-      <segment >
-        <source>Select All</source>
-        <target>選取全部</target>
       </segment>
     </unit>
     <unit id="br-ext.br-ext:Cards_noUserFound" translate="no">
@@ -2259,7 +2232,7 @@
         <target>從指派工作撤銷</target>
       </segment>
     </unit>
-    <unit id="br-ext.br-ext:MiniCard_insertLinkLabel" translate="yes">
+    <unit id="br-ext.br-ext:MiniCard_insertLinkLabel" translate="no">
       <notes>
       <note id="context">Button text to insert a link in a mini card</note>
     </notes>
@@ -2293,24 +2266,6 @@
       <segment >
         <source>You no longer have the permission to view this content.</source>
         <target>您不再具有查看此內容的權限。</target>
-      </segment>
-    </unit>
-    <unit id="br-ext.br-ext:MiniCard_miniPollCardLabels_vote" translate="no">
-      <notes>
-      <note id="context">Label text to be used as suffix for poll card vote count</note>
-    </notes>
-      <segment >
-        <source>vote</source>
-        <target>投票</target>
-      </segment>
-    </unit>
-    <unit id="br-ext.br-ext:MiniCard_miniPollCardLabels_votes" translate="no">
-      <notes>
-      <note id="context">Label text to be used as suffix for poll card vote count</note>
-    </notes>
-      <segment >
-        <source>votes</source>
-        <target>投票</target>
       </segment>
     </unit>
     <unit id="br-ext.br-ext:SearchPanel_resultBy" translate="yes">
@@ -2520,7 +2475,259 @@
         <target>服務條款</target>
       </segment>
     </unit>
-    <!-- File::widgets:: NewWords: 56, NewStrings: 13 -->
+    <unit id="br-ext.br-ext:CreateCard_linkErrorString" translate="yes">
+      <notes>
+      <note id="context">Error message for an invalid URL entry</note>
+    </notes>
+      <segment >
+        <source>Enter a valid URL</source>
+        <target>輸入有效的 URL</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Channels_noChannelContent" translate="yes">
+      <notes>
+      <note id="context">Message indicating the channel has no content.</note>
+    </notes>
+      <segment >
+        <source>Your channel has no content yet.</source>
+        <target>您的頻道尚無內容。</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Channels_selectChannel" translate="yes">
+      <notes>
+      <note id="context">Label prompting the user to select a channel.</note>
+    </notes>
+      <segment >
+        <source>Select Channel</source>
+        <target>選擇頻道</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardType_Attestation" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Attestation card.</note>
+    </notes>
+      <segment >
+        <source>Attestation</source>
+        <target>見證</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardType_CaseStudy" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Case Study card.</note>
+    </notes>
+      <segment >
+        <source>Case Study</source>
+        <target>​案例研究</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardType_Certification" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Certification card.</note>
+    </notes>
+      <segment >
+        <source>Certification</source>
+        <target>認證</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardType_CohortProgram" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Cohort Program card.</note>
+    </notes>
+      <segment >
+        <source>Cohort Program</source>
+        <target>類組課程表</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardType_Collection" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Collection card.</note>
+    </notes>
+      <segment >
+        <source>Collection</source>
+        <target>集合</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardType_Companionship" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Companionship card.</note>
+    </notes>
+      <segment >
+        <source>Companionship</source>
+        <target>同伴</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardType_CompetencyDiagnostic" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Competency Diagnostic card.</note>
+    </notes>
+      <segment >
+        <source>Competency Diagnostic</source>
+        <target>職能診斷</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardType_Diagram" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Diagram card.</note>
+    </notes>
+      <segment >
+        <source>Diagram</source>
+        <target>圖表</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardType_DirectedActivity" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Directed activity card.</note>
+    </notes>
+      <segment >
+        <source>Directed activity</source>
+        <target>引導式活動</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardType_DirectedReading" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Directed reading card.</note>
+    </notes>
+      <segment >
+        <source>Directed reading</source>
+        <target>引導式閱讀</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardType_Exposure" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Exposure card.</note>
+    </notes>
+      <segment >
+        <source>Exposure</source>
+        <target>陳列</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardType_Form" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Form card.</note>
+    </notes>
+      <segment >
+        <source>Form</source>
+        <target>表單</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardType_Forum" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Forum card.</note>
+    </notes>
+      <segment >
+        <source>Forum</source>
+        <target>論壇</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardType_Guidelines" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Guidelines card.</note>
+    </notes>
+      <segment >
+        <source>Guidelines</source>
+        <target>準則</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardType_Hybrid" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Hybrid card.</note>
+    </notes>
+      <segment >
+        <source>Hybrid</source>
+        <target>混合</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardType_Knowledge_Check" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Knowledge Check card.</note>
+    </notes>
+      <segment >
+        <source>Knowledge Check</source>
+        <target>知識測驗</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardType_Manuals" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Manuals card.</note>
+    </notes>
+      <segment >
+        <source>Manuals</source>
+        <target>手冊</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardType_Module" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Module card.</note>
+    </notes>
+      <segment >
+        <source>Module</source>
+        <target>模組</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardType_Playlist" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Playlist card.</note>
+    </notes>
+      <segment >
+        <source>Playlist</source>
+        <target>播放清單</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardType_Procedure" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Procedure card.</note>
+    </notes>
+      <segment >
+        <source>Procedure</source>
+        <target>程序</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardType_Quick_Reference_Guide" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Quick Reference Guide card.</note>
+    </notes>
+      <segment >
+        <source>Quick Reference Guide</source>
+        <target>快速參考指南</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardType_Reflection" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Reflection card.</note>
+    </notes>
+      <segment >
+        <source>Reflection</source>
+        <target>反映</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardType_SelfAssessment" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Self-Assessment card.</note>
+    </notes>
+      <segment >
+        <source>Self-Assessment</source>
+        <target>自我評估</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardType_SelfStudy" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Self-study card.</note>
+    </notes>
+      <segment >
+        <source>Self-study</source>
+        <target>自習式</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.br-ext:Cards_readableCardType_Activity" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Activity card.</note>
+    </notes>
+      <segment >
+        <source>Activity</source>
+        <target>活動</target>
+      </segment>
+    </unit>
+    <!-- File::widgets:: NewWords: 61, NewStrings: 30 -->
   </file>
   <file id="widgets:br-ext.common" original="packages/widgets/br-ext/labels/common.yaml" translate="yes">
     <notes>
@@ -2877,7 +3084,7 @@
         <target>即時線上</target>
       </segment>
     </unit>
-    <unit id="br-ext.common:liveStreamEndContentLabel" translate="yes">
+    <unit id="br-ext.common:liveStreamEndContentLabel" translate="no">
       <notes>
       <note id="context">A message indicating that the live stream has ended and the replay will soon be available on the company&apos;s platform</note>
     </notes>
@@ -2904,7 +3111,7 @@
         <target>直播結束</target>
       </segment>
     </unit>
-    <unit id="br-ext.common:loadMoreTextPlural" translate="yes">
+    <unit id="br-ext.common:loadMoreTextPlural" translate="no">
       <notes>
       <note id="context">A button or link text indicating that multiple additional comments can be displayed</note>
     </notes>
@@ -2913,7 +3120,7 @@
         <target>顯示更多 {{remainingComments}} 則評論</target>
       </segment>
     </unit>
-    <unit id="br-ext.common:linkTitle" translate="yes">
+    <unit id="br-ext.common:linkTitle" translate="no">
       <notes>
       <note id="context">Label indicating the content type is a link.</note>
     </notes>
@@ -2922,7 +3129,7 @@
         <target>連結</target>
       </segment>
     </unit>
-    <unit id="br-ext.common:channelsTitle" translate="yes">
+    <unit id="br-ext.common:channelsTitle" translate="no">
       <notes>
       <note id="context">Label for channels in the top bar</note>
     </notes>
@@ -2931,13 +3138,85 @@
         <target>頻道</target>
       </segment>
     </unit>
-    <!-- File::widgets:: NewWords: 17, NewStrings: 4 -->
+    <unit id="br-ext.common:voteTextSingular" translate="yes">
+      <notes>
+      <note id="context">Label text to be used as suffix for single vote count</note>
+    </notes>
+      <segment >
+        <source>vote</source>
+        <target>票</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.common:voteTextPlural" translate="yes">
+      <notes>
+      <note id="context">Label text to be used as suffix for multiple votes count</note>
+    </notes>
+      <segment >
+        <source>votes</source>
+        <target>票</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.common:openPoll" translate="yes">
+      <notes>
+      <note id="context">Label to open a poll in the mini / smart card poll card.</note>
+    </notes>
+      <segment >
+        <source>Open Poll</source>
+        <target>開啟投票</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.common:waitLabel" translate="yes">
+      <notes>
+      <note id="context">Label to indicate the user should wait.</note>
+    </notes>
+      <segment >
+        <source>Please wait for a few seconds...</source>
+        <target>請稍等幾秒鐘...</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.common:selectAll" translate="yes">
+      <notes>
+      <note id="context">This text is used to display &quot;Select All&quot;.</note>
+    </notes>
+      <segment >
+        <source>Select All</source>
+        <target>選取全部</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.common:resultsFor" translate="yes">
+      <notes>
+      <note id="context">Label to display results for a particular search.</note>
+    </notes>
+      <segment >
+        <source>results for</source>
+        <target>個結果關於</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.common:noResultFoundLabel" translate="yes">
+      <notes>
+      <note id="context">A label or message displayed when a search or query returns no results</note>
+    </notes>
+      <segment >
+        <source>No result found</source>
+        <target>找不到結果</target>
+      </segment>
+    </unit>
+    <unit id="br-ext.common:channel" translate="yes">
+      <notes>
+      <note id="context">Label text for the channel tab name for sharing on smartcard creation</note>
+    </notes>
+      <segment >
+        <source>Channel</source>
+        <target>頻道</target>
+      </segment>
+    </unit>
+    <!-- File::widgets:: NewWords: 18, NewStrings: 8 -->
   </file>
   <file id="widgets:teams.common" original="packages/widgets/teams/labels/common.yaml" translate="yes">
     <notes>
       <note id="n1">Edcast Translation file for widgets</note>
     </notes>
-    <unit id="teams.common:tryEdcastNow" translate="yes">
+    <unit id="teams.common:tryEdcastNow" translate="no">
       <notes>
       <note id="context">Text for the button to register on edcast</note>
     </notes>
@@ -4359,7 +4638,7 @@
         <target>直播結束</target>
       </segment>
     </unit>
-    <unit id="teams.common:videoReplay" translate="yes">
+    <unit id="teams.common:videoReplay" translate="no">
       <notes>
       <note id="context">Help text to be shown for LiveStream Ended Cards</note>
     </notes>
@@ -4683,7 +4962,7 @@
         <target>較少</target>
       </segment>
     </unit>
-    <unit id="teams.common:goTo" translate="yes">
+    <unit id="teams.common:goTo" translate="no">
       <notes>
       <note id="context">Describes a label or action that instructs users to navigate to another location.</note>
     </notes>
@@ -4692,7 +4971,7 @@
         <target>前往</target>
       </segment>
     </unit>
-    <unit id="teams.common:author" translate="yes">
+    <unit id="teams.common:author" translate="no">
       <notes>
       <note id="context">The Label text for the Author field in the filter in the search page</note>
     </notes>
@@ -4701,7 +4980,25 @@
         <target>作者</target>
       </segment>
     </unit>
-    <!-- File::widgets:: NewWords: 17, NewStrings: 4 -->
+    <unit id="teams.common:openPoll" translate="yes">
+      <notes>
+      <note id="context">Label to open a poll in the SmartCard.</note>
+    </notes>
+      <segment >
+        <source>Open Poll</source>
+        <target>公開投票</target>
+      </segment>
+    </unit>
+    <unit id="teams.common:myLearningPlan" translate="yes">
+      <notes>
+      <note id="context">Label indicating a section or feature related to the user&apos;s learning plan.</note>
+    </notes>
+      <segment >
+        <source>My Learning Plan</source>
+        <target>我的學習計劃</target>
+      </segment>
+    </unit>
+    <!-- File::widgets:: NewWords: 5, NewStrings: 2 -->
   </file>
   <file id="widgets:teams.teams" original="packages/widgets/teams/labels/teams.yaml" translate="yes">
     <notes>
@@ -4779,7 +5076,7 @@
         <target>年</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ChooseWorkspace_sparkByEdcast" translate="yes">
+    <unit id="teams.teams:ChooseWorkspace_sparkByEdcast" translate="no">
       <notes>
       <note id="context">A branding label indicating that the platform service is powered by the company</note>
     </notes>
@@ -4833,7 +5130,7 @@
         <target>登入您公司的帳戶</target>
       </segment>
     </unit>
-    <unit id="teams.teams:ChooseWorkspace_doesCompanyUseEdcast" translate="yes">
+    <unit id="teams.teams:ChooseWorkspace_doesCompanyUseEdcast" translate="no">
       <notes>
       <note id="context">Sectional heading text to get team name while logging in</note>
     </notes>
@@ -5094,7 +5391,7 @@
         <target>如果您想繼續，請勾選複選框</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Cards_carouselAdministrationLabel" translate="yes">
+    <unit id="teams.teams:Cards_carouselAdministrationLabel" translate="no">
       <notes>
       <note id="context">A message indicating that the user lacks permissions to manage carousels</note>
     </notes>
@@ -5103,7 +5400,7 @@
         <target>您目前無權管理任何輪播。請聯絡您的管理員尋求協助。</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Cards_byYouLabel" translate="yes">
+    <unit id="teams.teams:Cards_byYouLabel" translate="no">
       <notes>
       <note id="context">Label indicating that the content was created by the current user</note>
     </notes>
@@ -5112,7 +5409,7 @@
         <target>由您</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Cards_noCarouselsAvailableLabel" translate="yes">
+    <unit id="teams.teams:Cards_noCarouselsAvailableLabel" translate="no">
       <notes>
       <note id="context">A message indicating that there are no carousels available for display or management</note>
     </notes>
@@ -5121,7 +5418,7 @@
         <target>沒有可用的輪播</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Cards_uploadSmartCardThumbnail" translate="yes">
+    <unit id="teams.teams:Cards_uploadSmartCardThumbnail" translate="no">
       <notes>
       <note id="context">A label for uploading a SmartCard thumbnail image</note>
     </notes>
@@ -5130,7 +5427,7 @@
         <target>上傳智慧卡圖像</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Cards_readableCardTypeQ&A" translate="yes">
+    <unit id="teams.teams:Cards_readableCardTypeQ&A" translate="no">
       <notes>
       <note id="context">Label for a Q&amp;A type of card</note>
     </notes>
@@ -5139,7 +5436,7 @@
         <target>問與答</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Cards_liveCardUploadThumbnail" translate="yes">
+    <unit id="teams.teams:Cards_liveCardUploadThumbnail" translate="no">
       <notes>
       <note id="context">A label for uploading an image for an event card</note>
     </notes>
@@ -6957,7 +7254,7 @@
         <target>取消關注頻道</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Cards_scoreLabel" translate="yes">
+    <unit id="teams.teams:Cards_scoreLabel" translate="no">
       <notes>
       <note id="context">This text is used as skill score text in the Skill card</note>
     </notes>
@@ -9432,15 +9729,6 @@
         <target>排行榜</target>
       </segment>
     </unit>
-    <unit id="teams.teams:TopNav_myLearningPlan" translate="no">
-      <notes>
-      <note id="context">Label indicating a section or feature related to the user&apos;s learning plan.</note>
-    </notes>
-      <segment >
-        <source>My Learning Plan</source>
-        <target>我的學習計劃</target>
-      </segment>
-    </unit>
     <unit id="teams.teams:TopNav_gotoLabel" translate="no">
       <notes>
       <note id="context">Dynamic label with a placeholder for organization name, possibly used in a navigation context.</note>
@@ -10044,13 +10332,13 @@
         <target>項目</target>
       </segment>
     </unit>
-    <unit id="teams.teams:Channels_noChannelContent" translate="no">
+    <unit id="teams.teams:Channels_noChannelContent" translate="yes">
       <notes>
       <note id="context">Message displayed when a user&apos;s channel does not have any content.</note>
     </notes>
       <segment >
-        <source>Your channel has no content yet!</source>
-        <target>您的頻道尚無內容！</target>
+        <source>Your channel has no content yet.</source>
+        <target>您的頻道尚無內容。</target>
       </segment>
     </unit>
     <unit id="teams.teams:Channels_noCustomTabContent" translate="no">
@@ -11106,6 +11394,33 @@
         <target>去年</target>
       </segment>
     </unit>
+    <unit id="teams.teams:userProfile_quarter" translate="yes">
+      <notes>
+      <note id="context">This is to display label for Quarter in calendar year</note>
+    </notes>
+      <segment >
+        <source>Quarter {{number}}</source>
+        <target>季度 {{number}}</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:userProfile_myProfileNavItem" translate="yes">
+      <notes>
+      <note id="context">This is a nav item within the user profile for viewing users profile</note>
+    </notes>
+      <segment >
+        <source>My Profile</source>
+        <target>我的設定檔</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:userProfile_myContentNavItem" translate="yes">
+      <notes>
+      <note id="context">This is a nav item within the user profile for users content</note>
+    </notes>
+      <segment >
+        <source>My Content</source>
+        <target>我的內容</target>
+      </segment>
+    </unit>
     <unit id="teams.teams:userProfile_profilePrivateMessage" translate="no">
       <notes>
       <note id="context">Indicates a message informing users that a profile is private.</note>
@@ -11259,7 +11574,7 @@
         <target>您即將分享私人 {{cardType}}。只有已被分享此卡片的使用者才能存取它。</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_inReview" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_inReview" translate="no">
       <notes>
       <note id="context">A label that indicates status is in review</note>
     </notes>
@@ -11268,7 +11583,7 @@
         <target>檢閱中</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_score" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_score" translate="no">
       <notes>
       <note id="context">A label that indicates score range</note>
     </notes>
@@ -11277,7 +11592,7 @@
         <target>分數 {{number}}</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_gradeAToF" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_gradeAToF" translate="no">
       <notes>
       <note id="context">A label that indicates grade scoring range A-F</note>
     </notes>
@@ -11286,7 +11601,7 @@
         <target>等級 (A-F)</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_gradeAToG" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_gradeAToG" translate="no">
       <notes>
       <note id="context">A label that indicates grade scoring range A-G</note>
     </notes>
@@ -11295,7 +11610,7 @@
         <target>等級 (A-G)</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_manager" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_manager" translate="no">
       <notes>
       <note id="context">A label that indicates manager role</note>
     </notes>
@@ -11304,7 +11619,7 @@
         <target>主管</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_notApplicable" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_notApplicable" translate="no">
       <notes>
       <note id="context">A label that indicates not applicable</note>
     </notes>
@@ -11313,7 +11628,7 @@
         <target>n/a</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_unlimited" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_unlimited" translate="no">
       <notes>
       <note id="context">A label that indicates no limit on attempts or resources</note>
     </notes>
@@ -11322,7 +11637,7 @@
         <target>無限</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_maximumReattempts" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_maximumReattempts" translate="no">
       <notes>
       <note id="context">A label that indicates the maximum number of times a user can attempt a task or quiz</note>
     </notes>
@@ -11331,7 +11646,7 @@
         <target>最多重試次數</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_passingGrade" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_passingGrade" translate="no">
       <notes>
       <note id="context">A label that indicates the minimum grade required to pass a course or task</note>
     </notes>
@@ -11340,7 +11655,7 @@
         <target>及格等級</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_assignor" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_assignor" translate="no">
       <notes>
       <note id="context">A label that indicates the person or entity who assigned a task or project</note>
     </notes>
@@ -11349,7 +11664,7 @@
         <target>指派者</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_unapprovedWordError" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_unapprovedWordError" translate="no">
       <notes>
       <note id="context">An error message displayed when a user attempts to submit a URL that is not allowed</note>
     </notes>
@@ -11358,7 +11673,7 @@
         <target>很抱歉，您嘗試提交的 URL 來自未核准的網站或包含未核准的文字。</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_addRemarks" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_addRemarks" translate="no">
       <notes>
       <note id="context">A button or link text that allows the user to add new remarks</note>
     </notes>
@@ -11367,7 +11682,7 @@
         <target>新增備註</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_editRemarks" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_editRemarks" translate="no">
       <notes>
       <note id="context">A button or link text that allows the user to edit existing remarks</note>
     </notes>
@@ -11376,7 +11691,7 @@
         <target>編輯備註</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_addComment" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_addComment" translate="no">
       <notes>
       <note id="context">A button or link text that allows the user to add a new comment</note>
     </notes>
@@ -11385,7 +11700,7 @@
         <target>新增評論</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_editComment" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_editComment" translate="no">
       <notes>
       <note id="context">A button or link text that allows the user to edit an existing comment</note>
     </notes>
@@ -11394,7 +11709,7 @@
         <target>編輯評論</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_noSubmissionsYet" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_noSubmissionsYet" translate="no">
       <notes>
       <note id="context">A message indicating that no submissions have been made so far</note>
     </notes>
@@ -11403,7 +11718,7 @@
         <target>目前沒有人新增提交內容</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_addYourRemarksBelow" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_addYourRemarksBelow" translate="no">
       <notes>
       <note id="context">Instructional text prompting the user to enter remarks in a text area</note>
     </notes>
@@ -11412,7 +11727,7 @@
         <target>在下方新增您的備註</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_download" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_download" translate="no">
       <notes>
       <note id="context">A button or link text that allows the user to download a file or content</note>
     </notes>
@@ -11421,7 +11736,7 @@
         <target>下載</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_assignedDate" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_assignedDate" translate="no">
       <notes>
       <note id="context">A label that indicates the date when a task or project was assigned</note>
     </notes>
@@ -11430,7 +11745,7 @@
         <target>指定日期</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_submittedOn" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_submittedOn" translate="no">
       <notes>
       <note id="context">A label that denotes when the project was submitted</note>
     </notes>
@@ -11439,7 +11754,7 @@
         <target>提交日期</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SmartCardDetailView_submissions" translate="yes">
+    <unit id="teams.teams:SmartCardDetailView_submissions" translate="no">
       <notes>
       <note id="context">A label that describes the page or window</note>
     </notes>
@@ -11745,7 +12060,7 @@
         <target>無</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SortFilterOptions_bookMarkDateMostRecent" translate="yes">
+    <unit id="teams.teams:SortFilterOptions_bookMarkDateMostRecent" translate="no">
       <notes>
       <note id="context">Sorting option for displaying the most recent bookmarked items</note>
     </notes>
@@ -11754,7 +12069,7 @@
         <target>加入書籤日期：最近</target>
       </segment>
     </unit>
-    <unit id="teams.teams:SortFilterOptions_dueDateEarliest" translate="yes">
+    <unit id="teams.teams:SortFilterOptions_dueDateEarliest" translate="no">
       <notes>
       <note id="context">Sorting option for displaying items with the earliest due dates</note>
     </notes>
@@ -11826,7 +12141,268 @@
         <target>該物件不存在指定的欄位資料。無法執行快速搜尋。</target>
       </segment>
     </unit>
-    <!-- File::widgets:: NewWords: 131, NewStrings: 33 -->
+    <unit id="teams.teams:Cards_readableCardType_Attestation" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Attestation card.</note>
+    </notes>
+      <segment >
+        <source>Attestation</source>
+        <target>見證</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_readableCardType_CaseStudy" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Case Study card.</note>
+    </notes>
+      <segment >
+        <source>Case Study</source>
+        <target>​案例研究</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_readableCardType_Certification" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Certification card.</note>
+    </notes>
+      <segment >
+        <source>Certification</source>
+        <target>認證</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_readableCardType_CohortProgram" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Cohort Program card.</note>
+    </notes>
+      <segment >
+        <source>Cohort Program</source>
+        <target>類組課程表</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_readableCardType_Collection" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Collection card.</note>
+    </notes>
+      <segment >
+        <source>Collection</source>
+        <target>集合</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_readableCardType_Companionship" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Companionship card.</note>
+    </notes>
+      <segment >
+        <source>Companionship</source>
+        <target>同伴</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_readableCardType_CompetencyDiagnostic" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Competency Diagnostic card.</note>
+    </notes>
+      <segment >
+        <source>Competency Diagnostic</source>
+        <target>職能診斷</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_readableCardType_Diagram" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Diagram card.</note>
+    </notes>
+      <segment >
+        <source>Diagram</source>
+        <target>圖表</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_readableCardType_DirectedActivity" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Directed activity card.</note>
+    </notes>
+      <segment >
+        <source>Directed activity</source>
+        <target>引導式活動</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_readableCardType_DirectedReading" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Directed reading card.</note>
+    </notes>
+      <segment >
+        <source>Directed reading</source>
+        <target>引導式閱讀</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_readableCardType_Exposure" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Exposure card.</note>
+    </notes>
+      <segment >
+        <source>Exposure</source>
+        <target>陳列</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_readableCardType_Form" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Form card.</note>
+    </notes>
+      <segment >
+        <source>Form</source>
+        <target>表單</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_readableCardType_Forum" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Forum card.</note>
+    </notes>
+      <segment >
+        <source>Forum</source>
+        <target>論壇</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_readableCardType_Guidelines" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Guidelines card.</note>
+    </notes>
+      <segment >
+        <source>Guidelines</source>
+        <target>準則</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_readableCardType_Hybrid" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Hybrid card.</note>
+    </notes>
+      <segment >
+        <source>Hybrid</source>
+        <target>混合</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_readableCardType_Knowledge_Check" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Knowledge Check card.</note>
+    </notes>
+      <segment >
+        <source>Knowledge Check</source>
+        <target>知識測驗</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_readableCardType_Manuals" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Manuals card.</note>
+    </notes>
+      <segment >
+        <source>Manuals</source>
+        <target>手冊</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_readableCardType_Module" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Module card.</note>
+    </notes>
+      <segment >
+        <source>Module</source>
+        <target>模組</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_readableCardType_Playlist" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Playlist card.</note>
+    </notes>
+      <segment >
+        <source>Playlist</source>
+        <target>播放清單</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_readableCardType_Procedure" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Procedure card.</note>
+    </notes>
+      <segment >
+        <source>Procedure</source>
+        <target>程序</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_readableCardType_Quick_Reference_Guide" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Quick Reference Guide card.</note>
+    </notes>
+      <segment >
+        <source>Quick Reference Guide</source>
+        <target>快速參考指南</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_readableCardType_Reflection" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Reflection card.</note>
+    </notes>
+      <segment >
+        <source>Reflection</source>
+        <target>反映</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_readableCardType_SelfAssessment" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Self-Assessment card.</note>
+    </notes>
+      <segment >
+        <source>Self-Assessment</source>
+        <target>自我評估</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_readableCardType_SelfStudy" translate="yes">
+      <notes>
+      <note id="context">This text is used to display the type of card for the Self-study card.</note>
+    </notes>
+      <segment >
+        <source>Self-study</source>
+        <target>自習式</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_maxLimitString" translate="yes">
+      <notes>
+      <note id="context">This text is used as max limit for questions</note>
+    </notes>
+      <segment >
+        <source>Maximum {{limit}} questions per card</source>
+        <target>每張卡最多可有 {{limit}} 個問題</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_maxLimitOptionsPerQuestion" translate="yes">
+      <notes>
+      <note id="context">This text is used as max limit options per questions</note>
+    </notes>
+      <segment >
+        <source>Maximum {{limit}} options per question</source>
+        <target>每個問題最多 {{limit}} 個選項</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:Cards_addOptions" translate="yes">
+      <notes>
+      <note id="context">This text is used as a label for the add options button.\</note>
+    </notes>
+      <segment >
+        <source>Add Options</source>
+        <target>新增選項</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:ManagerDashboard_noAnnouncements" translate="yes">
+      <notes>
+      <note id="context">Text to be displayed when there are no announcements in the user&apos;s queue.</note>
+    </notes>
+      <segment >
+        <source>Nothing in your queue yet. Your Announcements will appear here.</source>
+        <target>您的隊列中尚無任何內容。您的公告將會顯示在這裡。</target>
+      </segment>
+    </unit>
+    <unit id="teams.teams:ManagerDashboard_announcements" translate="yes">
+      <notes>
+      <note id="context">This label is used for announcements</note>
+    </notes>
+      <segment >
+        <source>Announcements</source>
+        <target>公告</target>
+      </segment>
+    </unit>
+    <!-- File::widgets:: NewWords: 99, NewStrings: 34 -->
   </file>
-  <!-- XLIFF::widgets_zh-TW.xlf:: TotalNewWords: 221, TotalNewStrings: 54 -->
+  <!-- XLIFF::widgets_zh-TW.xlf:: TotalNewWords: 183, TotalNewStrings: 74 -->
 </xliff>
